@@ -186,3 +186,14 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 100_pendiente | Psidium hasslerianum | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | CAMBIANDO
 -------------------------------
+2022-02-18 21:35:29.287+00
+Se actualizó el registro 100_pendiente
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+100_pendiente | Psidium hasslerianumasdasd | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | holis
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+100_pendiente | Psidium hasslerianumasdasd | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | CAMBIANDO
+-------------------------------
