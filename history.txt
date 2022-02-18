@@ -1,0 +1,7 @@
+2022-02-18 19:31:17.119+00
+Se agregó el registro agregar prueba
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+agregar prueba | nuevo | referencia | categoria | subcategoria
+-------------------------------
