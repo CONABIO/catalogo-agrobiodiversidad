@@ -135,3 +135,21 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 cron2 | asdsdhola | holaref | nan | nan
 -------------------------------
+2022-02-18 20:58:03.634+00
+Se agregó el registro sa
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+sa | asd | asd | a | nan
+-------------------------------
+2022-02-18 21:00:50.692+00
+Se actualizó el registro sa
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+sa | asddsssf | asdsdfsdf | a | nan
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+sa | asd | asd | a | nan
+-------------------------------
