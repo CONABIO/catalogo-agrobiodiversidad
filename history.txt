@@ -44,3 +44,10 @@ Registro actual:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 100_pendiente | Psidium hasslerianum | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan
 -------------------------------
+2022-02-18 20:18:22.225+00
+Se agregó el registro nuevo id
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+nuevo id | nuevo taxon | nan | nan | nan
+-------------------------------
