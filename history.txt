@@ -124,3 +124,14 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 hola | para probar cron222334 | refsadasd | cat | sub
 -------------------------------
+2022-02-18 20:53:12.079+00
+Se actualizó el registro cron2
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+cron2 | asdsdhola | holaref | CAMBIOS PARA EL CRON | nan
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+cron2 | asdsdhola | holaref | nan | nan
+-------------------------------
