@@ -1,6 +1,6 @@
 id,createdAt,updatedAt,taxon,referencia,categoria_agrobiodiversidad,subcategoria_agrobiodiversidad
 agregar prueba,2022-02-18 19:31:17.119+00,2022-02-18 19:35:19.924+00,nuevo,cambié la referencia,categoria,subcategoria
-hola,2022-02-18 19:55:21.411+00,2022-02-18 20:31:36.268+00,para probar cron222,ref,cat,sub
+hola,2022-02-18 19:55:21.411+00,2022-02-18 20:34:56.84+00,para probar cron222,refsadasd,cat,sub
 7908ANGIO,2022-02-18 19:20:54.969+00,2022-02-18 19:20:54.969+00,Nopalea nuda,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Agrobiodiversidad,
 7914ANGIO,2022-02-18 19:20:54.977+00,2022-02-18 19:20:54.977+00,Nopalea karwinskiana,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Agrobiodiversidad,
 7991ANGIO,2022-02-18 19:20:54.981+00,2022-02-18 19:20:54.981+00,Lophophora diffusa,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Agrobiodiversidad,Semi-domesticada
