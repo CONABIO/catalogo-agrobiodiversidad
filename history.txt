@@ -84,3 +84,43 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 hola | para probar cron2223 | refsadasd | cat | sub
 -------------------------------
+2022-02-18 20:41:58.676+00
+Se actualizó el registro agregar prueba
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+agregar prueba | nuevo | cambié la referencia | categoriasadsad | subcategoria sadad
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+agregar prueba | nuevo | cambié la referencia | categoria | subcategoria
+-------------------------------
+2022-02-18 20:41:28.842+00
+Se actualizó el registro cron2
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+cron2 | asdsdhola | holaref | nan | nan
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+cron2 | asdsdhola | hola | nan | nan
+-------------------------------
+2022-02-18 20:42:16.229+00
+Se actualizó el registro agregar y cambiar
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+agregar y cambiar | taxon asdas | ref | cambie cat despues de agregar | subcat
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+agregar y cambiar | taxon | ref | cambie cat despues de agregar | subcat
+-------------------------------
+18/02/2022
+Se eliminó el registro hola
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+hola | para probar cron222334 | refsadasd | cat | sub
+-------------------------------
