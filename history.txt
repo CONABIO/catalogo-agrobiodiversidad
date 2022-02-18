@@ -5,3 +5,35 @@ Registro actual:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 agregar prueba | nuevo | referencia | categoria | subcategoria
 -------------------------------
+2022-02-18 19:35:19.924+00
+Se actualizó el registro agregar prueba
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+agregar prueba | nuevo | cambié la referencia | categoria | subcategoria
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+agregar prueba | nuevo | referencia | categoria | subcategoria
+-------------------------------
+2022-02-18 19:35:00.884+00
+Se agregó el registro para cambios
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+para cambios | cambios taxon | ref | cat | subcat
+-------------------------------
+2022-02-18 19:36:20.618+00
+Se agregó el registro agregar y cambiar y se actualizó en el mismo día.
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+agregar y cambiar | taxon | ref | cambie cat despues de agregar | subcat
+-------------------------------
+18/02/2022
+Se eliminó el registro 100_pendiente
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+100_pendiente | Psidium hasslerianum | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan
+-------------------------------
