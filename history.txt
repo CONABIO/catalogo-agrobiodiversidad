@@ -229,3 +229,24 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 001PRUEBA | TAXON | REF | nan | nan
 -------------------------------
+18/02/2022
+Se eliminó el registro 001PRUEBA
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+001PRUEBA | TAXON | REF | nan | nan
+-------------------------------
+18/02/2022
+Se eliminó el registro 102_pendiente
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+102_pendiente | Gossypium irenaeum | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente SilvestreCAMBIOOOOOOOO
+-------------------------------
+18/02/2022
+Se eliminó el registro 100_pendiente
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+100_pendiente | Psidium hasslerianumasdasd | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | holis
+-------------------------------
