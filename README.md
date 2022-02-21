@@ -1,5 +1,7 @@
 *Log de actualizaciones a la lista de taxones de agrobiodiversidad, mantenida por SIAgro.*
 
+*Para acceder a la [instancia](http://siagro.conabio.gob.mx:4751/) **se necesita estar dentro de la vpn*** 
+
 # Archivos que se pueden encontrar en el repositorio:
 * agro_actual.csv: 
   Información actualizada de la instancia de agrobiodiversidad
