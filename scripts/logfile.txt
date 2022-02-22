@@ -5,10 +5,10 @@ Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
 Comparando archivos...
 git add agro_actual.csv y history.txt
 git commit
-[main eab8f8e] validacion diaria de registros
- 2 files changed, 12 insertions(+), 1 deletion(-)
+[main 330702e] validacion diaria de registros
+ 3 files changed, 18 insertions(+), 14 deletions(-)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   e736982..eab8f8e  main -> main
+   eab8f8e..330702e  main -> main
 Proceso terminado!
 git add scripts/logfile.txt
