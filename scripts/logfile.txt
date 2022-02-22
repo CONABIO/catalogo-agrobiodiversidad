@@ -1,0 +1,21 @@
+Empieza validación de actualizaciones diarias
+
+Cambiando nombre de archivos...
+Descargando archivo nuevo...
+Comparando archivos...
+git add agro_actual.csv y history.txt
+git commit
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+	actualizaciones_agro.sh
+	agro_anterior.csv
+	compare.py
+	logfile.txt
+	pruebas.sh
+
+nothing added to commit but untracked files present
+git push
+Everything up-to-date
+Proceso terminado!
