@@ -1,21 +1,14 @@
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
-Descargando archivo nuevo...
+Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
 Comparando archivos...
 git add agro_actual.csv y history.txt
 git commit
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Untracked files:
-	actualizaciones_agro.sh
-	agro_anterior.csv
-	compare.py
-	logfile.txt
-	pruebas.sh
-
-nothing added to commit but untracked files present
+[main eab8f8e] validacion diaria de registros
+ 2 files changed, 12 insertions(+), 1 deletion(-)
 git push
-Everything up-to-date
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   e736982..eab8f8e  main -> main
 Proceso terminado!
+git add scripts/logfile.txt
