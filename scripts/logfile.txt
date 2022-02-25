@@ -1,13 +1,13 @@
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
-Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
+Descargando archivo nuevo...
 Comparando archivos...
 git add agro_actual.csv y history.txt
 git commit
-[main 86b60ee] validacion diaria de registros
- 2 files changed, 2885 insertions(+), 2874 deletions(-)
+[main 7ab71ec] validacion diaria de registros
+ 2 files changed, 2896 insertions(+), 2874 deletions(-)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   a8ede42..86b60ee  main -> main
+   3aee3c2..7ab71ec  main -> main
 Proceso terminado!
