@@ -9,3 +9,14 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 9_pendiente | Crotalaria laburnifolia | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre
 -------------------------------
+2022-02-25 01:58:32.414+00
+Se actualizó el registro 100_pendiente
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+100_pendiente | Psidium hasslerianum | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Desde el celular
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+100_pendiente | Psidium hasslerianum | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan
+-------------------------------
