@@ -5,9 +5,9 @@ Descargando archivo nuevo...
 Comparando archivos...
 git add agro_actual.csv y history.txt
 git commit
-[main 7ab71ec] validacion diaria de registros
- 2 files changed, 2896 insertions(+), 2874 deletions(-)
+[main e29f448] validacion diaria de registros
+ 2 files changed, 48 insertions(+), 4 deletions(-)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   3aee3c2..7ab71ec  main -> main
+   9fc50c5..e29f448  main -> main
 Proceso terminado!
