@@ -1,6 +1,6 @@
 Empieza validación de actualizaciones diarias
 
-./pruebas.sh: 5: printf: Illegal option -v
+2022-02-28
 Cambiando nombre de archivos...
 Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
 Comparando archivos...
