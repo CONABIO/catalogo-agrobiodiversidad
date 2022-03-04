@@ -1,29 +1,25 @@
-Thu Mar 3 22:16:30 CST 2022
+Thu Mar 3 22:24:08 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
 Comparando archivos...
-Traceback (most recent call last):
-  File "compare.py", line 11, in <module>
-    df_CSV_1 = pd.DataFrame(array1, columns=['id','createdAt','updatedAt','taxon','referencia','categoria_agrobiodiversidad','subcategoria_agrobiodiversidad'])
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 497, in __init__
-    mgr = init_ndarray(data, index, columns, dtype=dtype, copy=copy)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/construction.py", line 234, in init_ndarray
-    return create_block_manager_from_blocks(block_values, [columns, index])
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 1674, in create_block_manager_from_blocks
-    mgr = BlockManager(blocks, axes)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 149, in __init__
-    self._verify_integrity()
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 332, in _verify_integrity
-    "Number of manager items must equal union of "
-AssertionError: Number of manager items must equal union of block items
-# manager items: 7, # tot_items: 9
 git add agro_actual.csv y history.txt
 git commit
-[main 39486c7] validacion diaria de registros
- 1 file changed, 2874 insertions(+), 2874 deletions(-)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+	modified:   scripts/logfile.txt
+
+Untracked files:
+	actualizaciones_agro.sh
+	agro_anterior.csv
+	compare.py
+	logfile.txt
+	pruebas.sh
+
+no changes added to commit
 git push
-To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   febcbc4..39486c7  main -> main
+Everything up-to-date
 Proceso terminado!
