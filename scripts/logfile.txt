@@ -1,8 +1,8 @@
-Thu Mar 3 20:00:01 CST 2022
+Thu Mar 3 22:16:30 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
-Descargando archivo nuevo...
+Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
 Comparando archivos...
 Traceback (most recent call last):
   File "compare.py", line 11, in <module>
@@ -21,9 +21,9 @@ AssertionError: Number of manager items must equal union of block items
 # manager items: 7, # tot_items: 9
 git add agro_actual.csv y history.txt
 git commit
-[main 4f233c6] validacion diaria de registros
+[main 39486c7] validacion diaria de registros
  1 file changed, 2874 insertions(+), 2874 deletions(-)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   8483b81..4f233c6  main -> main
+   febcbc4..39486c7  main -> main
 Proceso terminado!
