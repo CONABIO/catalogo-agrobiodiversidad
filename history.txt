@@ -42,3 +42,45 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
 9_pendiente | Crotalaria laburnifolia | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Prueba para 23 feb | Pariente Silvestre
 -------------------------------
+2022-03-07 19:02:25.445+00
+Se agregó el registro nuevo
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+nuevo | taxon | nan | nan | nan
+-------------------------------
+2022-03-07 19:19:22.37+00
+Se agregó el registro prueba
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+prueba | hola | nan | nan | nan
+-------------------------------
+2022-03-07 19:26:16.972+00
+Se agregó el registro probando
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+probando | hola | nan | nan | nan
+-------------------------------
+2022-03-07 19:35:16.704+00
+Se agregó el registro zxcxzc
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+zxcxzc | xcxzc | nan | nan | nan
+-------------------------------
+2022-03-07 20:27:37.532+00
+Se agregó el registro probando en puerto
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+probando en puerto | osidalksdjad | nan | nan | nan
+-------------------------------
+2022-03-07 21:24:05.239+00
+Se agregó el registro dfsdf
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad
+dfsdf | sdfsdf | nan | nan | nan
+-------------------------------
