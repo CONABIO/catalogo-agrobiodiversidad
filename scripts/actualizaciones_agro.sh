@@ -8,8 +8,8 @@ echo "Descargando archivo nuevo..."
 docker exec etiqueta-postgres psql -U postgres -d zendro_development -c "COPY agrobiodiversidads TO STDOUT WITH CSV HEADER" > agro_actual.csv
 echo "Comparando archivos..."
 /usr/bin/python3 compare.py
-echo "git add agro_actual.csv y history.txt"
-/usr/bin/git add agro_actual.csv history.txt
+echo "git add history.txt"
+/usr/bin/git add history.txt
 echo "git commit"
 /usr/bin/git commit -m "validacion diaria de registros"
 echo "git push"
