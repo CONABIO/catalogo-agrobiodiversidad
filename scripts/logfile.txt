@@ -1,4 +1,4 @@
-Mon Mar 14 13:04:48 CST 2022
+Mon Mar 14 13:13:01 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -6,15 +6,9 @@ Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
 Comparando archivos...
 git add history.txt
 git commit
-[main ca851c4] validacion diaria de registros
+[main c337c7b] validacion diaria de registros
  1 file changed, 11 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
- ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'git@github.com:CONABIO/catalogo-agrobiodiversidad.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+   f3333e7..c337c7b  main -> main
 Proceso terminado!
