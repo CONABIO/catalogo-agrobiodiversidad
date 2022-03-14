@@ -145,3 +145,53 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
 prueba | hola | nan | nan | nan | nan | nan
 -------------------------------
+2022-03-14 18:47:10.898+00
+Se actualizó el registro 10308ANGIO
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+10308ANGIO | Opuntia basilaris | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan | nan | 10305ANGIO
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+10308ANGIO | Opuntia basilaris | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan | nan | nan
+-------------------------------
+2022-03-14 18:47:35.862+00
+Se agregó el registro PRUEBAANGIO
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+PRUEBAANGIO | ASAS | ASS | nan | nan | nan | ASSAS
+-------------------------------
+2022-03-14 19:01:26.947+00
+Se agregó el registro MODIFICAANGIO y se actualizó en el mismo día.
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+MODIFICAANGIO | KLLKMKLM | LLKML | sdfsdf | nan | nan | nan
+-------------------------------
+2022-03-14 19:01:52.067+00
+Se actualizó el registro sdfsfsdf
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+sdfsfsdf | sdfsf | sdfsdfsf | nan | nan | asdad | asadad
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+sdfsfsdf | sdfsf | nan | nan | nan | asdad | asadad
+-------------------------------
+14/03/2022
+Se eliminó el registro 10305ANGIO
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+10305ANGIO | Opuntia arenaria | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan | nan | nan
+-------------------------------
+14/03/2022
+Se eliminó el registro zxcxzc
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+zxcxzc | xcxzc | nan | nan | nan | nan | nan
+-------------------------------
