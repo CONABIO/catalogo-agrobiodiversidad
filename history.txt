@@ -127,3 +127,21 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
 probando | hola | nan | nan | nan | nan | nan
 -------------------------------
+2022-03-14 18:43:56.398+00
+Se actualizó el registro probando en puerto
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+probando en puerto | osidalksdjad | nan | nan | nan | nan | prueba
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+probando en puerto | osidalksdjad | nan | nan | nan | nan | nan
+-------------------------------
+14/03/2022
+Se eliminó el registro prueba
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+prueba | hola | nan | nan | nan | nan | nan
+-------------------------------
