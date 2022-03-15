@@ -1,24 +1,9 @@
-Tue Mar 15 17:25:21 CST 2022
+Tue Mar 15 17:27:27 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
 Comparando archivos...
-Traceback (most recent call last):
-  File "compare.py", line 12, in <module>
-    df_CSV_2 = pd.DataFrame(array2, columns=['id','createdAt','updatedAt','taxon','referencia','categoria_agrobiodiversidad','subcategoria_agrobiodiversidad','justificacion_subcategoria','comentarios_revision','usuario'])
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 497, in __init__
-    mgr = init_ndarray(data, index, columns, dtype=dtype, copy=copy)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/construction.py", line 234, in init_ndarray
-    return create_block_manager_from_blocks(block_values, [columns, index])
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 1674, in create_block_manager_from_blocks
-    mgr = BlockManager(blocks, axes)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 149, in __init__
-    self._verify_integrity()
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 332, in _verify_integrity
-    "Number of manager items must equal union of "
-AssertionError: Number of manager items must equal union of block items
-# manager items: 10, # tot_items: 9
 git add history.txt
 git commit
 On branch main
