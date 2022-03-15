@@ -1,14 +1,14 @@
-Mon Mar 14 13:16:43 CST 2022
+Mon Mar 14 20:00:01 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
-Descargando archivo nuevo... SE LE TIENE QUE QUITAR EL -it
+Descargando archivo nuevo...
 Comparando archivos...
 git add history.txt
 git commit
-[main 9631b63] validacion diaria de registros
- 1 file changed, 11 insertions(+)
+[main 7675f74] validacion diaria de registros
+ 1 file changed, 42 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   1a06d47..9631b63  main -> main
+   bd6db5c..7675f74  main -> main
 Proceso terminado!
