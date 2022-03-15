@@ -1,0 +1,42 @@
+2022-03-15 01:15:16.455+00
+Se agregó el registro pruebauser y se actualizó en el mismo día.
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+pruebauser | sadasd | asdad | nan | nan | nan | nan
+-------------------------------
+2022-03-15 01:15:45.993+00
+Se agregó el registro sadasdasd
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+sadasdasd | asdasd | asdad | nan | nan | nan | nan
+-------------------------------
+2022-03-15 01:24:17.009+00
+Se agregó el registro qweqwe
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+qweqwe | qweqwe | qweqe | nan | nan | nan | nan
+-------------------------------
+2022-03-15 01:25:17.73+00
+Se agregó el registro tyutyu
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+tyutyu | tytu | tyutyu | nan | nan | nan | nan
+-------------------------------
+2022-03-15 01:26:14.98+00
+Se agregó el registro xzczxczc
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+xzczxczc | zxczxc | zxczc | nan | nan | nan | nan
+-------------------------------
+2022-03-15 01:29:11.046+00
+Se agregó el registro ujghjghj
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+ujghjghj | ghjghj | ghjghj | nan | nan | nan | nan
+-------------------------------
