@@ -245,3 +245,18 @@ modificando_nuevo2 | hola | hola | categoria | nan | nan | nan | vivian
 Registro anterior:
 nuevo modifica | hola | referencia | vat | sub | justificacion | comentarios | vivian
 -------------------------------
+2022-03-15 20:41:48
+Se agregó el registro prueba2 por: vivian
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+prueba2 | hola2 | hola2 | nan | nan | nan | nan
+-------------------------------
+2022-03-15 20:42:05
+Se actualizó el registro prueba por: vivian
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario
+prueba | hola | hola | mod categoria | nan | nan | nan | vivian
+Registro anterior:
+nuevo modifica | hola | referencia | vat | sub | justificacion | comentarios | vivian
+-------------------------------
