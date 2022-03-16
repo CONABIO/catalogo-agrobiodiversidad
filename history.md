@@ -219,3 +219,14 @@ id10 | taxon4 | ref4 | nan | nan | nan | nan
  | id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | 
  | -- | ----- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  |  | qwe | qwe | qe | nan | nan | nan | nan | 
 -------------------------------
+
+#### 2022-03-16 13:16:34
+
+#### Se agregó el registro qwer por el usuario vivian
+
+**Registro actual:**
+
+ | id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | 
+ | -- | ----- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  | 
+ | qwer | qwer | qwer | nan | nan | nan | nan | 
+-------------------------------
