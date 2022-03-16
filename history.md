@@ -108,18 +108,104 @@ Registro actual:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
 id6 | taxon6 | ref6 | cat6 | nan | nan | nan
 -------------------------------
-#### 2022-03-16 10:39:15
+2022-03-16 10:39:15
+Se agregó el registro id5 por el usuario vivian
 
-#### Se agregó el registro id5 por el usuario vivian
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id5 | taxon5 | ref5 | nan | nan | nan | nan
+-------------------------------
+
+####2022-03-16 13:08:57
+
+#### Se agregó el registro id20 por el usuario vivian
 
 **Registro actual:**
 
-| id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision |
-| -- | ----- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  | 
-| id5 | taxon5 | ref5 | nan | nan | nan | nan |
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id20 | taxon20 | ref20 | nan | nan | nan | nan
 -------------------------------
-| fecha | ID | Tipo cambio      | Campo | Valor anterior | Valor actual | Quién |
-|  ---   | --- | ---------------  | ------- | -------------  | -----------  | ------  | 
-|          |     |  Nuevo registro |             |                       |                   |            | 
-|          |     |  Borrar registro |             |                       |                   |            | 
-|          |     |  Editar registro  | Taxon    |    xxx              |      yyy       |            | 
+
+####2022-03-16 13:08:45
+
+#### Se actualizó el registro 115_pendiente por el usuario vivian
+
+**Registro actual:**
+
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario
+115_pendiente | Parmentiera trunciflora | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | subcat | just | asdasd | vivian
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario
+115_pendiente | Parmentiera trunciflora | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | subcat | just | nan | vivian
+-------------------------------
+
+####2022-03-16 10:58:58
+
+#### Se agregó el registro id11 por el usuario nan
+
+**Registro actual:**
+
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id11 | taxon1 | ref1 | nan | nan | nan | nan
+-------------------------------
+
+####2022-03-16 10:58:58
+
+#### Se agregó el registro id12 por el usuario nan
+
+**Registro actual:**
+
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id12 | taxon2 | ref2 | nan | nan | nan | nan
+-------------------------------
+
+####2022-03-16 13:09:11
+
+#### Se agregó el registro id21 por el usuario vivian
+
+**Registro actual:**
+
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id21 | taxon21 | ref21 | nan | nan | nan | nan
+-------------------------------
+
+####2022-03-16 10:54:32
+
+#### Se agregó el registro id7 por el usuario nan
+
+**Registro actual:**
+
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id7 | taxon1 | ref1 | nan | nan | nan | nan
+-------------------------------
+
+####2022-03-16 10:54:32
+
+#### Se agregó el registro id8 por el usuario nan
+
+**Registro actual:**
+
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id8 | taxon2 | ref2 | nan | nan | nan | nan
+-------------------------------
+
+####2022-03-16 10:54:32
+
+#### Se agregó el registro id9 por el usuario nan
+
+**Registro actual:**
+
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id9 | taxon3 | ref3 | nan | nan | nan | nan
+-------------------------------
+
+####2022-03-16 10:54:32
+
+#### Se agregó el registro id10 por el usuario nan
+
+**Registro actual:**
+
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id10 | taxon4 | ref4 | nan | nan | nan | nan
+-------------------------------
