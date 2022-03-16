@@ -291,3 +291,22 @@ id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodive
  | -- | ----- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  | 
  | 115_nuevo | Parmentiera trunciflora | asdasd | nan | nan | nan | nan | 
 -------------------------------
+3/16/2022, 1:29:42 PM
+Se eliminó el registro 116_pendiente por el usuario vivian
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+116_pendiente | Ipomoea wallii | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Semi-domesticada | dsf | null
+-------------------------------
+
+#### 2022-03-16 13:30:07
+
+#### Se actualizó el registro 116_nuevo por el usuario vivian
+
+**Registro actual:**
+
+ | id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario | 
+ | 116_nuevo | Ipomoea wallii | ref nuevvo | nan | nan | nan | nan | vivian | 
+Registro anterior:
+ | 116_pendiente | Ipomoea wallii | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Semi-domesticada | dsf | nan | vivian | 
+-------------------------------
