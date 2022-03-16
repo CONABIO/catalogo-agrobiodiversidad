@@ -310,3 +310,27 @@ id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodive
 Registro anterior:
  | 116_pendiente | Ipomoea wallii | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Semi-domesticada | dsf | nan | vivian | 
 -------------------------------
+3/16/2022, 1:32:57 PM
+Se eliminó el registro 118_pendiente por el usuario vivian
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+118_pendiente | Ipomoea pandurata | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | null | null
+-------------------------------
+
+#### 2022-03-16 13:33:20
+
+#### Se actualizó el registro 118_nuevo por el usuario vivian
+
+**Registro actual:**
+
+ | id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario | 
+ | -- | ----- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  | ------- | 
+ | 118_nuevo | Ipomoea pandurata | ref | nan | nan | nan | nan | vivian | 
+
+Registro anterior:
+
+ | id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario | 
+ | -- | ----- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  | ------- | 
+ | 118_pendiente | Ipomoea pandurata | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | nan | nan | nan | 
+-------------------------------
