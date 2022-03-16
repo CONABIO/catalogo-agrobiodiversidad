@@ -18,3 +18,13 @@ Registro anterior:
 | -- | --------------------------- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  | 
  | 116_nuevo | Ipomoea wallii | ref nuevvo | null | null | null | null | 
 -------------------------------
+
+#### 3/16/2022, 1:39:40 PM
+
+#### Se eliminó el registro 118_nuevo por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | 
+| -- | -- | --  | -- | --  | --  | --  | 
+ | 118_nuevo | Ipomoea pandurata | ref | null | null | null | null | 
+-------------------------------
