@@ -48,3 +48,31 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
 117_pendiente | Ipomoea littoralis | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | null | null
 -------------------------------
+2022-03-15 22:16:32
+Se agregó el registro id1 por: nan
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id1 | taxon1 | ref1 | nan | nan | nan | nan
+-------------------------------
+2022-03-15 22:16:32
+Se agregó el registro id2 por: nan
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id2 | taxon2 | ref2 | nan | nan | nan | nan
+-------------------------------
+2022-03-15 22:16:32
+Se agregó el registro id3 por: nan
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id3 | taxon3 | ref3 | nan | nan | nan | nan
+-------------------------------
+2022-03-15 22:16:32
+Se agregó el registro id4 por: nan
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+id4 | taxon4 | ref4 | nan | nan | nan | nan
+-------------------------------
