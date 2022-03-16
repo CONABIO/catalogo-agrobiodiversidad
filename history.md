@@ -108,9 +108,9 @@ Registro actual:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
 id6 | taxon6 | ref6 | cat6 | nan | nan | nan
 -------------------------------
-##### 2022-03-16 10:39:15
+#### 2022-03-16 10:39:15
 
-##### Se agregó el registro id5 por el usuario vivian
+#### Se agregó el registro id5 por el usuario vivian
 
 **Registro actual:**
 
