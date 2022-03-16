@@ -237,3 +237,11 @@ mod nuevo | nuevo taxon | mod referencia | nan | nan | nan | nan | vivian
 Registro anterior:
 nuevo | nuevo taxon | nueva referencia | nan | nan | nan | nan | vivian
 -------------------------------
+2022-03-15 20:37:58
+Se actualizó el registro modificando_nuevo2 por: vivian
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario
+modificando_nuevo2 | hola | hola | categoria | nan | nan | nan | vivian
+Registro anterior:
+nuevo modifica | hola | referencia | vat | sub | justificacion | comentarios | vivian
+-------------------------------
