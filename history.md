@@ -73,3 +73,23 @@
  | -- | -- | --  | -- | --  | --  | --  | -- | 
  | 124_pendiente | Solanum argentinum | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan | nan | nan | nan | 
 -------------------------------
+
+#### 3/16/2022, 3:16:06 PM
+
+#### Se eliminó el registro 121_pendiente por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | 
+| -- | -- | --  | -- | --  | --  | --  | 
+ | 121_pendiente | Physalis viscosa cinerascens | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | null | null | null | 
+-------------------------------
+
+#### 3/16/2022, 3:29:48 PM
+
+#### Se eliminó el registro id55 por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | 
+| -- | -- | --  | -- | --  | --  | --  | 
+ | id55 | tax55 | ref | cat | sub | just | com | 
+-------------------------------
