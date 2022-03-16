@@ -84,3 +84,28 @@ Registro anterior:
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario
 103_pendiente | Rumex persicarioides | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan | nan | nan | nan
 -------------------------------
+2022-03-16 01:06:32.327+00
+Se actualizó el registro 10647ANGIOpor: vivian
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revisionusuario
+10647ANGIO | Opuntia cochinera | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | asdasd | nan | nan | vivian
+
+Registro anterior: 
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+10647ANGIO | Opuntia cochinera | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | nan | nan | nan | nan
+-------------------------------
+2022-03-16 01:07:38.228+00
+Se agregó el registro nuevo modifica y se actualizó en el mismo día por: vivian
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+nuevo modifica | hola | referencia | vat | sub | justificacion | comentarios
+-------------------------------
+2022-03-16 01:06:46.548+00
+Se agregó el registro nuevopor: vivian
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | 
+nuevo | nuevo taxon | nueva referencia | nan | nan | nan | nan
+-------------------------------
