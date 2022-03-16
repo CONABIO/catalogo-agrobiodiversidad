@@ -260,3 +260,10 @@ prueba | hola | hola | mod categoria | nan | nan | nan | vivian
 Registro anterior:
 nuevo modifica | hola | referencia | vat | sub | justificacion | comentarios | vivian
 -------------------------------
+2022-03-15 20:43:37
+Se agregó el registro prueba3 y se actualizó en el mismo día por: vivian
+
+Registro actual:
+id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
+prueba3 | taxon3 | ref3 | cat3 | nan | nan | nan
+-------------------------------
