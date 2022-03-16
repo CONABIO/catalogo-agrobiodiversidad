@@ -1,29 +1,32 @@
-Wed Mar 16 15:31:41 CST 2022
+Wed Mar 16 15:35:11 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Comparando archivos...
-Traceback (most recent call last):
-  File "compare.py", line 12, in <module>
-    df_CSV_1 = pd.DataFrame(array1, columns=['id','createdAt','updatedAt','taxon','referencia','categoria_agrobiodiversidad','subcategoria_agrobiodiversidad','justificacion_subcategoria','comentarios_revision','usuario'])
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 497, in __init__
-    mgr = init_ndarray(data, index, columns, dtype=dtype, copy=copy)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/construction.py", line 234, in init_ndarray
-    return create_block_manager_from_blocks(block_values, [columns, index])
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 1674, in create_block_manager_from_blocks
-    mgr = BlockManager(blocks, axes)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 149, in __init__
-    self._verify_integrity()
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/internals/managers.py", line 332, in _verify_integrity
-    "Number of manager items must equal union of "
-AssertionError: Number of manager items must equal union of block items
-# manager items: 10, # tot_items: 13
+Index(['id', 'createdAt', 'updatedAt', 'taxon', 'estatus', 'id_valido',
+       'taxon_valido', 'referencia', 'categoria_agrobiodiversidad',
+       'subcategoria_agrobiodiversidad', 'justificacion_subcategoria',
+       'comentarios_revision', 'usuario'],
+      dtype='object')
 git add history.md
 git commit
-[main b9822a2] validacion diaria de registros
- 1 file changed, 20 insertions(+)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+	modified:   scripts/logfile.txt
+
+Untracked files:
+	actualizaciones_agro.sh
+	agro_actual.csv
+	agro_anterior.csv
+	compare.py
+	logfile.txt
+	prueba.csv
+	pruebas.sh
+
+no changes added to commit
 git push
-To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   920aaab..b9822a2  main -> main
+Everything up-to-date
 Proceso terminado!
