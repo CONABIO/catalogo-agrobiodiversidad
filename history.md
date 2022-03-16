@@ -209,3 +209,13 @@ id9 | taxon3 | ref3 | nan | nan | nan | nan
 id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision
 id10 | taxon4 | ref4 | nan | nan | nan | nan
 -------------------------------
+
+#### 2022-03-16 13:14:49
+
+#### Se agregó el registro qwe por el usuario vivian
+
+**Registro actual:**
+
+ | id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | 
+ | -- | ----- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  |  | qwe | qwe | qe | nan | nan | nan | nan | 
+-------------------------------
