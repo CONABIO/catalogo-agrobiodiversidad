@@ -114,6 +114,7 @@ Se agregó el registro id5 por el usuario vivian
 Registro actual:
 
 | id | taxon | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision |
+| -- | ----- | ---------  | --------------------------- | -----------------------------  | -------------------------  | -------------------  | 
 | id5 | taxon5 | ref5 | nan | nan | nan | nan |
 -------------------------------
 | fecha | ID | Tipo cambio      | Campo | Valor anterior | Valor actual | Quién |
