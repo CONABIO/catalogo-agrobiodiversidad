@@ -40,3 +40,20 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | valida8 | taxonvalida8 | nan | nan | nan | nan | nan | nan | nan | nan | nan | 
 -------------------------------
+
+#### 2022-03-16 20:23:18
+
+#### Se actualizó el registro id21 por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id21 | taxon21 | dsghg | nan | nan | ref21 | nan | nan | nan | nan | vivian | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id21 | taxon21 | nan | nan | nan | ref21 | nan | nan | nan | nan | vivian | 
+-------------------------------
