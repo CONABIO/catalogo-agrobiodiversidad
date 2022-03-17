@@ -1,16 +1,29 @@
-Thu Mar 17 13:44:02 CST 2022
+Thu Mar 17 13:52:42 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-Termina comparación de archivos
+Traceback (most recent call last):
+  File "compare.py", line 133, in <module>
+    main()
+  File "compare.py", line 131, in main
+    compareFiles(df_CSV_1,df_CSV_2,'/home/vbass/etiquetas/etiquetas/graphql-server/history.txt','/home/vbass/etiquetas/etiquetas/graphql-server/changelog.txt')
+  File "compare.py", line 72, in compareFiles
+    date = getDate(df_CSV_1.updatedAt[i])
+  File "compare.py", line 33, in getDate
+    date = datetime.strptime(date[0], "%d-%m-%Y %H:%M:%S" )
+  File "/usr/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
+    tt, fraction = _strptime(data_string, format)
+  File "/usr/lib/python3.6/_strptime.py", line 362, in _strptime
+    (data_string, format))
+ValueError: time data '2022-03-17 02:23:18' does not match format '%d-%m-%Y %H:%M:%S'
 git add history.md changelog.md
 git commit
-[main 75b99ee] validacion diaria de registros
- 2 files changed, 11 insertions(+)
+[main 9ebed9c] validacion diaria de registros
+ 2 files changed, 33 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   4f9161f..75b99ee  main -> main
+   6d39816..9ebed9c  main -> main
 Proceso terminado!
