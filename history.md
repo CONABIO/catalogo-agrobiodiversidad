@@ -260,3 +260,14 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | id63 | tax63 | es63 | nan | nan | nan | nan | nan | nan | nan | vivian | 
 -------------------------------
+
+#### 2022-03-17 11:52:05
+
+#### Se agregó el registro id64 por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id64 | tax64 | es64 | nan | nan | nan | nan | nan | nan | nan | vivian | 
+-------------------------------
