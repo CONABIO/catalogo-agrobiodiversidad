@@ -15,3 +15,7 @@
 | 3-17-2022 | 13008ANGIO | Editar registro | estatus | nan | valido | vivian |
 | 3-17-2022 | 13008ANGIO | Editar registro | id_valido | nan | 13008ANGIO | vivian |
 | 3-17-2022 | id90 | Nuevo registro | - | - | - | vivian |
+| undefined-3-undefined | 129_pendiente | Borrar registro | - | - | - | vivian | 
+| undefined-3-undefined | 12_pendiente | Borrar registro | - | - | - | vivian | 
+| 2022-3-17 | 13008ANGIO | Borrar registro | - | - | - | vivian | 
+| 2022-3-17 | 13027ANGIO | Editar registro | estatus | nan | zxczxc | vivian |

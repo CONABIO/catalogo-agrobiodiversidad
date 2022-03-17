@@ -137,3 +137,50 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | id90 | taxon | estatus | nan | nan | nan | nan | nan | nan | nan | vivian | 
 -------------------------------
+
+#### undefined-3-undefined
+
+#### Se eliminó el registro 129_pendiente por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | 129_pendiente | Solanum  | modificando estatus | null | null | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | null | null | null | 
+-------------------------------
+
+#### undefined-3-undefined
+
+#### Se eliminó el registro 12_pendiente por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | 12_pendiente | Arachis pintoi | modificando estatus | modificando id valido | null | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Semi-domesticada | null | null | 
+-------------------------------
+
+#### 2022-3-17
+
+#### Se eliminó el registro 13008ANGIO por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | 13008ANGIO | Euphorbia bracteata vdfg | valido | 13008ANGIO | null | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | null | null | 
+-------------------------------
+
+#### 2022-3-17
+
+#### Se actualizó el registro 13027ANGIO por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 13027ANGIO | Euphorbia calcarata | zxczxc | nan | nan | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | nan | nan | vivian | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 13027ANGIO | Euphorbia calcarata | nan | nan | nan | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | nan | nan | nan | 
+-------------------------------
