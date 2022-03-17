@@ -96,6 +96,15 @@ def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
                     
                     res = '\n#### '+str(date)+'\n\n#### Se actualizó el registro '+df_CSV_1.id[i]+' por el usuario '+str(df_CSV_1.usuario[i])+'\n\n'+'**Registro actual:**\n\n'+actual+'\n\n**Registro anterior:**\n\n'+previous+'\n'+divisor+'\n'
                     history.write(res)
+
+                    for j in list(df_CSV_1.columns):
+                        if j == 'createdAt' or j == 'updatedAt' or j == 'usuario':
+                            continue
+                        
+                        if str(df_CSV_1[j][i]) != str(df_CSV_2[j][modTaxon]):
+                            res = '| '+str(date)+' | '+str(df_CSV_1.id[i])+' | Editar registro | '+j+' | '+str(df_CSV_2[j][modTaxon])+' | '+str(df_CSV_1[j][i])+' | '+ str(df_CSV_1.usuario[i]) +' |\n'
+                            changelog.write(res)
+                            
                 #Si ninguno de los dos existe, se agregó un registro y se modificó en el mismo día
                 else:
                     actual = header + '| '+str(df_CSV_1.id[i])+' | '+str(df_CSV_1.taxon[i])+' | '+str(df_CSV_1.estatus[i])+' | '+str(df_CSV_1.id_valido[i])+' | '+str(df_CSV_1.taxon_valido[i])+' | '+str(df_CSV_1.referencia[i])+' | '+str(df_CSV_1.categoria_agrobiodiversidad[i])+' | '+str(df_CSV_1.subcategoria_agrobiodiversidad[i])+' | '+str(df_CSV_1.justificacion_subcategoria[i])+' | '+str(df_CSV_1.comentarios_revision[i]) + ' | '+str(df_CSV_1.usuario[i]) + ' | '
