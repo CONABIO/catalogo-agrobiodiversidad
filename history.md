@@ -227,3 +227,14 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
  | 12784ANGIO | Manihot rubricaulis | null | null | null | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | null | null | 
 -------------------------------
+
+#### 2022-03-17 11:27:41
+
+#### Se agregó el registro id60 por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id60 | tx60 | est60 | valido60 | tvalido60 | ref60 | cat60 | sub60 | jus60 | com60 | vivian | 
+-------------------------------
