@@ -144,4 +144,6 @@ def main():
     print("Comparando archivos...")
     compareFiles(df_CSV_1,df_CSV_2,'<filename1>','<filename2>')
     print("Termina comparación de archivos")
+
+    
 main()
