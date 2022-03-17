@@ -238,3 +238,14 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | id60 | tx60 | est60 | valido60 | tvalido60 | ref60 | cat60 | sub60 | jus60 | com60 | vivian | 
 -------------------------------
+
+#### 2022-03-17 11:49:52
+
+#### Se agregó el registro id62 por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id62 | tax62 | es62 | nan | nan | nan | nan | nan | nan | nan | vivian | 
+-------------------------------
