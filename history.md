@@ -392,3 +392,13 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | id65 | tax65 | es65 | nan | nan | nan | nan | nan | nan | nan | vivian | 
 -------------------------------
+
+#### 3/17/2022, 1:42:48 PM
+
+#### Se eliminó el registro 12786ANGIO por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | 12786ANGIO | Manihot tomatophylla | null | null | null | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | null | null | 
+-------------------------------
