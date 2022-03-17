@@ -1,17 +1,16 @@
-Thu Mar 17 17:05:43 CST 2022
+Thu Mar 17 17:07:37 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
-  File "compare.py", line 107
-    if j == 'createdAt' or j == 'updatedAt' or j == 'usuario':
-     ^
-IndentationError: expected an indented block
+Leyendo archivos...
+Comparando archivos...
+Termina comparación de archivos
 git add history.md changelog.md
 git commit
-[main b5ae3bc] validacion diaria de registros
- 2 files changed, 11 insertions(+)
+[main d37ee2f] validacion diaria de registros
+ 2 files changed, 23 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   becc346..b5ae3bc  main -> main
+   c347526..d37ee2f  main -> main
 Proceso terminado!
