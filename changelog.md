@@ -13,3 +13,7 @@
 | 3/17/2022, 1:47:33 PM | 12787ANGIO | Borrar registro | - | - | - | vivian | 
 | 3/17/2022, 13:48:15 | 127_pendiente | Borrar registro | - | - | - | vivian | 
 | 3-17-2022 13:51:18 | 12854ANGIO | Borrar registro | - | - | - | vivian | 
+| 2042 | id66 | Nuevo registro | - | - | - | vivian |
+| 17-3-2022 | id66 | Nuevo registro | - | - | - | vivian |
+| 3-17-2022 | 128_pendiente | Borrar registro | - | - | - | vivian | 
+| 3-17-2022 | id66 | Nuevo registro | - | - | - | vivian |

@@ -432,3 +432,46 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
  | 12854ANGIO | Cnidoscolus angustidens | null | null | null | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | null | null | 
 -------------------------------
+
+#### 2042
+
+#### Se agregó el registro id66 por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id66 | tax66 | nan | nan | nan | nan | nan | nan | nan | nan | vivian | 
+-------------------------------
+
+#### 17-3-2022
+
+#### Se agregó el registro id66 por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id66 | tax66 | nan | nan | nan | nan | nan | nan | nan | nan | vivian | 
+-------------------------------
+
+#### 3-17-2022
+
+#### Se eliminó el registro 128_pendiente por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | 128_pendiente | Solanum crotonifolium | null | null | null | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | null | null | null | 
+-------------------------------
+
+#### 3-17-2022
+
+#### Se agregó el registro id66 por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id66 | tax66 | nan | nan | nan | nan | nan | nan | nan | nan | vivian | 
+-------------------------------
