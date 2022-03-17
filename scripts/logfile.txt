@@ -1,24 +1,16 @@
-Thu Mar 17 16:25:51 CST 2022
+Thu Mar 17 16:40:44 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-| 3-17-2022 | 13008ANGIO | Editar registro | taxon | Euphorbia bracteata | Euphorbia bracteata vdfg | vivian |
-
-| 3-17-2022 | 13008ANGIO | Editar registro | estatus | nan | valido | vivian |
-
-| 3-17-2022 | 13008ANGIO | Editar registro | id_valido | nan | 13008ANGIO | vivian |
-
 Termina comparación de archivos
 git add history.md changelog.md
 git commit
-[main 97184f7] validacion diaria de registros
- 2 files changed, 144 insertions(+), 451 deletions(-)
- rewrite changelog.md (86%)
- rewrite history.md (89%)
+[main 9e4265f] validacion diaria de registros
+ 2 files changed, 12 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   7af0f1d..97184f7  main -> main
+   291842e..9e4265f  main -> main
 Proceso terminado!
