@@ -1,18 +1,14 @@
-Thu Mar 17 11:50:00 CST 2022
+Thu Mar 17 11:51:10 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Comparando archivos...
-Traceback (most recent call last):
-  File "compare.py", line 49, in <module>
-    changelog(res)
-TypeError: '_io.TextIOWrapper' object is not callable
 git add history.md changelog.md
 git commit
-[main 3f9a935] validacion diaria de registros
- 1 file changed, 11 insertions(+)
+[main f843780] validacion diaria de registros
+ 2 files changed, 14 insertions(+), 1 deletion(-)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   40f772a..3f9a935  main -> main
+   8b8bb52..f843780  main -> main
 Proceso terminado!
