@@ -9,4 +9,6 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | id60 | tx60 | est60 | valido60 | tvalido60 | ref60 | cat60 | sub60 | jus60 | com60 | vivian | 
 -------------------------------
-probando
+probando| fecha | ID | Tipo cambio | Campo | Valor anterior | Valor actual | Usuario | 
+ | -- | -- | -- | -- | -- | -- | -- | 
+| 2022-03-17 11:51:06 | id63 | Nuevo registro | - | - | - | vivian |
