@@ -5,3 +5,4 @@
 | 2022-3-17 | 13037ANGIO | Editar registro | estatus | nan | valido | vivian |
 | 2022-3-17 | 13037ANGIO | Editar registro | id_valido | nan | 13037ANGIO | vivian |
 | 2022-3-17 | 13037ANGIO | Editar registro | taxon_valido | nan | Euphorbia colligata | vivian |
+| 2022-3-17 | 13041ANGIO | Borrar registro | - | - | - | vivian | 
