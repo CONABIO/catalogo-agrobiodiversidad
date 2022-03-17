@@ -1,18 +1,24 @@
-Thu Mar 17 16:47:21 CST 2022
+Thu Mar 17 16:49:02 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-| 2022-3-17 | 13027ANGIO | Editar registro | estatus | nan | zxczxc | vivian |
+| 2022-3-17 | 13037ANGIO | Editar registro | estatus | nan | valido | vivian |
+
+| 2022-3-17 | 13037ANGIO | Editar registro | id_valido | nan | 13037ANGIO | vivian |
+
+| 2022-3-17 | 13037ANGIO | Editar registro | taxon_valido | nan | Euphorbia colligata | vivian |
 
 Termina comparación de archivos
 git add history.md changelog.md
 git commit
-[main 4acddd6] validacion diaria de registros
- 2 files changed, 51 insertions(+)
+[main 831969b] validacion diaria de registros
+ 2 files changed, 45 insertions(+), 207 deletions(-)
+ rewrite changelog.md (90%)
+ rewrite history.md (85%)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   dd5657b..4acddd6  main -> main
+   bda17f7..831969b  main -> main
 Proceso terminado!
