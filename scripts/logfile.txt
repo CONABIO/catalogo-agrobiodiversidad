@@ -1,32 +1,18 @@
-Thu Mar 17 11:48:33 CST 2022
+Thu Mar 17 11:50:00 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Comparando archivos...
-  File "compare.py", line 48
-    for i in 
-            ^
-SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "compare.py", line 49, in <module>
+    changelog(res)
+TypeError: '_io.TextIOWrapper' object is not callable
 git add history.md changelog.md
 git commit
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-	deleted:    history.txt
-	modified:   scripts/logfile.txt
-
-Untracked files:
-	actualizaciones_agro.sh
-	agro_actual.csv
-	agro_anterior.csv
-	compare.py
-	logfile.txt
-	prueba.csv
-	pruebas.sh
-
-no changes added to commit
+[main 3f9a935] validacion diaria de registros
+ 1 file changed, 11 insertions(+)
 git push
-Everything up-to-date
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   40f772a..3f9a935  main -> main
 Proceso terminado!
