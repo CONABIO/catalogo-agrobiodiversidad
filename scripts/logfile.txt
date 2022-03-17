@@ -1,20 +1,18 @@
-Thu Mar 17 16:11:30 CST 2022
+Thu Mar 17 16:12:36 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-| 3-17-2022 | 12_pendiente | Editar registro | estatus | nan | modificando estatus | vivian |
-
-| 3-17-2022 | 12_pendiente | Editar registro | id_valido | nan | modificando id valido | vivian |
+| 3-17-2022 | 129_pendiente | Editar registro | taxon | Solanum dulcamara | Solanum  | vivian |
 
 Termina comparación de archivos
 git add history.md changelog.md
 git commit
-[main ff30170] validacion diaria de registros
- 2 files changed, 379 insertions(+)
+[main 46ab602] validacion diaria de registros
+ 2 files changed, 18 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   759787d..ff30170  main -> main
+   49879ec..46ab602  main -> main
 Proceso terminado!
