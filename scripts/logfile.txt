@@ -1,38 +1,20 @@
-Thu Mar 17 14:53:46 CST 2022
+Thu Mar 17 16:11:30 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-Traceback (most recent call last):
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 2898, in get_loc
-    return self._engine.get_loc(casted_key)
-  File "pandas/_libs/index.pyx", line 70, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/index.pyx", line 101, in pandas._libs.index.IndexEngine.get_loc
-  File "pandas/_libs/hashtable_class_helper.pxi", line 1675, in pandas._libs.hashtable.PyObjectHashTable.get_item
-  File "pandas/_libs/hashtable_class_helper.pxi", line 1683, in pandas._libs.hashtable.PyObjectHashTable.get_item
-KeyError: 2822
+| 3-17-2022 | 12_pendiente | Editar registro | estatus | nan | modificando estatus | vivian |
 
-The above exception was the direct cause of the following exception:
+| 3-17-2022 | 12_pendiente | Editar registro | id_valido | nan | modificando id valido | vivian |
 
-Traceback (most recent call last):
-  File "compare.py", line 141, in <module>
-    main()
-  File "compare.py", line 139, in main
-    compareFiles(df_CSV_1,df_CSV_2,'/home/vbass/etiquetas/etiquetas/graphql-server/history.txt','/home/vbass/etiquetas/etiquetas/graphql-server/changelog.txt')
-  File "compare.py", line 128, in compareFiles
-    for j in df_CSV_1[i]:
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/frame.py", line 2906, in __getitem__
-    indexer = self.columns.get_loc(key)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/indexes/base.py", line 2900, in get_loc
-    raise KeyError(key) from err
-KeyError: 2822
+Termina comparación de archivos
 git add history.md changelog.md
 git commit
-[main 4893d90] validacion diaria de registros
- 2 files changed, 29 insertions(+)
+[main ff30170] validacion diaria de registros
+ 2 files changed, 379 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   5d6644b..4893d90  main -> main
+   759787d..ff30170  main -> main
 Proceso terminado!
