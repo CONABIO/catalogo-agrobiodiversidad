@@ -132,7 +132,6 @@ def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
                     if str(df_CSV_1[j][i]) != str(df_CSV_2[j][modTaxon]):
                         res = '| '+str(date)+' | '+str(df_CSV_1.id[i])+' | Editar registro | '+j+' | '+str(df_CSV_2[j][modTaxon])+' | '+str(df_CSV_1[j][i])+' | '+ str(df_CSV_1.usuario[i]) +' |\n'
                         changelog.write(res)
-                        print(res)
 
     history.close()
     changelog.close()
@@ -145,5 +144,5 @@ def main():
     compareFiles(df_CSV_1,df_CSV_2,'<filename1>','<filename2>')
     print("Termina comparación de archivos")
 
-    
+
 main()
