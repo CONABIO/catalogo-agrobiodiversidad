@@ -56,10 +56,6 @@ def getHeader(df):
     return header 
 
 
-def isNaN(string):
-    return string!= string
-
-
 def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
     '''
     Compara los archivos df_CSV_1 y df_CSV_2. Sobreescribe las diferencias
@@ -128,9 +124,8 @@ def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
                 
                 res = '\n#### '+str(date)+'\n\n#### Se actualizó el registro '+df_CSV_1.id[i]+' por el usuario '+str(df_CSV_1.usuario[i])+'\n'+'\n**Registro actual:**\n'+'\n'+actual+'\n\n**Registro anterior:** \n\n'+previous+'\n'+divisor+'\n'
                 history.write(res)
-                #print(list(df_CSV_1.columns))
+
                 for j in list(df_CSV_1.columns):
-                    #print(df_CSV_1[j][i])
                     if j == 'createdAt' or j == 'updatedAt' or j == 'usuario':
                         continue
                     
