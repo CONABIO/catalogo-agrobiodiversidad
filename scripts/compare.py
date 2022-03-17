@@ -9,8 +9,7 @@ Este script sólo detecta las diferencias si se agrega un registro o
 se modifica un registro. 
 La eliminación de registros se lleva a cabo directamente en el script 
 que realiza el delete. Por esa razón se utilizan los archivos
-<> y
-<>
+<filename1> y <filename2>
 ya que ahí se lleva el seguimiento de los registros eliminados.
 '''
 
