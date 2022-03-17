@@ -12,8 +12,8 @@ echo "Descargando archivo nuevo..."
 docker exec etiqueta-postgres psql -U postgres -d zendro_development -c "COPY agrobiodiversidads TO STDOUT WITH CSV HEADER" > agro_actual.csv
 #echo "Comparando archivos..."
 /usr/bin/python3 compare.py
-cp /home/vbass/etiquetas/etiquetas/graphql-server/history.txt ./history.md
-cp /home/vbass/etiquetas/etiquetas/graphql-server/changelog.txt ./changelog.md
+cp <filename1> ./history.md
+cp <filename2> ./changelog.md
 echo "git add history.md changelog.md"
 /usr/bin/git add history.md changelog.md
 echo "git commit"
