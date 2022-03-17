@@ -14,3 +14,4 @@
 | 3-17-2022 | 13008ANGIO | Editar registro | taxon | Euphorbia bracteata | Euphorbia bracteata vdfg | vivian |
 | 3-17-2022 | 13008ANGIO | Editar registro | estatus | nan | valido | vivian |
 | 3-17-2022 | 13008ANGIO | Editar registro | id_valido | nan | 13008ANGIO | vivian |
+| 3-17-2022 | id90 | Nuevo registro | - | - | - | vivian |
