@@ -1,24 +1,17 @@
-Thu Mar 17 16:49:02 CST 2022
+Thu Mar 17 17:05:43 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
-Leyendo archivos...
-Comparando archivos...
-| 2022-3-17 | 13037ANGIO | Editar registro | estatus | nan | valido | vivian |
-
-| 2022-3-17 | 13037ANGIO | Editar registro | id_valido | nan | 13037ANGIO | vivian |
-
-| 2022-3-17 | 13037ANGIO | Editar registro | taxon_valido | nan | Euphorbia colligata | vivian |
-
-Termina comparación de archivos
+  File "compare.py", line 107
+    if j == 'createdAt' or j == 'updatedAt' or j == 'usuario':
+     ^
+IndentationError: expected an indented block
 git add history.md changelog.md
 git commit
-[main 831969b] validacion diaria de registros
- 2 files changed, 45 insertions(+), 207 deletions(-)
- rewrite changelog.md (90%)
- rewrite history.md (85%)
+[main b5ae3bc] validacion diaria de registros
+ 2 files changed, 11 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   bda17f7..831969b  main -> main
+   becc346..b5ae3bc  main -> main
 Proceso terminado!
