@@ -3,10 +3,10 @@
 * Para acceder a la [instancia](https://siagro.conabio.gob.mx/listado_agrobiodiversidad): https://siagro.conabio.gob.mx/listado_agrobiodiversidad
 
 # Archivos que se pueden encontrar en el repositorio:
-* **agro_actual.csv:**
-  Información actualizada de la instancia de agrobiodiversidad
-* **history.txt:**
+* **history.md:**
   Histórico de cambios de la instancia de agrobiodiversidad
+* **changelog.md:**
+  Resumen de cambios de la instancia de agrobiodiversidad
 * **scripts/:**
   En esta carpeta se encuentran 3 archivos: 
   * **actualizaciones_agro.sh:**
