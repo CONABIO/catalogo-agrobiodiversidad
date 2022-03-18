@@ -88,3 +88,20 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
  | 13041NUEVO | Euphorbia cymbifera | valido | 13041NUEVO | null | null | null | null | null | null | 
 -------------------------------
+
+#### 2022-3-18
+
+#### Se actualizó el registro 13046NUEVO por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 13046NUEVO | Euphorbia cyri | valido | 13046NUEVO | asdad | nan | nan | nan | nan | nan | vivian | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 13046NUEVO | Euphorbia cyri | valido | 13046NUEVO | nan | nan | nan | nan | nan | nan | vivian | 
+-------------------------------
