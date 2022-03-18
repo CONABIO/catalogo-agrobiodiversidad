@@ -1,42 +1,16 @@
-Fri Mar 18 11:47:01 CST 2022
+Fri Mar 18 11:48:51 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-Traceback (most recent call last):
-  File "compare.py", line 147, in <module>
-    main()
-  File "compare.py", line 145, in main
-    compareFiles(df_CSV_1,df_CSV_2,'/home/vbass/etiquetas/etiquetas/graphql-server/history.txt','/home/vbass/etiquetas/etiquetas/graphql-server/changelog.txt')
-  File "compare.py", line 64, in compareFiles
-    date = getDate(df_CSV_1.updatedAt[i])
-  File "compare.py", line 25, in getDate
-    date = datetime.strptime(date[0], "%Y-%m-%d %H:%M:%S" )
-NameError: name 'datetime' is not defined
+Termina comparación de archivos
 git add history.md changelog.md
 git commit
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-	modified:   scripts/logfile.txt
-
-Untracked files:
-	__pycache__/
-	actualizaciones_agro.sh
-	agro_actual.csv
-	agro_anterior.csv
-	agro_prueba.csv
-	compare.py
-	estatus.py
-	functions.py
-	logfile.txt
-	prueba.csv
-	pruebas.sh
-
-no changes added to commit
+[main 8a0641c] validacion diaria de registros
+ 2 files changed, 18 insertions(+)
 git push
-Everything up-to-date
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   56be1b2..8a0641c  main -> main
 Proceso terminado!
