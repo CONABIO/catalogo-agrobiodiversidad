@@ -1,31 +1,20 @@
-Thu Mar 17 20:00:01 CST 2022
+Fri Mar 18 11:45:55 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
-Comparando archivos...
-Termina comparación de archivos
+Traceback (most recent call last):
+  File "compare.py", line 147, in <module>
+    main()
+  File "compare.py", line 142, in main
+    df_CSV_1 = readFile('agro_actual.csv')
+NameError: name 'readFile' is not defined
 git add history.md changelog.md
 git commit
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-	modified:   scripts/logfile.txt
-
-Untracked files:
-	actualizaciones_agro.sh
-	agro_actual.csv
-	agro_anterior.csv
-	agro_prueba.csv
-	compare.py
-	estatus.py
-	logfile.txt
-	prueba.csv
-	pruebas.sh
-
-no changes added to commit
+[main 5031d2e] validacion diaria de registros
+ 2 files changed, 11 insertions(+)
 git push
-Everything up-to-date
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   e74be96..5031d2e  main -> main
 Proceso terminado!
