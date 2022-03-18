@@ -78,3 +78,13 @@
  | 13046ANGIO | Euphorbia cyri | null | null | null | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | Pariente Silvestre | null | null | 
 -------------------------------
 
+
+#### 2022-3-18
+
+#### Se eliminó el registro 13041NUEVO por el usuario vivian
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | 13041NUEVO | Euphorbia cymbifera | valido | 13041NUEVO | null | null | null | null | null | null | 
+-------------------------------

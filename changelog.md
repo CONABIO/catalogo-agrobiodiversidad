@@ -9,3 +9,4 @@
 | 2022-3-17 | 13049ANGIO | Borrar registro | - | - | - | vivian | 
 | 2022-3-17 | 13049NUEVO | Nuevo registro | - | - | - | vivian |
 | 2022-3-17 | 13046ANGIO | Borrar registro | - | - | - | vivian | 
+| 2022-3-18 | 13041NUEVO | Borrar registro | - | - | - | vivian | 
