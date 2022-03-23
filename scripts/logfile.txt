@@ -1,4 +1,4 @@
-Mon Mar 21 20:00:01 CST 2022
+Wed Mar 23 02:00:01 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -25,6 +25,7 @@ Untracked files:
 	functions.py
 	logfile.txt
 	prueba.csv
+	prueba_copia.csv
 	pruebas.sh
 
 no changes added to commit
