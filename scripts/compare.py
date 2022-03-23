@@ -9,50 +9,12 @@ Este script sólo detecta las diferencias si se agrega un registro o
 se modifica un registro. 
 La eliminación de registros se lleva a cabo directamente en el script 
 que realiza el delete. Por esa razón se utilizan los archivos
-<filename1> y <filename2>
+path1 y path2
 ya que ahí se lleva el seguimiento de los registros eliminados.
 '''
 
-import pandas as pd
-import numpy as np
-from datetime import datetime,timedelta
-
-def readFile(filename):
-    '''
-    Lee archivo csv y devuelve un dataframe
-    '''
-    df = pd.read_csv(filename)
-    return df
-
-
-def getDate(date):
-    '''
-    Convierte la fecha de la base de datos de zendro a nuestra zona horaria
-    '''
-    date = date.split(".")
-    date = datetime.strptime(date[0], "%Y-%m-%d %H:%M:%S" )
-    date = date-timedelta(hours = 6)
-    date = str(date.year) + '-'+ str(date.month) + '-'+ str(date.day)
-    return date
-
-
-def getHeader(df):
-    '''
-    Obtiene el header para el history.md dependiendo el dataframe que se reciba.
-    Se eliminan las columnas createdAt y updatedAt y se devuelve el header completo de la tabla.    
-    '''
-    header = ' | '.join(df.columns)
-    header = '| '+header+' |'
-    header = header.replace("| createdAt ","")
-    header = header.replace("| updatedAt ","")
-
-    separator = '| -- |'
-    for i in range(len(df.columns)-3):
-        separator = separator + ' -- |'
-
-    header = header + '\n' + separator + '\n'
-
-    return header 
+from functions import function
+import paths
 
 
 def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
@@ -60,7 +22,7 @@ def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
     Compara los archivos df_CSV_1 y df_CSV_2. Sobreescribe las diferencias
     en los archivos que se pasan como parámetros en path_history y path_changelog
     '''
-    header = getHeader(df_CSV_1)
+    header = function.getHeader(df_CSV_1)
     divisor = '-------------------------------'
 
     history = open(path_history,'a')
@@ -69,7 +31,7 @@ def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
     #Busca las diferencias entre los ids actuales y los anteriores
     for i in range(len(df_CSV_1.index)):
         torf = df_CSV_1.id[i] in df_CSV_2.id.values
-        date = getDate(df_CSV_1.updatedAt[i])
+        date = function.getDate(df_CSV_1.updatedAt[i])
 
         #El id del archivo actual no existe en el archivo anterior
         if(torf == False):
@@ -104,7 +66,7 @@ def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
                         if str(df_CSV_1[j][i]) != str(df_CSV_2[j][modTaxon]):
                             res = '| '+str(date)+' | '+str(df_CSV_1.id[i])+' | Editar registro | '+j+' | '+str(df_CSV_2[j][modTaxon])+' | '+str(df_CSV_1[j][i])+' | '+ str(df_CSV_1.usuario[i]) +' |\n'
                             changelog.write(res)
-                            
+
                 #Si ninguno de los dos existe, se agregó un registro y se modificó en el mismo día
                 else:
                     actual = header + '| '+str(df_CSV_1.id[i])+' | '+str(df_CSV_1.taxon[i])+' | '+str(df_CSV_1.estatus[i])+' | '+str(df_CSV_1.id_valido[i])+' | '+str(df_CSV_1.taxon_valido[i])+' | '+str(df_CSV_1.referencia[i])+' | '+str(df_CSV_1.categoria_agrobiodiversidad[i])+' | '+str(df_CSV_1.subcategoria_agrobiodiversidad[i])+' | '+str(df_CSV_1.justificacion_subcategoria[i])+' | '+str(df_CSV_1.comentarios_revision[i]) + ' | '+str(df_CSV_1.usuario[i]) + ' | '
@@ -132,8 +94,9 @@ def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
                 
                 res = '\n#### '+str(date)+'\n\n#### Se actualizó el registro '+df_CSV_1.id[i]+' por el usuario '+str(df_CSV_1.usuario[i])+'\n'+'\n**Registro actual:**\n'+'\n'+actual+'\n\n**Registro anterior:** \n\n'+previous+'\n'+divisor+'\n'
                 history.write(res)
-
+                #print(list(df_CSV_1.columns))
                 for j in list(df_CSV_1.columns):
+                    #print(df_CSV_1[j][i])
                     if j == 'createdAt' or j == 'updatedAt' or j == 'usuario':
                         continue
                     
@@ -146,11 +109,9 @@ def compareFiles(df_CSV_1,df_CSV_2,path_history,path_changelog):
 
 def main():
     print("Leyendo archivos...")
-    df_CSV_1 = readFile('agro_actual.csv')
-    df_CSV_2 = readFile('agro_anterior.csv')
+    df_CSV_1 = function.readFile('agro_actual.csv')
+    df_CSV_2 = function.readFile('agro_anterior.csv')
     print("Comparando archivos...")
-    compareFiles(df_CSV_1,df_CSV_2,'<filename1>','<filename2>')
+    compareFiles(df_CSV_1,df_CSV_2,paths.path1,paths.path2)
     print("Termina comparación de archivos")
-
-
 main()
