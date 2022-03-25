@@ -1,4 +1,4 @@
-Thu Mar 24 02:00:01 CST 2022
+Fri Mar 25 02:00:01 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -6,24 +6,35 @@ Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
 Traceback (most recent call last):
-  File "compare.py", line 117, in <module>
+  File "compare.py", line 118, in <module>
     main()
-  File "compare.py", line 115, in main
-    compareFiles(df_CSV_1,df_CSV_2,paths.path1,paths.path2)
-  File "compare.py", line 34, in compareFiles
-    date = function.getDate(df_CSV_1.updatedAt[i])
-  File "/home/vbass/daily_update/catalogo-agrobiodiversidad/functions.py", line 22, in getDate
-    date = datetime.strptime(date[0], "%Y-%m-%d %H:%M:%S" )
-  File "/usr/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
-    tt, fraction = _strptime(data_string, format)
-  File "/usr/lib/python3.6/_strptime.py", line 365, in _strptime
-    data_string[found.end():])
-ValueError: unconverted data remains: +00
+  File "compare.py", line 116, in main
+    compareFiles(actual,anterior,paths.path_history,paths.path_changelog)
+AttributeError: module 'paths' has no attribute 'path_history'
 git add history.md changelog.md
 git commit
-[main 09cc517] validacion diaria de registros
- 2 files changed, 183 insertions(+)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+	modified:   scripts/logfile.txt
+
+Untracked files:
+	__pycache__/
+	actualizaciones_agro.sh
+	agro_actual.csv
+	agro_anterior.csv
+	agro_prueba.csv
+	compare.py
+	compareZacatuche.sh
+	contraZacatuche.csv
+	estatus.py
+	functions.py
+	logfile.txt
+	paths.py
+	pruebas.sh
+
+no changes added to commit
 git push
-To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   74adda3..09cc517  main -> main
+Everything up-to-date
 Proceso terminado!
