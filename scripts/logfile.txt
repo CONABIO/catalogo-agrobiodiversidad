@@ -1,4 +1,4 @@
-Mon Mar 28 02:00:01 CST 2022
+Mon Mar 28 13:33:44 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -10,7 +10,9 @@ Traceback (most recent call last):
     main()
   File "compare.py", line 116, in main
     compareFiles(actual,anterior,paths.path_history,paths.path_changelog)
-AttributeError: module 'paths' has no attribute 'path_history'
+  File "compare.py", line 96, in compareFiles
+    res = '\n#### '+str(date)+'\n\n#### Se actualizó el registro '+actual.id[i]+' por el usuario '+str(actual.usuario[i])+'\n'+'\n**Registro actual:**\n'+'\n'+actual+'\n\n**Registro anterior:** \n\n'+previous+'\n'+divisor+'\n'
+AttributeError: 'str' object has no attribute 'id'
 git add history.md changelog.md
 git commit
 On branch main
