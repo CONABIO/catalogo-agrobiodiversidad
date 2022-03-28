@@ -1,42 +1,16 @@
-Mon Mar 28 13:33:44 CST 2022
+Mon Mar 28 14:18:58 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-Traceback (most recent call last):
-  File "compare.py", line 118, in <module>
-    main()
-  File "compare.py", line 116, in main
-    compareFiles(actual,anterior,paths.path_history,paths.path_changelog)
-  File "compare.py", line 96, in compareFiles
-    res = '\n#### '+str(date)+'\n\n#### Se actualizó el registro '+actual.id[i]+' por el usuario '+str(actual.usuario[i])+'\n'+'\n**Registro actual:**\n'+'\n'+actual+'\n\n**Registro anterior:** \n\n'+previous+'\n'+divisor+'\n'
-AttributeError: 'str' object has no attribute 'id'
+Termina comparación de archivos
 git add history.md changelog.md
 git commit
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-	modified:   scripts/logfile.txt
-
-Untracked files:
-	__pycache__/
-	actualizaciones_agro.sh
-	agro_actual.csv
-	agro_anterior.csv
-	agro_prueba.csv
-	compare.py
-	compareZacatuche.sh
-	contraZacatuche.csv
-	estatus.py
-	functions.py
-	logfile.txt
-	paths.py
-	pruebas.sh
-
-no changes added to commit
+[main 3dcad74] validacion diaria de registros
+ 2 files changed, 160 insertions(+)
 git push
-Everything up-to-date
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   02646d7..3dcad74  main -> main
 Proceso terminado!
