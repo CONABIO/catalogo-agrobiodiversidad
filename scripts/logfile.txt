@@ -1,4 +1,4 @@
-Mon Mar 28 14:24:30 CST 2022
+Mon Mar 28 14:25:12 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -6,6 +6,26 @@ Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
 2022-03-17 02:23:18.251+00
+2022-03-16 20:23:18
+2022-03-23 23:37:30.009+00
+2022-03-23 17:37:30
+2022-03-23 23:37:30.461+00
+2022-03-23 17:37:30
+2022-03-23 23:37:30.828+00
+2022-03-23 17:37:30
+2022-03-23 23:37:31.643+00
+2022-03-23 17:37:31
+2022-03-23 23:37:32.078+00
+2022-03-23 17:37:32
+2022-03-23 23:37:32.517+00
+2022-03-23 17:37:32
+2022-03-23 23:37:33.365+00
+2022-03-23 17:37:33
+2022-03-23 23:37:33.789+00
+2022-03-23 17:37:33
+2022-03-23 22:40:43.094+00
+2022-03-23 16:40:43
+2022-03-23 23:37:35+00
 Traceback (most recent call last):
   File "compare.py", line 118, in <module>
     main()
@@ -17,9 +37,9 @@ Traceback (most recent call last):
     date = datetime.strptime(date[0], "%Y-%m-%d %H:%M:%S" )
   File "/usr/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
     tt, fraction = _strptime(data_string, format)
-  File "/usr/lib/python3.6/_strptime.py", line 362, in _strptime
-    (data_string, format))
-ValueError: time data '2022-03-17' does not match format '%Y-%m-%d %H:%M:%S'
+  File "/usr/lib/python3.6/_strptime.py", line 365, in _strptime
+    data_string[found.end():])
+ValueError: unconverted data remains: +00
 git add history.md changelog.md
 git commit
 On branch main
