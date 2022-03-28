@@ -1,4 +1,4 @@
-Mon Mar 28 14:25:46 CST 2022
+Mon Mar 28 14:26:52 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -14,12 +14,12 @@ Traceback (most recent call last):
   File "compare.py", line 34, in compareFiles
     date = functions.getDate(actual.updatedAt[i])
   File "/home/vbass/daily_update/catalogo-agrobiodiversidad/functions.py", line 22, in getDate
-    date = datetime.strptime(date[0], "%Y-%m-%d %H:%M:%S" )
+    date = datetime.strptime(date[0], "%Y-%m-%d %H:%M:%S.%N" )
   File "/usr/lib/python3.6/_strptime.py", line 565, in _strptime_datetime
     tt, fraction = _strptime(data_string, format)
-  File "/usr/lib/python3.6/_strptime.py", line 365, in _strptime
-    data_string[found.end():])
-ValueError: unconverted data remains: .251
+  File "/usr/lib/python3.6/_strptime.py", line 354, in _strptime
+    (bad_directive, format)) from None
+ValueError: 'N' is a bad directive in format '%Y-%m-%d %H:%M:%S.%N'
 git add history.md changelog.md
 git commit
 On branch main
