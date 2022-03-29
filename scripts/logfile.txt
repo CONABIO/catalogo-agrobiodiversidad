@@ -1,4 +1,4 @@
-Tue Mar 29 02:00:01 CST 2022
+Tue Mar 29 12:08:21 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -8,28 +8,9 @@ Comparando archivos...
 Termina comparación de archivos
 git add history.md changelog.md
 git commit
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-	modified:   scripts/logfile.txt
-
-Untracked files:
-	__pycache__/
-	actualizaciones_agro.sh
-	agro_actual.csv
-	agro_anterior.csv
-	agro_prueba.csv
-	compare.py
-	compareZacatuche.sh
-	contraZacatuche.csv
-	estatus.py
-	functions.py
-	logfile.txt
-	paths.py
-	pruebas.sh
-
-no changes added to commit
+[main 83a1755] validacion diaria de registros
+ 2 files changed, 360 insertions(+)
 git push
-Everything up-to-date
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   224dc79..83a1755  main -> main
 Proceso terminado!
