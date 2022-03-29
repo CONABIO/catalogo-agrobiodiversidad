@@ -5,7 +5,7 @@ import json
 import requests
 import smtplib 
 import os
-
+import paths
 
 def getDate(date,hrs):
     '''
@@ -71,7 +71,7 @@ def getInfoTaxon(id):
                         }
                         }"""
 
-    r = requests.post("http://zacatuche2.conabio.gob.mx:4000/graphql", json={'query': query})
+    r = requests.post(paths.zacatuche, json={'query': query})
     json_data = json.loads(r.text)
     df_data = json_data['data']['dwcTaxon']
 
@@ -100,7 +100,7 @@ def updateLocal(id,taxon="",estatus="",id_valido="",taxon_valido="",referencia="
                 }
                 }"""
     #print(query)
-    r = requests.post("http://siagro.conabio.gob.mx:4750/graphql", json={'query': query})
+    r = requests.post(paths.siagro, json={'query': query})
     json_data = json.loads(r.text)
 
 
@@ -119,7 +119,7 @@ def addLocal(id,taxon="",estatus="",id_valido="",taxon_valido="",referencia="",c
                 }
                 }"""
     print(query)
-    r = requests.post("http://siagro.conabio.gob.mx:4750/graphql", json={'query': query})
+    r = requests.post(paths.siagro, json={'query': query})
     json_data = json.loads(r.text)
 
 
