@@ -1,17 +1,18 @@
-Tue Mar 29 12:16:56 CST 2022
+Tue Mar 29 12:24:22 CST 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
+entro3?
 entro2?
 Termina comparación de archivos
 git add history.md changelog.md
 git commit
-[main 59c1c57] validacion diaria de registros
- 2 files changed, 54 insertions(+)
+[main 974b26e] validacion diaria de registros
+ 2 files changed, 110 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   330771f..59c1c57  main -> main
+   7b8a3f0..974b26e  main -> main
 Proceso terminado!
