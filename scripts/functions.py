@@ -60,6 +60,10 @@ def getInfo(df,i):
 
 
 def getInfoTaxon(id):
+    '''
+    Hace una consulta a zacatuche para obtener la información que se necesita de un id.
+    Devuelve un json con la información solicitada en la query.
+    '''
     query = """query taxon{
                 dwcTaxon(taxonID:"""+"\""+id+"\""+"""){
                             id
@@ -67,6 +71,7 @@ def getInfoTaxon(id):
                             scientificName
                             acceptedNameUsage{
                             id
+                            scientificName
                             }
                         }
                         }"""
@@ -77,17 +82,17 @@ def getInfoTaxon(id):
 
     return df_data
 
-def updateLocal(id,taxon="",estatus="",id_valido="",taxon_valido="",referencia="",categoria_agrobiodiversidad="",subcategoria_agrobiodiversidad="",justificacion_subcategoria="",comentarios_revision="",usuario="Script"):
+def updateLocal(id,taxon="",estatus="",id_valido="",taxon_valido="",referencia="",categoria_agrobiodiversidad="",subcategoria_agrobiodiversidad="",justificacion_subcategoria="",comentarios_revision="",usuario="Bot validación"):
+    '''
+    Realiza las modificaciones en la base de catalogo-agrobiodiversidad de los campos que se le pasen como parámetro.
+    '''
+    
     list=[id,taxon,estatus,id_valido,taxon_valido,referencia,categoria_agrobiodiversidad,subcategoria_agrobiodiversidad,justificacion_subcategoria,comentarios_revision,usuario]
     listAux=['id','taxon','estatus','id_valido','taxon_valido','referencia','categoria_agrobiodiversidad','subcategoria_agrobiodiversidad','justificacion_subcategoria','comentarios_revision','usuario']
     search=""
-
     for i in range(len(list)):
-        if list[i]:
-            #print(list[i])
-            
+        if list[i]:            
             if list[i] == "NULL":
-                print(list[i])
                 search=search+str(listAux[i])+":\" \" "
                 continue
             
@@ -104,7 +109,10 @@ def updateLocal(id,taxon="",estatus="",id_valido="",taxon_valido="",referencia="
     json_data = json.loads(r.text)
 
 
-def addLocal(id,taxon="",estatus="",id_valido="",taxon_valido="",referencia="",categoria_agrobiodiversidad="",subcategoria_agrobiodiversidad="",justificacion_subcategoria="",comentarios_revision="",usuario="Script"):
+def addLocal(id,taxon="",estatus="",id_valido="",taxon_valido="",referencia="",categoria_agrobiodiversidad="",subcategoria_agrobiodiversidad="",justificacion_subcategoria="",comentarios_revision="",usuario="Bot validación"):
+    '''
+    Agrega un registro a la base de catalogo-agrobiodiversidad con los campos que se le pasen como parámetro.
+    '''
     list=[id,taxon,estatus,id_valido,taxon_valido,referencia,categoria_agrobiodiversidad,subcategoria_agrobiodiversidad,justificacion_subcategoria,comentarios_revision,usuario]
     listAux=['id','taxon','estatus','id_valido','taxon_valido','referencia','categoria_agrobiodiversidad','subcategoria_agrobiodiversidad','justificacion_subcategoria','comentarios_revision','usuario']
     search=""
@@ -118,17 +126,20 @@ def addLocal(id,taxon="",estatus="",id_valido="",taxon_valido="",referencia="",c
                     id
                 }
                 }"""
-    print(query)
+    #print(query)
     r = requests.post(paths.siagro, json={'query': query})
     json_data = json.loads(r.text)
 
 
 def sendeMail(string):
+    '''
+    Envía un correo a las direcciones en "destinatario". Recibe como parámetro el id al que se le necesita dar seguimiento.
+    '''
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
     #destinatario = ["Vivian <vivbass4@gmail.com>", "Vivian <vbass@conabio.gob.mx>", "Alicia <amastretta@conabio.gob.mx>", "Irene <iramos@conabio.gob.mx>"]
     destinatario = ["Vivian <vivbass4@gmail.com>", "Vivian <vbass@conabio.gob.mx>"]
     asunto = "Aviso: no se encontró ID de taxon" 
-    mensaje = """Favor de revisar el ID """+str(string)+""", ya que no se encontró en Zacatuche.
+    mensaje = """En la validación diaria de registros entre Zacatuche con nuestra base de datos de catalogo-agrobiodiversidad, se detectó que el ID """+str(string)+""", no se encontró en Zacatuche. Favor de dar seguimiento al caso.
     
 ------------------------------------
 Este correo ha sido enviado automáticamente. Favor de no responder."""
