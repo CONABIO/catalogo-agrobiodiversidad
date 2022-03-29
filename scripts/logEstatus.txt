@@ -1,4 +1,4 @@
-Tue Mar 29 14:28:42 CST 2022
+Tue Mar 29 14:36:35 CST 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
@@ -336,30 +336,4 @@ ID no existe en Zacatuche --- mandar correo 327_pendiente
 ID no existe en Zacatuche --- mandar correo 328_pendiente
 ID no existe en Zacatuche --- mandar correo 329_pendiente
 Termina comparación de archivos
-git add history.md changelog.md
-fatal: pathspec 'add' did not match any files
-git commit
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-	modified:   scripts/logfile.txt
-
-Untracked files:
-	__pycache__/
-	actualizaciones_agro.sh
-	agro_actual.csv
-	agro_anterior.csv
-	comparaZacatuche.csv
-	compare.py
-	compareZacatuche.sh
-	estatus.py
-	functions.py
-	paths.py
-	pruebas.sh
-	scripts/logEstatus.txt
-
-no changes added to commit
-git push
-Proceso terminado!
-Everything up-to-date
+git add scripts/logEstatus.txt
