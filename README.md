@@ -8,7 +8,7 @@
 * **changelog.md:**
   Resumen de cambios de la instancia de agrobiodiversidad
 * **scripts/:**
-  En esta carpeta se encuentran distintos archivos para realizar la comparación entre registros de ayer y hoy en la base de datos de catalogo-agrobiodiversidad, así como los scripts necesarios para relizar la validación de campos entre Zacatuche y nuestra base de datos: 
+  En esta carpeta se encuentran distintos archivos para realizar la comparación entre registros de ayer y hoy en la base de datos de catalogo-agrobiodiversidad, así como los scripts necesarios para realizar la validación de campos entre Zacatuche y nuestra base de datos: 
   * **compareZacatuche.sh:**
     Script que corre en automático todos los días a las 20:00 horas para revisar si hay modificaciones entre nuestra base de datos y Zacatuche. 
   * **estatus.py:**  
