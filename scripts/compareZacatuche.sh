@@ -7,7 +7,7 @@ echo $TODAY
 echo "Empieza comparación con Zacatuche\n"
 
 echo "Descargando csv de la instancia..." 
-docker exec -it etiqueta-postgres psql -U postgres -d zendro_development -c "COPY agrobiodiversidads TO STDOUT WITH CSV HEADER" > comparaZacatuche.csv
+docker exec etiqueta-postgres psql -U postgres -d zendro_development -c "COPY agrobiodiversidads TO STDOUT WITH CSV HEADER" > comparaZacatuche.csv
 
 /usr/bin/python3 estatus.py
 
