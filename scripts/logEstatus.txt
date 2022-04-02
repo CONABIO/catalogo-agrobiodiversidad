@@ -1,28 +1,47 @@
-Thu Mar 31 20:00:01 CST 2022
+Fri Apr 1 20:00:01 CST 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
 Leyendo archivos...
 Comparando archivos...
+ID no existe en Zacatuche --- mandar correo id3
 ID no existe en Zacatuche --- mandar correo 220_pendiente
 ID no existe en Zacatuche --- mandar correo 221_pendiente
+ID no existe en Zacatuche --- mandar correo id4
+ID no existe en Zacatuche --- mandar correo id5
+ID no existe en Zacatuche --- mandar correo id6
+ID no existe en Zacatuche --- mandar correo id7
+ID no existe en Zacatuche --- mandar correo id8
 ID no existe en Zacatuche --- mandar correo 222_pendiente
+ID no existe en Zacatuche --- mandar correo id9
 ID no existe en Zacatuche --- mandar correo 223_pendiente
 ID no existe en Zacatuche --- mandar correo 224_pendiente
+ID no existe en Zacatuche --- mandar correo id10
 ID no existe en Zacatuche --- mandar correo 225_pendiente
+ID no existe en Zacatuche --- mandar correo id11
 ID no existe en Zacatuche --- mandar correo 226_pendiente
+ID no existe en Zacatuche --- mandar correo id12
 ID no existe en Zacatuche --- mandar correo 227_pendiente
+ID no existe en Zacatuche --- mandar correo id13
 ID no existe en Zacatuche --- mandar correo 228_pendiente
+ID no existe en Zacatuche --- mandar correo id14
 ID no existe en Zacatuche --- mandar correo 229_pendiente
+ID no existe en Zacatuche --- mandar correo id15
 ID no existe en Zacatuche --- mandar correo 230_pendiente
 ID no existe en Zacatuche --- mandar correo 231_pendiente
+ID no existe en Zacatuche --- mandar correo id17
 ID no existe en Zacatuche --- mandar correo 232_pendiente
 ID no existe en Zacatuche --- mandar correo 233_pendiente
 ID no existe en Zacatuche --- mandar correo 234_pendiente
+ID no existe en Zacatuche --- mandar correo id18
+ID no existe en Zacatuche --- mandar correo id19
 ID no existe en Zacatuche --- mandar correo 235_pendiente
+ID no existe en Zacatuche --- mandar correo id20
 26460ANGIO
+ID no existe en Zacatuche --- mandar correo id21
 ID no existe en Zacatuche --- mandar correo 236_pendiente
 ID no existe en Zacatuche --- mandar correo 237_pendiente
+ID no existe en Zacatuche --- mandar correo id22
 ID no existe en Zacatuche --- mandar correo 238_pendiente
 ID no existe en Zacatuche --- mandar correo 239_pendiente
 ID no existe en Zacatuche --- mandar correo 240_pendiente
@@ -37,25 +56,35 @@ ID no existe en Zacatuche --- mandar correo 248_pendiente
 ID no existe en Zacatuche --- mandar correo 249_pendiente
 ID no existe en Zacatuche --- mandar correo 250_pendiente
 ID no existe en Zacatuche --- mandar correo 251_pendiente
+ID no existe en Zacatuche --- mandar correo id24
+ID no existe en Zacatuche --- mandar correo id25
 ID no existe en Zacatuche --- mandar correo 252_pendiente
 ID no existe en Zacatuche --- mandar correo 253_pendiente
 ID no existe en Zacatuche --- mandar correo 254_pendiente
+ID no existe en Zacatuche --- mandar correo id_nuevo
 ID no existe en Zacatuche --- mandar correo 255_pendiente
 ID no existe en Zacatuche --- mandar correo 256_pendiente
 ID no existe en Zacatuche --- mandar correo 257_pendiente
 ID no existe en Zacatuche --- mandar correo 258_pendiente
+ID no existe en Zacatuche --- mandar correo idVivian
+ID no existe en Zacatuche --- mandar correo id26
+ID no existe en Zacatuche --- mandar correo id28
+ID no existe en Zacatuche --- mandar correo id29
 ID no existe en Zacatuche --- mandar correo 259_pendiente
 ID no existe en Zacatuche --- mandar correo 260_pendiente
 ID no existe en Zacatuche --- mandar correo 261_pendiente
 ID no existe en Zacatuche --- mandar correo 262_pendiente
 ID no existe en Zacatuche --- mandar correo 263_pendiente
 ID no existe en Zacatuche --- mandar correo 264_pendiente
+ID no existe en Zacatuche --- mandar correo id27
 ID no existe en Zacatuche --- mandar correo 265_pendiente
 44557ANGIO
+ID no existe en Zacatuche --- mandar correo id16
 ID no existe en Zacatuche --- mandar correo 266_pendiente
 ID no existe en Zacatuche --- mandar correo 267_pendiente
 ID no existe en Zacatuche --- mandar correo 268_pendiente
 ID no existe en Zacatuche --- mandar correo 269_pendiente
+ID no existe en Zacatuche --- mandar correo id23
 ID no existe en Zacatuche --- mandar correo 270_pendiente
 ID no existe en Zacatuche --- mandar correo 271_pendiente
 ID no existe en Zacatuche --- mandar correo 186_pendiente
@@ -335,6 +364,7 @@ ID no existe en Zacatuche --- mandar correo 326_pendiente
 ID no existe en Zacatuche --- mandar correo 327_pendiente
 ID no existe en Zacatuche --- mandar correo 328_pendiente
 ID no existe en Zacatuche --- mandar correo 329_pendiente
-ID no existe en Zacatuche --- mandar correo id_nuevo
 ID no existe en Zacatuche --- mandar correo nuevo
+ID no existe en Zacatuche --- mandar correo id1
+ID no existe en Zacatuche --- mandar correo id2
 Termina comparación de archivos
