@@ -384,3 +384,123 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | id2 | tax2 | est2 | nan | nan | nan | nan | nan | nan | nan | nan | 
 -------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro nuevo por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | nuevo | idnuevotaxon | estatus | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id_nuevo por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id_nuevo | prueba taxon | estatus | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro idVivian por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | idVivian | idtaxonVivian | null | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id9 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id9 | tax1 | est1 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id8 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id8 | tax1 | est1 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id7 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id7 | tax1 | est1 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id6 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id6 | tax3 | est3 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id5 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id5 | tax2 | est2 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id4 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id4 | tax1 | est1 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id3 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id3 | tax3 | est3 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id2 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id2 | tax2 | est2 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id1 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id1 | tax1 | est1 | null | null | null | null | null | null | null | 
+-------------------------------

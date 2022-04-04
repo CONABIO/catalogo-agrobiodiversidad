@@ -33,3 +33,15 @@
 | 2022-4-1 | id23 | Nuevo registro | - | - | - | vivian |
 | 2022-4-1 | id1 | Nuevo registro | - | - | - | nan |
 | 2022-4-1 | id2 | Nuevo registro | - | - | - | nan |
+| 2022-4-4 | nuevo | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id_nuevo | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | idVivian | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id9 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id8 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id7 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id6 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id5 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id4 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id3 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id2 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-4 | id1 | Borrar registro | - | - | - | admin@zen.dro | 
