@@ -8702,3 +8702,13 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 266054MOLUS | Turbo squamiger | Aceptado/Válido | 266054MOLUS | Turbo (Marmarostoma) squamiger | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
 -------------------------------
+
+#### 2022-4-4
+
+#### Se eliminó el registro id1 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id1 | comprobando correo | null | null | null | null | null | null | null | null | 
+-------------------------------

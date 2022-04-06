@@ -513,3 +513,4 @@
 | 2022-4-4 | 245487ANGIO | Editar registro | taxon | Thelypodiopsis wootonii wootonii | Thelypodiopsis wootonii var. wootonii | Bot validación |
 | 2022-4-4 | 265284MOLUS | Editar registro | taxon | Donax carinatus | Donax (Carinadonax) carinatus | Bot validación |
 | 2022-4-4 | 266054MOLUS | Editar registro | taxon | Turbo squamiger | Turbo (Marmarostoma) squamiger | Bot validación |
+| 2022-4-4 | id1 | Borrar registro | - | - | - | admin@zen.dro | 
