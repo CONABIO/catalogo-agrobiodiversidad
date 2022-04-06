@@ -1,4 +1,4 @@
-Mon Apr 4 20:21:42 CDT 2022
+Tue Apr 5 20:00:01 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
@@ -6,6 +6,4 @@ Leyendo archivos...
 Comparando archivos...
 El id  26460ANGIO  no tiene un id válido asociado.
 El id  44557ANGIO  no tiene un id válido asociado.
-Error: el mensaje no pudo enviarse. 
-        Compruebe que el mensaje no tenga acentos
 Termina comparación de archivos
