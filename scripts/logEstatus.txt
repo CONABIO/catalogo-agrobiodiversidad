@@ -1,9 +1,16 @@
-Wed Apr 6 20:00:01 CDT 2022
+Thu Apr 7 20:00:01 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
 Leyendo archivos...
 Comparando archivos...
 El id  26460ANGIO  no tiene un id válido asociado.
-El id  44557ANGIO  no tiene un id válido asociado.
-Termina comparación de archivos
+El id  254213ANGIO  no tiene un id válido asociado.
+Traceback (most recent call last):
+  File "estatus.py", line 80, in <module>
+    main()
+  File "estatus.py", line 76, in main
+    compareRows(agro_actual)
+  File "estatus.py", line 40, in compareRows
+    functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
+TypeError: 'NoneType' object is not subscriptable
