@@ -1,28 +1,17 @@
-Fri Apr 8 13:51:07 CDT 2022
+Fri Apr 8 13:56:30 CDT 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-Diferencia de horas:  ['4', '59', '59.999991']
-Traceback (most recent call last):
-  File "compare.py", line 136, in <module>
-    main()
-  File "compare.py", line 134, in main
-    compareFiles(actual,anterior,paths.path_history,paths.path_changelog)
-  File "compare.py", line 101, in compareFiles
-    if(actual.updatedAt[i] == anterior.updatedAt[modTaxon]):
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/core/generic.py", line 5141, in __getattr__
-    return object.__getattribute__(self, name)
-AttributeError: 'DataFrame' object has no attribute 'updatedAt'
+Diferencia de horas:  ['4', '59', '59.999988']
+Termina comparación de archivos
 git add history.md changelog.md
 git commit
-[main b5e33bd] validacion diaria de registros
- 2 files changed, 2 insertions(+), 9548 deletions(-)
- rewrite changelog.md (99%)
- rewrite history.md (100%)
+[main 4041fb0] validacion diaria de registros
+ 2 files changed, 9579 insertions(+)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   2a880b8..b5e33bd  main -> main
+   1e6399b..4041fb0  main -> main
 Proceso terminado!
