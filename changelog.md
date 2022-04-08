@@ -514,3 +514,61 @@
 | 2022-4-4 | 265284MOLUS | Editar registro | taxon | Donax carinatus | Donax (Carinadonax) carinatus | Bot validación |
 | 2022-4-4 | 266054MOLUS | Editar registro | taxon | Turbo squamiger | Turbo (Marmarostoma) squamiger | Bot validación |
 | 2022-4-4 | id1 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-7 | 35876ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 35876ANGIO | Editar registro | id_valido | 35876ANGIO | 74804ANGIO | Bot validación |
+| 2022-4-7 | 35876ANGIO | Editar registro | taxon_valido | Salvia sacculus | Salvia connivens | Bot validación |
+| 2022-4-7 | 35876ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74389ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74389ANGIO | Editar registro | id_valido | 74389ANGIO | 33798ANGIO | Bot validación |
+| 2022-4-7 | 74389ANGIO | Editar registro | taxon_valido | Salvia pseudomisella | Salvia misella | Bot validación |
+| 2022-4-7 | 74389ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74795ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74795ANGIO | Editar registro | id_valido | 74795ANGIO | 33763ANGIO | Bot validación |
+| 2022-4-7 | 74795ANGIO | Editar registro | taxon_valido | Salvia capillosa | Salvia amarissima | Bot validación |
+| 2022-4-7 | 74795ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74887ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74887ANGIO | Editar registro | id_valido | 74887ANGIO | 74388ANGIO | Bot validación |
+| 2022-4-7 | 74887ANGIO | Editar registro | taxon_valido | Salvia perplicata | Salvia prasiifolia | Bot validación |
+| 2022-4-7 | 74887ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74889ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74889ANGIO | Editar registro | id_valido | 74889ANGIO | 35987ANGIO | Bot validación |
+| 2022-4-7 | 74889ANGIO | Editar registro | taxon_valido | Salvia pinguifolia | Salvia ballotiflora | Bot validación |
+| 2022-4-7 | 74889ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74919ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74919ANGIO | Editar registro | id_valido | 74919ANGIO | 28636ANGIO | Bot validación |
+| 2022-4-7 | 74919ANGIO | Editar registro | taxon_valido | Salvia subobscura | Salvia lavanduloides | Bot validación |
+| 2022-4-7 | 74919ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74923ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74923ANGIO | Editar registro | id_valido | 74923ANGIO | 74778ANGIO | Bot validación |
+| 2022-4-7 | 74923ANGIO | Editar registro | taxon_valido | Salvia tepicensis | Salvia aequidistans | Bot validación |
+| 2022-4-7 | 74923ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 57717ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 57717ANGIO | Editar registro | id_valido | 57717ANGIO | 33789ANGIO | Bot validación |
+| 2022-4-7 | 57717ANGIO | Editar registro | taxon_valido | Salvia townsendii | Salvia iodantha | Bot validación |
+| 2022-4-7 | 57717ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74382ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74382ANGIO | Editar registro | id_valido | 74382ANGIO | 74883ANGIO | Bot validación |
+| 2022-4-7 | 74382ANGIO | Editar registro | taxon_valido | Salvia marci | Salvia peninsularis | Bot validación |
+| 2022-4-7 | 74382ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74765ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74765ANGIO | Editar registro | id_valido | 74765ANGIO | 28591ANGIO | Bot validación |
+| 2022-4-7 | 74765ANGIO | Editar registro | taxon_valido | Hyptis macrocephala | Hyptis capitata | Bot validación |
+| 2022-4-7 | 74765ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74815ANGIO | Nuevo registro | - | - | - | Bot validación |
+| 2022-4-7 | 74822ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74822ANGIO | Editar registro | id_valido | 74822ANGIO | 74905ANGIO | Bot validación |
+| 2022-4-7 | 74822ANGIO | Editar registro | taxon_valido | Salvia eplingiana | Salvia rostellata | Bot validación |
+| 2022-4-7 | 74822ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74874ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74874ANGIO | Editar registro | id_valido | 74874ANGIO | 57341ANGIO | Bot validación |
+| 2022-4-7 | 74874ANGIO | Editar registro | taxon_valido | Salvia novoleontis | Salvia villosa | Bot validación |
+| 2022-4-7 | 74874ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 74900ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 74900ANGIO | Editar registro | id_valido | 74900ANGIO | 28636ANGIO | Bot validación |
+| 2022-4-7 | 74900ANGIO | Editar registro | taxon_valido | Salvia remota | Salvia lavanduloides | Bot validación |
+| 2022-4-7 | 74900ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 78072ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-7 | 78072ANGIO | Editar registro | id_valido | 78072ANGIO | 33800ANGIO | Bot validación |
+| 2022-4-7 | 78072ANGIO | Editar registro | taxon_valido | Salvia zacualpanensis | Salvia mocinoi | Bot validación |
+| 2022-4-7 | 78072ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-7 | 33735ANGIO | Nuevo registro | - | - | - | Bot validación |
