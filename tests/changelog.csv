@@ -1,0 +1,5 @@
+Fecha,ID,Tipo cambio,Campo,Valor anterior,Valor actual,Usuario
+2022-04-11,13131ANGIO,Registro nuevo,,,,usuario3
+2022-04-11,7991ANGIO,Registro borrado,,,,
+2022-04-11,7914ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,usuario2
+2022-04-11,7914ANGIO,Registro editado,comentarios_revision,,prueba registro editado,usuario2
