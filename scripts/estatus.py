@@ -25,7 +25,7 @@ def compareRows(agro_actual):
 
         #Query a Zacatuche
         df_data = functions.getInfoTaxon(agro_actual.id[i])
-        
+        #print(agro_actual.id[i])
         #Existe ID en zacatuche?
         #Si sí, sigue validando, si no, manda un correo a Alicia, Irene y Vivian para hacer seguimiento.
         if df_data!=None:
@@ -37,13 +37,17 @@ def compareRows(agro_actual):
                 if str(df_data['taxonomicStatus'])!='Sinónimo':
                     #Cambia a válido
                     #Cambia en la base el estatus, el id válido, el taxón válido y la categoria_agrobiodiversidad = Agrobiodiversidad
-                    functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
+                    if(df_data['acceptedNameUsage']==None):
+                        functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido="NULL", taxon_valido="NULL", categoria_agrobiodiversidad="NULL")
+
+                    else:
+                        functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
                     
                 else:
                     #Cambia a sinónimo
                     #Si el registro no tiene taxon id válido relacionado sólo actualiza estatus y categoria_agrobiodiversidad=NULL
                     if(df_data['acceptedNameUsage']==None):
-                        functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), categoria_agrobiodiversidad="NULL")
+                        functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido="NULL", taxon_valido="NULL", categoria_agrobiodiversidad="NULL")
                     
                     #Si sí tiene taxon id valido relacionado y el taxon existe en nuestra base, se actualiza su estatus, id_valido, taxon_valido y categoria_agrobiodiversidad=NULL del taxon que se está revisando. 
                     #Si el taxon no existe en nuestra base, se agrega.
@@ -54,6 +58,7 @@ def compareRows(agro_actual):
                             functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="NULL")
 
                         else:
+                            functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
                             df_data_new = functions.getInfoTaxon(str(df_data['acceptedNameUsage']['id']))
                             functions.addLocal(id=str(df_data_new['id']),taxon=str(df_data_new['scientificName']),estatus=str(df_data_new['taxonomicStatus']),id_valido=str(df_data_new['id']),taxon_valido=str(df_data_new['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
                 
@@ -65,7 +70,8 @@ def compareRows(agro_actual):
         else:
             email = email + str(agro_actual.id[i]) +"     |      "+ str(agro_actual.taxon[i]) + "\n"
             
-    functions.sendeMail(email)
+    if len(email) != 0:
+        functions.sendeMail(email)
 
 
 def main():
