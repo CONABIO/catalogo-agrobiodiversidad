@@ -9030,3 +9030,45 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 264805MOLUS | Anadara aequatorialis | Aceptado/Válido | 264805MOLUS | Anadara (Cunearca) aequatorialis | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
 -------------------------------
+
+#### 2022-4-18
+
+#### Se eliminó el registro probando por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | probando | porfin | null | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-18
+
+#### Se eliminó el registro id_2 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id_2 | taxon2 | estatus2 | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-18
+
+#### Se agregó el registro hola por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| hola | holataxon | nan | nan | nan | nan | nan | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-18
+
+#### Se agregó el registro id_1 y se actualizó en el mismo día por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| id_1 | holaId1 | estatus1 | id valid | nan | nan | nan | nan | nan | nan | admin@zen.dro | 
+-------------------------------

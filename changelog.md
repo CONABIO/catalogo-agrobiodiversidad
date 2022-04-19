@@ -587,3 +587,7 @@
 | 2022-4-8 | 76505ANGIO | Editar registro | taxon | Phacelia patuliflora teucriifolia | Phacelia patuliflora var. teucriifolia | Bot validación |
 | 2022-4-8 | 232892ANGIO | Editar registro | taxon | Agave gypsicola | Agave (Littaea) (Choritepalae) gypsicola | Bot validación |
 | 2022-4-8 | 264805MOLUS | Editar registro | taxon | Anadara aequatorialis | Anadara (Cunearca) aequatorialis | Bot validación |
+| 2022-4-18 | probando | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-18 | id_2 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-18 | hola | Nuevo registro | - | - | - | admin@zen.dro |
+| 2022-4-18 | id_1 | Nuevo registro | - | - | - | admin@zen.dro |
