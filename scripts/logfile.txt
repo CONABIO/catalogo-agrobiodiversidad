@@ -1,17 +1,44 @@
-Mon Apr 18 20:30:01 CDT 2022
+Tue Apr 19 20:30:01 CDT 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 Leyendo archivos...
 Comparando archivos...
-Diferencia de horas:  ['4', '59', '59.999991']
-Termina comparación de archivos
+Traceback (most recent call last):
+  File "compare.py", line 136, in <module>
+    main()
+  File "compare.py", line 134, in main
+    compareFiles(actual,anterior,paths.path_history,paths.path_changelog)
+  File "compare.py", line 29, in compareFiles
+    history = open(path_history,'a')
+FileNotFoundError: [Errno 2] No such file or directory: '/home/vbass/etiquetas/etiquetas/graphql-server/history.txt'
+cp: cannot stat '/home/vbass/etiquetas/etiquetas/graphql-server/history.txt': No such file or directory
+cp: cannot stat '/home/vbass/etiquetas/etiquetas/graphql-server/changelog.txt': No such file or directory
 git add history.md changelog.md
 git commit
-[main 635d243] validacion diaria de registros
- 2 files changed, 46 insertions(+)
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+	modified:   scripts/logEstatus.txt
+	modified:   scripts/logfile.txt
+
+Untracked files:
+	Zacatuche.sh
+	__pycache__/
+	actualizaciones_agro.sh
+	agro_actual.csv
+	agro_anterior.csv
+	comparaZacatuche.csv
+	compare.py
+	compareZacatuche.sh
+	estatus.py
+	functions.py
+	paths.py
+	pruebas.sh
+
+no changes added to commit
 git push
-To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   56ed411..635d243  main -> main
+Everything up-to-date
 Proceso terminado!
