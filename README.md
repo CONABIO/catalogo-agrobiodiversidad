@@ -1,8 +1,8 @@
-*Log de actualizaciones a la lista de taxones de agrobiodiversidad, mantenida por SIAgro.*
-
 * Para acceder a la [instancia](https://siagro.conabio.gob.mx/listado_agrobiodiversidad): https://siagro.conabio.gob.mx/listado_agrobiodiversidad
 
-# Para mantener al día la base de datos del Listado de agrobiodiversidad, se cuenta con una serie de scripts desarrollados en Python que realizan la detección de cambios tanto en el SNIB como en la misma base de datos. 
+# Scripts de validación
+
+Para mantener al día la base de datos del Listado de agrobiodiversidad, se cuenta con una serie de scripts desarrollados en Python que realizan la detección de cambios tanto en el SNIB como en la misma base de datos. 
 
 ## Comparación del listado contra el SNIB
 El script [compareZacatuche.sh](https://github.com/CONABIO/catalogo-agrobiodiversidad/blob/main/scripts/compareZacatuche.sh) se ejecuta todos los días a las 20:00 horas. Descarga la información que hay en el Listado en un archivo .csv y realiza la comparación de lo que hay en la base de datos del Listado contra lo que hay en el SNIB con ayuda del script [estatus.py](https://github.com/CONABIO/catalogo-agrobiodiversidad/blob/main/scripts/estatus.py).
