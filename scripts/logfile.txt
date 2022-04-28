@@ -1,4 +1,4 @@
-Tue Apr 26 20:30:01 CDT 2022
+Wed Apr 27 20:30:01 CDT 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -18,7 +18,8 @@ cp: cannot stat '/home/vbass/etiquetas/etiquetas/graphql-server/changelog.txt': 
 git add history.md changelog.md
 git commit
 On branch main
-Your branch is up to date with 'origin/main'.
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
 
 Changes not staged for commit:
 	modified:   scripts/logEstatus.txt
@@ -40,5 +41,12 @@ Untracked files:
 
 no changes added to commit
 git push
-Everything up-to-date
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'git@github.com:CONABIO/catalogo-agrobiodiversidad.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 Proceso terminado!
