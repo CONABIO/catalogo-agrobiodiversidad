@@ -1,4 +1,4 @@
-Fri Apr 29 13:03:30 CDT 2022
+Fri Apr 29 13:14:09 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
@@ -33,16 +33,12 @@ sinonimo
 sinonimo
 sinonimo
 sinonimo
-sinonimo
-sinonimo
-sinonimo
-sinonimo
-sinonimo
-sinonimo
-sinonimo
-sinonimo
-sinonimo
-sinonimo
-sinonimo
 El id  254213ANGIO  no tiene un id válido asociado.
-Termina comparación de archivos
+Traceback (most recent call last):
+  File "estatus.py", line 101, in <module>
+    main()
+  File "estatus.py", line 97, in main
+    compareRows(agro_actual)
+  File "estatus.py", line 79, in compareRows
+    elif(df_data['acceptedNameUsage']['id'] in agro_actual.id.values == False):
+TypeError: 'NoneType' object is not subscriptable
