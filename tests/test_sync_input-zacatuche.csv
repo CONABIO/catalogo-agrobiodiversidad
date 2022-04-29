@@ -1,0 +1,17 @@
+﻿id,taxon,estatus,id_valido,taxon_valido,comentarios_revision
+7908ANGIO,Nopalea nuda,Aceptado/Válido,7908ANGIO,Nopalea nuda,Prueba: sin cambios
+7914ANGIO,Nopalea karwinskiana prueba,Aceptado/Válido,7914ANGIO,Nopalea karwinskiana,Prueba: Sólo cambia taxon
+7991ANGIO,Lophophora diffusa,Aceptado/Válido,7991ANGIO,Lophophora diffusa,
+177_pendiente,Citrus maxima,,,,"Prueba: sin cambios, id pendiente"
+26869ANGIO,Annona diversifolia,Aceptado/Válido,26869ANGIO,Annona diversifolia,Prueba: Estatus sinónimo -> válido
+34599ANGIO,Piper melastomoides,Sinónimo,7908ANGIO,Nopalea nuda,Prueba: Estatus No aplica -> sinónimo
+34601ANGIO,Piper misantlense,Sinónimo,,,"Prueba: Estatus sinónimo se mantiene, pero no hay id_valido ni taxon_valido"
+34602ANGIO,Piper muelleri,Aceptado/Válido,34602ANGIO,Piper muelleri,
+34603ANGIO,Piper neesianum,No aplica,,,Prueba: Estatus Válido -> No aplica
+254213ANGIO,Salvia modesta,Aceptado/Válido,254213ANGIO,Salvia modesta,Prueba: Estatus No aplica -> válido
+,,,,,
+75732ANGIO,Rubus aboriginum,Sinónimo,75735ANGIO,flagellaris,"Prueba: Estatus sinónimo -> sinónimo, nuevo id_val que no está en la lista"
+76752ANGIO,Solanum palmeri,Sinónimo,55316ANGIO,umbelliferum,"Prueba: Estatus Válido -> Sinónimo, nuevo id_val no está en la lista local"
+6206PECES,Canthigaster rostrata,Sinónimo,7908ANGIO,Nopalea nuda,"Prueba: Estatus Válido -> Sinónimo, nuevo id_val ya está en la lista local"
+75735ANGIO,Rubus flagellaris,Aceptado/Válido,75735ANGIO,Rubus flagellaris,
+55316ANGIO,Solanum (Solanum) (Dulcamara) umbelliferum,Aceptado/Válido,55316ANGIO,Solanum (Solanum) (Dulcamara) umbelliferum,
