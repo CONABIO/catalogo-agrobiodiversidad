@@ -9092,3 +9092,1464 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
  | id_1 | holaId1 | estatus1 | id valid | null | null | null | null | null | null | 
 -------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 20682ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20682ANGIO | Chamaedorea affinis | Sinónimo | 20695ANGIO | Chamaedorea elatior | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20682ANGIO | Chamaedorea affinis | Sinónimo | 20695ANGIO | elatior | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 20691ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20691ANGIO | Chamaedorea concolor | Sinónimo | 36613ANGIO | Chamaedorea pinnatifrons | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20691ANGIO | Chamaedorea concolor | Sinónimo | 36613ANGIO | pinnatifrons | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 26869ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 26869ANGIO | Annona diversifolia | Sinónimo | 32487ANGIO | Annona macroprophyllata | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Domesticada | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 26869ANGIO | Annona diversifolia | Sinónimo | 32487ANGIO | macroprophyllata | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 40158ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 40158ANGIO | Zea (Luxuriantes) luxurians | Aceptado/Válido | 40158ANGIO | Zea (Luxuriantes) luxurians | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 40158ANGIO | Zea (Luxuriantes) luxurians | Aceptado/Válido | 40158ANGIO | Zea luxurians | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 41165ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 41165ANGIO | Zea (Luxuriantes) perennis | Aceptado/Válido | 41165ANGIO | Zea (Luxuriantes) perennis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 41165ANGIO | Zea (Luxuriantes) perennis | Aceptado/Válido | 41165ANGIO | Zea perennis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 49734ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 49734ANGIO | Phaseolus altimontanus | Sinónimo | 49717ANGIO | Phaseolus albiflorus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 49734ANGIO | Phaseolus altimontanus | Sinónimo | 49717ANGIO | albiflorus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 49744ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 49744ANGIO | Phaseolus amabilis | Sinónimo | 49805ANGIO | Phaseolus anisophyllus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 49744ANGIO | Phaseolus amabilis | Sinónimo | 49805ANGIO | anisophyllus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 53093ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 53093ANGIO | Phaseolus venosus | Sinónimo | 51470ANGIO | Phaseolus maculatus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 53093ANGIO | Phaseolus venosus | Sinónimo | 51470ANGIO | maculatus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 55305ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 55305ANGIO | Solanum (Leptostemomum) (Melongena) tridynamum | Sinónimo | 54989ANGIO | Solanum houstonii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 55305ANGIO | Solanum (Leptostemomum) (Melongena) tridynamum | Sinónimo | 54989ANGIO | houstonii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 74790ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 74790ANGIO | Salvia booleana | Sinónimo | 74815ANGIO | Salvia darcyi | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 74790ANGIO | Salvia booleana | Sinónimo | 74815ANGIO | Salvia darcyi | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 74827ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 74827ANGIO | Salvia forreri | Sinónimo | 33835ANGIO | Salvia prunelloides | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 74827ANGIO | Salvia forreri | Sinónimo | 33835ANGIO | prunelloides | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 74849ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 74849ANGIO | Salvia jorgehintoniana | Sinónimo | 33764ANGIO | Salvia longistyla | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 74849ANGIO | Salvia jorgehintoniana | Sinónimo | 33764ANGIO | longistyla | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 74907ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 74907ANGIO | Salvia rupicola | Sinónimo | 35891ANGIO | Salvia melissodora | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 74907ANGIO | Salvia rupicola | Sinónimo | 35891ANGIO | melissodora | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 64629ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 64629ANGIO | Zea (Zea) mays subsp. mexicana | Aceptado/Válido | 64629ANGIO | Zea (Zea) mays subsp. mexicana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 64629ANGIO | Zea (Zea) mays subsp. mexicana | Aceptado/Válido | 64629ANGIO | Zea mays subsp. mexicana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 64652ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 64652ANGIO | Zea (Zea) mays subsp. parviglumis | Aceptado/Válido | 64652ANGIO | Zea (Zea) mays subsp. parviglumis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 64652ANGIO | Zea (Zea) mays subsp. parviglumis | Aceptado/Válido | 64652ANGIO | Zea mays subsp. parviglumis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 64622ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 64622ANGIO | Zea (Zea) mays subsp. mays | Aceptado/Válido | 64622ANGIO | Zea (Zea) mays subsp. mays | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 64622ANGIO | Zea (Zea) mays subsp. mays | Aceptado/Válido | 64622ANGIO | Zea mays subsp. mays | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 64813ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 64813ANGIO | Phaseolus coccineus subsp. formosus | Sinónimo | 50241ANGIO | Phaseolus coccineus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 64813ANGIO | Phaseolus coccineus subsp. formosus | Sinónimo | 50241ANGIO | coccineus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79242ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79242ANGIO | Zea (Zea) mays subsp. mays Azul | Aceptado/Válido | 79242ANGIO | Zea (Zea) mays subsp. mays Azul | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79242ANGIO | Zea (Zea) mays subsp. mays Azul | Aceptado/Válido | 79242ANGIO | Zea mays subsp. mays Azul | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79239ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79239ANGIO | Zea (Zea) mays subsp. mays Ancho | Aceptado/Válido | 79239ANGIO | Zea (Zea) mays subsp. mays Ancho | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79239ANGIO | Zea (Zea) mays subsp. mays Ancho | Aceptado/Válido | 79239ANGIO | Zea mays subsp. mays Ancho | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79240ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79240ANGIO | Zea (Zea) mays subsp. mays Apachito | Aceptado/Válido | 79240ANGIO | Zea (Zea) mays subsp. mays Apachito | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79240ANGIO | Zea (Zea) mays subsp. mays Apachito | Aceptado/Válido | 79240ANGIO | Zea mays subsp. mays Apachito | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79241ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79241ANGIO | Zea (Zea) mays subsp. mays Arrocillo Amarillo | Aceptado/Válido | 79241ANGIO | Zea (Zea) mays subsp. mays Arrocillo Amarillo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79241ANGIO | Zea (Zea) mays subsp. mays Arrocillo Amarillo | Aceptado/Válido | 79241ANGIO | Zea mays subsp. mays Arrocillo Amarillo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79238ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79238ANGIO | Zea (Zea) mays subsp. mays Tuxpeño | Aceptado/Válido | 79238ANGIO | Zea (Zea) mays subsp. mays Tuxpeño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79238ANGIO | Zea (Zea) mays subsp. mays Tuxpeño | Aceptado/Válido | 79238ANGIO | Zea mays subsp. mays Tuxpeño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79246ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79246ANGIO | Zea (Zea) mays subsp. mays Celaya | Aceptado/Válido | 79246ANGIO | Zea (Zea) mays subsp. mays Celaya | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79246ANGIO | Zea (Zea) mays subsp. mays Celaya | Aceptado/Válido | 79246ANGIO | Zea mays subsp. mays Celaya | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79247ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79247ANGIO | Zea (Zea) mays subsp. mays Comiteco | Aceptado/Válido | 79247ANGIO | Zea (Zea) mays subsp. mays Comiteco | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79247ANGIO | Zea (Zea) mays subsp. mays Comiteco | Aceptado/Válido | 79247ANGIO | Zea mays subsp. mays Comiteco | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79248ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79248ANGIO | Zea (Zea) mays subsp. mays Complejo Serrano de Jalisco | Aceptado/Válido | 79248ANGIO | Zea (Zea) mays subsp. mays Complejo Serrano de Jalisco | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79248ANGIO | Zea (Zea) mays subsp. mays Complejo Serrano de Jalisco | Aceptado/Válido | 79248ANGIO | Zea mays subsp. mays Complejo Serrano de Jalisco | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79249ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79249ANGIO | Zea (Zea) mays subsp. mays Conejo | Aceptado/Válido | 79249ANGIO | Zea (Zea) mays subsp. mays Conejo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79249ANGIO | Zea (Zea) mays subsp. mays Conejo | Aceptado/Válido | 79249ANGIO | Zea mays subsp. mays Conejo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79250ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79250ANGIO | Zea (Zea) mays subsp. mays Cónico | Aceptado/Válido | 79250ANGIO | Zea (Zea) mays subsp. mays Cónico | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79250ANGIO | Zea (Zea) mays subsp. mays Cónico | Aceptado/Válido | 79250ANGIO | Zea mays subsp. mays Cónico | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79251ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79251ANGIO | Zea (Zea) mays subsp. mays Cónico Norteño | Aceptado/Válido | 79251ANGIO | Zea (Zea) mays subsp. mays Cónico Norteño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79251ANGIO | Zea (Zea) mays subsp. mays Cónico Norteño | Aceptado/Válido | 79251ANGIO | Zea mays subsp. mays Cónico Norteño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79252ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79252ANGIO | Zea (Zea) mays subsp. mays Coscomatepec | Aceptado/Válido | 79252ANGIO | Zea (Zea) mays subsp. mays Coscomatepec | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79252ANGIO | Zea (Zea) mays subsp. mays Coscomatepec | Aceptado/Válido | 79252ANGIO | Zea mays subsp. mays Coscomatepec | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79253ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79253ANGIO | Zea (Zea) mays subsp. mays Cristalino de Chihuahua | Aceptado/Válido | 79253ANGIO | Zea (Zea) mays subsp. mays Cristalino de Chihuahua | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79253ANGIO | Zea (Zea) mays subsp. mays Cristalino de Chihuahua | Aceptado/Válido | 79253ANGIO | Zea mays subsp. mays Cristalino de Chihuahua | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79254ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79254ANGIO | Zea (Zea) mays subsp. mays Chalqueño | Aceptado/Válido | 79254ANGIO | Zea (Zea) mays subsp. mays Chalqueño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79254ANGIO | Zea (Zea) mays subsp. mays Chalqueño | Aceptado/Válido | 79254ANGIO | Zea mays subsp. mays Chalqueño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79255ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79255ANGIO | Zea (Zea) mays subsp. mays Chapalote | Aceptado/Válido | 79255ANGIO | Zea (Zea) mays subsp. mays Chapalote | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79255ANGIO | Zea (Zea) mays subsp. mays Chapalote | Aceptado/Válido | 79255ANGIO | Zea mays subsp. mays Chapalote | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79256ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79256ANGIO | Zea (Zea) mays subsp. mays Elotes Occidentales | Aceptado/Válido | 79256ANGIO | Zea (Zea) mays subsp. mays Elotes Occidentales | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79256ANGIO | Zea (Zea) mays subsp. mays Elotes Occidentales | Aceptado/Válido | 79256ANGIO | Zea mays subsp. mays Elotes Occidentales | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79257ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79257ANGIO | Zea (Zea) mays subsp. mays Elotes Cónicos | Aceptado/Válido | 79257ANGIO | Zea (Zea) mays subsp. mays Elotes Cónicos | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79257ANGIO | Zea (Zea) mays subsp. mays Elotes Cónicos | Aceptado/Válido | 79257ANGIO | Zea mays subsp. mays Elotes Cónicos | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79258ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79258ANGIO | Zea (Zea) mays subsp. mays Gordo | Aceptado/Válido | 79258ANGIO | Zea (Zea) mays subsp. mays Gordo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79258ANGIO | Zea (Zea) mays subsp. mays Gordo | Aceptado/Válido | 79258ANGIO | Zea mays subsp. mays Gordo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79259ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79259ANGIO | Zea (Zea) mays subsp. mays Harinoso de Ocho | Aceptado/Válido | 79259ANGIO | Zea (Zea) mays subsp. mays Harinoso de Ocho | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79259ANGIO | Zea (Zea) mays subsp. mays Harinoso de Ocho | Aceptado/Válido | 79259ANGIO | Zea mays subsp. mays Harinoso de Ocho | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79260ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79260ANGIO | Zea (Zea) mays subsp. mays Jala | Aceptado/Válido | 79260ANGIO | Zea (Zea) mays subsp. mays Jala | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79260ANGIO | Zea (Zea) mays subsp. mays Jala | Aceptado/Válido | 79260ANGIO | Zea mays subsp. mays Jala | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79244ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79244ANGIO | Zea (Zea) mays subsp. mays Bolita | Aceptado/Válido | 79244ANGIO | Zea (Zea) mays subsp. mays Bolita | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79244ANGIO | Zea (Zea) mays subsp. mays Bolita | Aceptado/Válido | 79244ANGIO | Zea mays subsp. mays Bolita | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79264ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79264ANGIO | Zea (Zea) mays subsp. mays Nal-tel | Aceptado/Válido | 79264ANGIO | Zea (Zea) mays subsp. mays Nal-tel | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79264ANGIO | Zea (Zea) mays subsp. mays Nal-tel | Aceptado/Válido | 79264ANGIO | Zea mays subsp. mays Nal-tel | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79265ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79265ANGIO | Zea (Zea) mays subsp. mays Olotillo | Aceptado/Válido | 79265ANGIO | Zea (Zea) mays subsp. mays Olotillo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79265ANGIO | Zea (Zea) mays subsp. mays Olotillo | Aceptado/Válido | 79265ANGIO | Zea mays subsp. mays Olotillo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79266ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79266ANGIO | Zea (Zea) mays subsp. mays Olotón | Aceptado/Válido | 79266ANGIO | Zea (Zea) mays subsp. mays Olotón | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79266ANGIO | Zea (Zea) mays subsp. mays Olotón | Aceptado/Válido | 79266ANGIO | Zea mays subsp. mays Olotón | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79267ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79267ANGIO | Zea (Zea) mays subsp. mays Onaveño | Aceptado/Válido | 79267ANGIO | Zea (Zea) mays subsp. mays Onaveño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79267ANGIO | Zea (Zea) mays subsp. mays Onaveño | Aceptado/Válido | 79267ANGIO | Zea mays subsp. mays Onaveño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79268ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79268ANGIO | Zea (Zea) mays subsp. mays Palomero de Chihuahua | Aceptado/Válido | 79268ANGIO | Zea (Zea) mays subsp. mays Palomero de Chihuahua | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79268ANGIO | Zea (Zea) mays subsp. mays Palomero de Chihuahua | Aceptado/Válido | 79268ANGIO | Zea mays subsp. mays Palomero de Chihuahua | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79269ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79269ANGIO | Zea (Zea) mays subsp. mays Palomero Toluqueño | Aceptado/Válido | 79269ANGIO | Zea (Zea) mays subsp. mays Palomero Toluqueño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79269ANGIO | Zea (Zea) mays subsp. mays Palomero Toluqueño | Aceptado/Válido | 79269ANGIO | Zea mays subsp. mays Palomero Toluqueño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79270ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79270ANGIO | Zea (Zea) mays subsp. mays Pepitilla | Aceptado/Válido | 79270ANGIO | Zea (Zea) mays subsp. mays Pepitilla | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79270ANGIO | Zea (Zea) mays subsp. mays Pepitilla | Aceptado/Válido | 79270ANGIO | Zea mays subsp. mays Pepitilla | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79271ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79271ANGIO | Zea (Zea) mays subsp. mays Ratón | Aceptado/Válido | 79271ANGIO | Zea (Zea) mays subsp. mays Ratón | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79271ANGIO | Zea (Zea) mays subsp. mays Ratón | Aceptado/Válido | 79271ANGIO | Zea mays subsp. mays Ratón | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79272ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79272ANGIO | Zea (Zea) mays subsp. mays Reventador | Aceptado/Válido | 79272ANGIO | Zea (Zea) mays subsp. mays Reventador | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79272ANGIO | Zea (Zea) mays subsp. mays Reventador | Aceptado/Válido | 79272ANGIO | Zea mays subsp. mays Reventador | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79273ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79273ANGIO | Zea (Zea) mays subsp. mays Tablilla de Ocho | Aceptado/Válido | 79273ANGIO | Zea (Zea) mays subsp. mays Tablilla de Ocho | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79273ANGIO | Zea (Zea) mays subsp. mays Tablilla de Ocho | Aceptado/Válido | 79273ANGIO | Zea mays subsp. mays Tablilla de Ocho | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79274ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79274ANGIO | Zea (Zea) mays subsp. mays Tabloncillo | Aceptado/Válido | 79274ANGIO | Zea (Zea) mays subsp. mays Tabloncillo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79274ANGIO | Zea (Zea) mays subsp. mays Tabloncillo | Aceptado/Válido | 79274ANGIO | Zea mays subsp. mays Tabloncillo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79275ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79275ANGIO | Zea (Zea) mays subsp. mays Dulcillo del Noroeste | Aceptado/Válido | 79275ANGIO | Zea (Zea) mays subsp. mays Dulcillo del Noroeste | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79275ANGIO | Zea (Zea) mays subsp. mays Dulcillo del Noroeste | Aceptado/Válido | 79275ANGIO | Zea mays subsp. mays Dulcillo del Noroeste | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79276ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79276ANGIO | Zea (Zea) mays subsp. mays Dzit Bacal | Aceptado/Válido | 79276ANGIO | Zea (Zea) mays subsp. mays Dzit Bacal | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79276ANGIO | Zea (Zea) mays subsp. mays Dzit Bacal | Aceptado/Válido | 79276ANGIO | Zea mays subsp. mays Dzit Bacal | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79277ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79277ANGIO | Zea (Zea) mays subsp. mays Elotero de Sinaloa | Aceptado/Válido | 79277ANGIO | Zea (Zea) mays subsp. mays Elotero de Sinaloa | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79277ANGIO | Zea (Zea) mays subsp. mays Elotero de Sinaloa | Aceptado/Válido | 79277ANGIO | Zea mays subsp. mays Elotero de Sinaloa | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79278ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79278ANGIO | Zea (Zea) mays subsp. mays Tabloncillo Perla | Aceptado/Válido | 79278ANGIO | Zea (Zea) mays subsp. mays Tabloncillo Perla | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79278ANGIO | Zea (Zea) mays subsp. mays Tabloncillo Perla | Aceptado/Válido | 79278ANGIO | Zea mays subsp. mays Tabloncillo Perla | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79263ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79263ANGIO | Zea (Zea) mays subsp. mays Nal-tel de Altura | Aceptado/Válido | 79263ANGIO | Zea (Zea) mays subsp. mays Nal-tel de Altura | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79263ANGIO | Zea (Zea) mays subsp. mays Nal-tel de Altura | Aceptado/Válido | 79263ANGIO | Zea mays subsp. mays Nal-tel de Altura | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79281ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79281ANGIO | Zea (Zea) mays subsp. mays Tuxpeño Norteño | Aceptado/Válido | 79281ANGIO | Zea (Zea) mays subsp. mays Tuxpeño Norteño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79281ANGIO | Zea (Zea) mays subsp. mays Tuxpeño Norteño | Aceptado/Válido | 79281ANGIO | Zea mays subsp. mays Tuxpeño Norteño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79282ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79282ANGIO | Zea (Zea) mays subsp. mays Vandeño | Aceptado/Válido | 79282ANGIO | Zea (Zea) mays subsp. mays Vandeño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79282ANGIO | Zea (Zea) mays subsp. mays Vandeño | Aceptado/Válido | 79282ANGIO | Zea mays subsp. mays Vandeño | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79283ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79283ANGIO | Zea (Zea) mays subsp. mays Zamorano Amarillo | Aceptado/Válido | 79283ANGIO | Zea (Zea) mays subsp. mays Zamorano Amarillo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79283ANGIO | Zea (Zea) mays subsp. mays Zamorano Amarillo | Aceptado/Válido | 79283ANGIO | Zea mays subsp. mays Zamorano Amarillo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79284ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79284ANGIO | Zea (Zea) mays subsp. mays Zapalote Chico | Aceptado/Válido | 79284ANGIO | Zea (Zea) mays subsp. mays Zapalote Chico | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79284ANGIO | Zea (Zea) mays subsp. mays Zapalote Chico | Aceptado/Válido | 79284ANGIO | Zea mays subsp. mays Zapalote Chico | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79285ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79285ANGIO | Zea (Zea) mays subsp. mays Zapalote Grande | Aceptado/Válido | 79285ANGIO | Zea (Zea) mays subsp. mays Zapalote Grande | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79285ANGIO | Zea (Zea) mays subsp. mays Zapalote Grande | Aceptado/Válido | 79285ANGIO | Zea mays subsp. mays Zapalote Grande | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79286ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79286ANGIO | Zea (Zea) mays subsp. mays Serrano Mixe | Aceptado/Válido | 79286ANGIO | Zea (Zea) mays subsp. mays Serrano Mixe | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79286ANGIO | Zea (Zea) mays subsp. mays Serrano Mixe | Aceptado/Válido | 79286ANGIO | Zea mays subsp. mays Serrano Mixe | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79280ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79280ANGIO | Zea (Zea) mays subsp. mays Tepecintle | Aceptado/Válido | 79280ANGIO | Zea (Zea) mays subsp. mays Tepecintle | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79280ANGIO | Zea (Zea) mays subsp. mays Tepecintle | Aceptado/Válido | 79280ANGIO | Zea mays subsp. mays Tepecintle | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 72475ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 72475ANGIO | Agave (Agave) (Salmianae) salmiana var. salmiana | Sinónimo | 277380ANGIO | Agave (Agave) (Salmianae) salmiana subsp. salmiana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 72475ANGIO | Agave (Agave) (Salmianae) salmiana var. salmiana | Aceptado/Válido | 72475ANGIO | Agave (Agave) (Salmianae) salmiana var. salmiana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 238710ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 238710ANGIO | Condea americana | Sinónimo | 33735ANGIO | Hyptis americana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Semi-domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 238710ANGIO | Condea americana | Sinónimo | 33735ANGIO | Hyptis americana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Semi-domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 40309ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 40309ANGIO | Zea (Zea) mays | Aceptado/Válido | 40309ANGIO | Zea (Zea) mays | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Silvestre-Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 40309ANGIO | Zea (Zea) mays | Aceptado/Válido | 40309ANGIO | Zea mays | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Silvestre-Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 44557ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 44557ANGIO | Porophyllum crassifolium | Sinónimo | 230867ANGIO | Bajacalia crassifolia | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 44557ANGIO | Porophyllum crassifolium | Sinónimo |   |   | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79245ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79245ANGIO | Zea (Zea) mays subsp. mays Cacahuacintle | Aceptado/Válido | 79245ANGIO | Zea (Zea) mays subsp. mays Cacahuacintle | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79245ANGIO | Zea (Zea) mays subsp. mays Cacahuacintle | Aceptado/Válido | 79245ANGIO | Zea mays subsp. mays Cacahuacintle | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79261ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79261ANGIO | Zea (Zea) mays subsp. mays Dulce | Aceptado/Válido | 79261ANGIO | Zea (Zea) mays subsp. mays Dulce | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79261ANGIO | Zea (Zea) mays subsp. mays Dulce | Aceptado/Válido | 79261ANGIO | Zea mays subsp. mays Dulce | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79262ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79262ANGIO | Zea (Zea) mays subsp. mays Mushito | Aceptado/Válido | 79262ANGIO | Zea (Zea) mays subsp. mays Mushito | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79262ANGIO | Zea (Zea) mays subsp. mays Mushito | Aceptado/Válido | 79262ANGIO | Zea mays subsp. mays Mushito | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79279ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79279ANGIO | Zea (Zea) mays subsp. mays Tehua | Aceptado/Válido | 79279ANGIO | Zea (Zea) mays subsp. mays Tehua | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79279ANGIO | Zea (Zea) mays subsp. mays Tehua | Aceptado/Válido | 79279ANGIO | Zea mays subsp. mays Tehua | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se agregó el registro 230867ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 230867ANGIO | Bajacalia crassifolia | Aceptado/Válido | 230867ANGIO | Bajacalia crassifolia | nan | Agrobiodiversidad | nan | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se agregó el registro 277357ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 277357ANGIO | Echites asperoglottis | Aceptado/Válido | 277357ANGIO | Echites asperoglottis | nan | Agrobiodiversidad | nan | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 13808ANGIO por el usuario vivian
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 13808ANGIO | Euphorbia greggii | Aceptado/Válido | 13808ANGIO | Euphorbia greggii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | vivian | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 13808ANGIO | Euphorbia greggii | Aceptado/Válido | 13808ANGIO | Euphorbia greggii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 20721ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20721ANGIO | Chamaedorea monostachys | Sinónimo | 20725ANGIO | Chamaedorea oreophila | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20721ANGIO | Chamaedorea monostachys | Sinónimo | 20725ANGIO | oreophila | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 26460ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 26460ANGIO | Fernaldia asperoglottis | Sinónimo | 277357ANGIO | Echites asperoglottis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 26460ANGIO | Fernaldia asperoglottis | Sinónimo | nan | nan | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 34601ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 34601ANGIO | Piper misantlense | Sinónimo | 34573ANGIO | Piper chamissonis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 34601ANGIO | Piper misantlense | Sinónimo | 34573ANGIO | chamissonis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 35117ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 35117ANGIO | Casimiroa sapota | Sinónimo | 35116ANGIO | Casimiroa edulis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Semi-domesticada | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 35117ANGIO | Casimiroa sapota | Sinónimo | 35116ANGIO | edulis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Semi-domesticada | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 49720ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 49720ANGIO | Phaseolus albiviolaceus | Sinónimo | 51754ANGIO | Phaseolus neglectus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 49720ANGIO | Phaseolus albiviolaceus | Sinónimo | 51754ANGIO | neglectus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 51486ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 51486ANGIO | Phaseolus magnilobatus | Sinónimo | 51016ANGIO | Phaseolus hintonii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 51486ANGIO | Phaseolus magnilobatus | Sinónimo | 51016ANGIO | hintonii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 51971ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 51971ANGIO | Phaseolus palmeri | Sinónimo | 50899ANGIO | Phaseolus grayanus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 51971ANGIO | Phaseolus palmeri | Sinónimo | 50899ANGIO | grayanus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 57333ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 57333ANGIO | Salvia sapinea | Sinónimo | 28628ANGIO | Salvia carnea | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 57333ANGIO | Salvia sapinea | Sinónimo | 28628ANGIO | carnea | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 75732ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 75732ANGIO | Rubus aboriginum | Sinónimo | 75735ANGIO | Rubus flagellaris | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 75732ANGIO | Rubus aboriginum | Sinónimo | 75735ANGIO | flagellaris | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 76752ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 76752ANGIO | Solanum palmeri | Sinónimo | 55316ANGIO | Solanum (Solanum) (Dulcamara) umbelliferum | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 76752ANGIO | Solanum palmeri | Sinónimo | 55316ANGIO | umbelliferum | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se agregó el registro 277380ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 277380ANGIO | Agave (Agave) (Salmianae) salmiana subsp. salmiana | Aceptado/Válido | 277380ANGIO | Agave (Agave) (Salmianae) salmiana subsp. salmiana | nan | Agrobiodiversidad | nan | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 72716ANGIO por el usuario admin@zen.dro
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 72716ANGIO | Ananas comosus var. comosus | Sinónimo | 19861ANGIO | Ananas comosus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Domesticada | nan | nan | admin@zen.dro | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 72716ANGIO | Ananas comosus var. comosus | Sinónimo | 19861ANGIO | comosus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 38468ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 38468ANGIO | Zea (Luxuriantes) diploperennis | Aceptado/Válido | 38468ANGIO | Zea (Luxuriantes) diploperennis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 38468ANGIO | Zea (Luxuriantes) diploperennis | Aceptado/Válido | 38468ANGIO | Zea diploperennis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 79243ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79243ANGIO | Zea (Zea) mays subsp. mays Bofo | Aceptado/Válido | 79243ANGIO | Zea (Zea) mays subsp. mays Bofo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 79243ANGIO | Zea (Zea) mays subsp. mays Bofo | Aceptado/Válido | 79243ANGIO | Zea mays subsp. mays Bofo | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Domesticada | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-4-29
+
+#### Se actualizó el registro 231360ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 231360ANGIO | Zea (Zea) mays var. huehuetenangensis | Aceptado/Válido | 231360ANGIO | Zea (Zea) mays var. huehuetenangensis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 231360ANGIO | Zea (Zea) mays var. huehuetenangensis | Aceptado/Válido | 231360ANGIO | Zea mays var. huehuetenangensis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
+-------------------------------

@@ -593,3 +593,116 @@
 | 2022-4-18 | id_1 | Nuevo registro | - | - | - | admin@zen.dro |
 | 2022-4-26 | hola | Borrar registro | - | - | - | admin@zen.dro | 
 | 2022-4-26 | id_1 | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-29 | 20682ANGIO | Editar registro | taxon_valido | elatior | Chamaedorea elatior | admin@zen.dro |
+| 2022-4-29 | 20682ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 20691ANGIO | Editar registro | taxon_valido | pinnatifrons | Chamaedorea pinnatifrons | admin@zen.dro |
+| 2022-4-29 | 20691ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 26869ANGIO | Editar registro | taxon_valido | macroprophyllata | Annona macroprophyllata | admin@zen.dro |
+| 2022-4-29 | 26869ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 40158ANGIO | Editar registro | taxon_valido | Zea luxurians | Zea (Luxuriantes) luxurians | Bot validación |
+| 2022-4-29 | 41165ANGIO | Editar registro | taxon_valido | Zea perennis | Zea (Luxuriantes) perennis | Bot validación |
+| 2022-4-29 | 49734ANGIO | Editar registro | taxon_valido | albiflorus | Phaseolus albiflorus | admin@zen.dro |
+| 2022-4-29 | 49734ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 49744ANGIO | Editar registro | taxon_valido | anisophyllus | Phaseolus anisophyllus | admin@zen.dro |
+| 2022-4-29 | 49744ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 53093ANGIO | Editar registro | taxon_valido | maculatus | Phaseolus maculatus | admin@zen.dro |
+| 2022-4-29 | 53093ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 55305ANGIO | Editar registro | taxon_valido | houstonii | Solanum houstonii | Bot validación |
+| 2022-4-29 | 55305ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-29 | 74790ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-29 | 74827ANGIO | Editar registro | taxon_valido | prunelloides | Salvia prunelloides | admin@zen.dro |
+| 2022-4-29 | 74827ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 74849ANGIO | Editar registro | taxon_valido | longistyla | Salvia longistyla | admin@zen.dro |
+| 2022-4-29 | 74849ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 74907ANGIO | Editar registro | taxon_valido | melissodora | Salvia melissodora | admin@zen.dro |
+| 2022-4-29 | 74907ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 64629ANGIO | Editar registro | taxon_valido | Zea mays subsp. mexicana | Zea (Zea) mays subsp. mexicana | Bot validación |
+| 2022-4-29 | 64652ANGIO | Editar registro | taxon_valido | Zea mays subsp. parviglumis | Zea (Zea) mays subsp. parviglumis | Bot validación |
+| 2022-4-29 | 64622ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays | Zea (Zea) mays subsp. mays | Bot validación |
+| 2022-4-29 | 64813ANGIO | Editar registro | taxon_valido | coccineus | Phaseolus coccineus | admin@zen.dro |
+| 2022-4-29 | 64813ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 79242ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Azul | Zea (Zea) mays subsp. mays Azul | Bot validación |
+| 2022-4-29 | 79239ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Ancho | Zea (Zea) mays subsp. mays Ancho | Bot validación |
+| 2022-4-29 | 79240ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Apachito | Zea (Zea) mays subsp. mays Apachito | Bot validación |
+| 2022-4-29 | 79241ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Arrocillo Amarillo | Zea (Zea) mays subsp. mays Arrocillo Amarillo | Bot validación |
+| 2022-4-29 | 79238ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Tuxpeño | Zea (Zea) mays subsp. mays Tuxpeño | Bot validación |
+| 2022-4-29 | 79246ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Celaya | Zea (Zea) mays subsp. mays Celaya | Bot validación |
+| 2022-4-29 | 79247ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Comiteco | Zea (Zea) mays subsp. mays Comiteco | Bot validación |
+| 2022-4-29 | 79248ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Complejo Serrano de Jalisco | Zea (Zea) mays subsp. mays Complejo Serrano de Jalisco | Bot validación |
+| 2022-4-29 | 79249ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Conejo | Zea (Zea) mays subsp. mays Conejo | Bot validación |
+| 2022-4-29 | 79250ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Cónico | Zea (Zea) mays subsp. mays Cónico | Bot validación |
+| 2022-4-29 | 79251ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Cónico Norteño | Zea (Zea) mays subsp. mays Cónico Norteño | Bot validación |
+| 2022-4-29 | 79252ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Coscomatepec | Zea (Zea) mays subsp. mays Coscomatepec | Bot validación |
+| 2022-4-29 | 79253ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Cristalino de Chihuahua | Zea (Zea) mays subsp. mays Cristalino de Chihuahua | Bot validación |
+| 2022-4-29 | 79254ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Chalqueño | Zea (Zea) mays subsp. mays Chalqueño | Bot validación |
+| 2022-4-29 | 79255ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Chapalote | Zea (Zea) mays subsp. mays Chapalote | Bot validación |
+| 2022-4-29 | 79256ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Elotes Occidentales | Zea (Zea) mays subsp. mays Elotes Occidentales | Bot validación |
+| 2022-4-29 | 79257ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Elotes Cónicos | Zea (Zea) mays subsp. mays Elotes Cónicos | Bot validación |
+| 2022-4-29 | 79258ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Gordo | Zea (Zea) mays subsp. mays Gordo | Bot validación |
+| 2022-4-29 | 79259ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Harinoso de Ocho | Zea (Zea) mays subsp. mays Harinoso de Ocho | Bot validación |
+| 2022-4-29 | 79260ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Jala | Zea (Zea) mays subsp. mays Jala | Bot validación |
+| 2022-4-29 | 79244ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Bolita | Zea (Zea) mays subsp. mays Bolita | Bot validación |
+| 2022-4-29 | 79264ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Nal-tel | Zea (Zea) mays subsp. mays Nal-tel | Bot validación |
+| 2022-4-29 | 79265ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Olotillo | Zea (Zea) mays subsp. mays Olotillo | Bot validación |
+| 2022-4-29 | 79266ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Olotón | Zea (Zea) mays subsp. mays Olotón | Bot validación |
+| 2022-4-29 | 79267ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Onaveño | Zea (Zea) mays subsp. mays Onaveño | Bot validación |
+| 2022-4-29 | 79268ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Palomero de Chihuahua | Zea (Zea) mays subsp. mays Palomero de Chihuahua | Bot validación |
+| 2022-4-29 | 79269ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Palomero Toluqueño | Zea (Zea) mays subsp. mays Palomero Toluqueño | Bot validación |
+| 2022-4-29 | 79270ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Pepitilla | Zea (Zea) mays subsp. mays Pepitilla | Bot validación |
+| 2022-4-29 | 79271ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Ratón | Zea (Zea) mays subsp. mays Ratón | Bot validación |
+| 2022-4-29 | 79272ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Reventador | Zea (Zea) mays subsp. mays Reventador | Bot validación |
+| 2022-4-29 | 79273ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Tablilla de Ocho | Zea (Zea) mays subsp. mays Tablilla de Ocho | Bot validación |
+| 2022-4-29 | 79274ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Tabloncillo | Zea (Zea) mays subsp. mays Tabloncillo | Bot validación |
+| 2022-4-29 | 79275ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Dulcillo del Noroeste | Zea (Zea) mays subsp. mays Dulcillo del Noroeste | Bot validación |
+| 2022-4-29 | 79276ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Dzit Bacal | Zea (Zea) mays subsp. mays Dzit Bacal | Bot validación |
+| 2022-4-29 | 79277ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Elotero de Sinaloa | Zea (Zea) mays subsp. mays Elotero de Sinaloa | Bot validación |
+| 2022-4-29 | 79278ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Tabloncillo Perla | Zea (Zea) mays subsp. mays Tabloncillo Perla | Bot validación |
+| 2022-4-29 | 79263ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Nal-tel de Altura | Zea (Zea) mays subsp. mays Nal-tel de Altura | Bot validación |
+| 2022-4-29 | 79281ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Tuxpeño Norteño | Zea (Zea) mays subsp. mays Tuxpeño Norteño | Bot validación |
+| 2022-4-29 | 79282ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Vandeño | Zea (Zea) mays subsp. mays Vandeño | Bot validación |
+| 2022-4-29 | 79283ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Zamorano Amarillo | Zea (Zea) mays subsp. mays Zamorano Amarillo | Bot validación |
+| 2022-4-29 | 79284ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Zapalote Chico | Zea (Zea) mays subsp. mays Zapalote Chico | Bot validación |
+| 2022-4-29 | 79285ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Zapalote Grande | Zea (Zea) mays subsp. mays Zapalote Grande | Bot validación |
+| 2022-4-29 | 79286ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Serrano Mixe | Zea (Zea) mays subsp. mays Serrano Mixe | Bot validación |
+| 2022-4-29 | 79280ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Tepecintle | Zea (Zea) mays subsp. mays Tepecintle | Bot validación |
+| 2022-4-29 | 72475ANGIO | Editar registro | estatus | Aceptado/Válido | Sinónimo | Bot validación |
+| 2022-4-29 | 72475ANGIO | Editar registro | id_valido | 72475ANGIO | 277380ANGIO | Bot validación |
+| 2022-4-29 | 72475ANGIO | Editar registro | taxon_valido | Agave (Agave) (Salmianae) salmiana var. salmiana | Agave (Agave) (Salmianae) salmiana subsp. salmiana | Bot validación |
+| 2022-4-29 | 72475ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-29 | 238710ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | Bot validación |
+| 2022-4-29 | 40309ANGIO | Editar registro | taxon_valido | Zea mays | Zea (Zea) mays | Bot validación |
+| 2022-4-29 | 44557ANGIO | Editar registro | id_valido |   | 230867ANGIO | Bot validación |
+| 2022-4-29 | 44557ANGIO | Editar registro | taxon_valido |   | Bajacalia crassifolia | Bot validación |
+| 2022-4-29 | 79245ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Cacahuacintle | Zea (Zea) mays subsp. mays Cacahuacintle | Bot validación |
+| 2022-4-29 | 79261ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Dulce | Zea (Zea) mays subsp. mays Dulce | Bot validación |
+| 2022-4-29 | 79262ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Mushito | Zea (Zea) mays subsp. mays Mushito | Bot validación |
+| 2022-4-29 | 79279ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Tehua | Zea (Zea) mays subsp. mays Tehua | Bot validación |
+| 2022-4-29 | 230867ANGIO | Nuevo registro | - | - | - | Bot validación |
+| 2022-4-29 | 277357ANGIO | Nuevo registro | - | - | - | Bot validación |
+| 2022-4-29 | 20721ANGIO | Editar registro | taxon_valido | oreophila | Chamaedorea oreophila | admin@zen.dro |
+| 2022-4-29 | 20721ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 26460ANGIO | Editar registro | id_valido | nan | 277357ANGIO | admin@zen.dro |
+| 2022-4-29 | 26460ANGIO | Editar registro | taxon_valido | nan | Echites asperoglottis | admin@zen.dro |
+| 2022-4-29 | 26460ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 34601ANGIO | Editar registro | taxon_valido | chamissonis | Piper chamissonis | admin@zen.dro |
+| 2022-4-29 | 34601ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 35117ANGIO | Editar registro | taxon_valido | edulis | Casimiroa edulis | admin@zen.dro |
+| 2022-4-29 | 35117ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 49720ANGIO | Editar registro | taxon_valido | neglectus | Phaseolus neglectus | admin@zen.dro |
+| 2022-4-29 | 49720ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 51486ANGIO | Editar registro | taxon_valido | hintonii | Phaseolus hintonii | admin@zen.dro |
+| 2022-4-29 | 51486ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 51971ANGIO | Editar registro | taxon_valido | grayanus | Phaseolus grayanus | admin@zen.dro |
+| 2022-4-29 | 51971ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 57333ANGIO | Editar registro | taxon_valido | carnea | Salvia carnea | admin@zen.dro |
+| 2022-4-29 | 57333ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 75732ANGIO | Editar registro | taxon_valido | flagellaris | Rubus flagellaris | admin@zen.dro |
+| 2022-4-29 | 75732ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 76752ANGIO | Editar registro | taxon_valido | umbelliferum | Solanum (Solanum) (Dulcamara) umbelliferum | admin@zen.dro |
+| 2022-4-29 | 76752ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 277380ANGIO | Nuevo registro | - | - | - | Bot validación |
+| 2022-4-29 | 72716ANGIO | Editar registro | taxon_valido | comosus | Ananas comosus | admin@zen.dro |
+| 2022-4-29 | 72716ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad |   | admin@zen.dro |
+| 2022-4-29 | 38468ANGIO | Editar registro | taxon_valido | Zea diploperennis | Zea (Luxuriantes) diploperennis | Bot validación |
+| 2022-4-29 | 79243ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Bofo | Zea (Zea) mays subsp. mays Bofo | Bot validación |
+| 2022-4-29 | 231360ANGIO | Editar registro | taxon_valido | Zea mays var. huehuetenangensis | Zea (Zea) mays var. huehuetenangensis | Bot validación |
