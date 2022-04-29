@@ -1,8 +1,48 @@
-Fri Apr 29 12:45:57 CDT 2022
+Fri Apr 29 13:03:30 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
 Leyendo archivos...
 Comparando archivos...
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
+sinonimo
 El id  254213ANGIO  no tiene un id válido asociado.
 Termina comparación de archivos
