@@ -6,3 +6,13 @@ Leyendo archivos...
 Comparando archivos...
 El id  254213ANGIO  no tiene un id válido asociado.
 Termina comparación de archivos
+[main 4a9183a] comparación diaria de registros
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'git@github.com:CONABIO/catalogo-agrobiodiversidad.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
