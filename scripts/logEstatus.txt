@@ -1,8 +1,14 @@
-Fri Apr 29 11:39:16 CDT 2022
+Fri Apr 29 12:45:06 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
 Leyendo archivos...
 Comparando archivos...
-El id  254213ANGIO  no tiene un id válido asociado.
-Termina comparación de archivos
+Traceback (most recent call last):
+  File "estatus.py", line 95, in <module>
+    main()
+  File "estatus.py", line 91, in main
+    compareRows(agro_actual)
+  File "estatus.py", line 72, in compareRows
+    functions.updateLocal(taxon=str(df_data['scientificName']),id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
+TypeError: updateLocal() missing 1 required positional argument: 'id'
