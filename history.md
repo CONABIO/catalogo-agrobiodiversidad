@@ -9072,3 +9072,23 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | id_1 | holaId1 | estatus1 | id valid | nan | nan | nan | nan | nan | nan | admin@zen.dro | 
 -------------------------------
+
+#### 2022-4-26
+
+#### Se eliminó el registro hola por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | hola | holataxon | null | null | null | null | null | null | null | null | 
+-------------------------------
+
+#### 2022-4-26
+
+#### Se eliminó el registro id_1 por el usuario admin@zen.dro
+
+**Registro anterior:** 
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
+ | id_1 | holaId1 | estatus1 | id valid | null | null | null | null | null | null | 
+-------------------------------

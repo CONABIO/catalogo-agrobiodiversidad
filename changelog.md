@@ -591,3 +591,5 @@
 | 2022-4-18 | id_2 | Borrar registro | - | - | - | admin@zen.dro | 
 | 2022-4-18 | hola | Nuevo registro | - | - | - | admin@zen.dro |
 | 2022-4-18 | id_1 | Nuevo registro | - | - | - | admin@zen.dro |
+| 2022-4-26 | hola | Borrar registro | - | - | - | admin@zen.dro | 
+| 2022-4-26 | id_1 | Borrar registro | - | - | - | admin@zen.dro | 
