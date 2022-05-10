@@ -25,3 +25,7 @@
 | 2022-5-10 | 254213ANGIO | Editar registro | id_valido | 254213ANGIO | nan | Bot validación |
 | 2022-5-10 | 254213ANGIO | Editar registro | taxon_valido | Salvia modesta | nan | Bot validación |
 | 2022-5-10 | 254213ANGIO | Editar registro | categoria_agrobiodiversidad | Agrobiodiversidad | nan | Bot validación |
+| 2022-5-10 | 72475ANGIO | Editar registro | estatus | Sinónimo | Aceptado/Válido | admin@zen.dro |
+| 2022-5-10 | 72475ANGIO | Editar registro | id_valido | 277380ANGIO | 72475ANGIO | admin@zen.dro |
+| 2022-5-10 | 72475ANGIO | Editar registro | taxon_valido | Agave (Agave) (Salmianae) salmiana subsp. salmiana | Agave (Agave) (Salmianae) salmiana var. salmiana | admin@zen.dro |
+| 2022-5-10 | 72475ANGIO | Editar registro | categoria_agrobiodiversidad | nan | Agrobiodiversidad | admin@zen.dro |
