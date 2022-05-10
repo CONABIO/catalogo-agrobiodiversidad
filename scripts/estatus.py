@@ -1,85 +1,277 @@
 '''
-Este programa realiza la comparación de lo que hay en nuestra base de datos
-contra lo que hay en Zacatuche.
-Si encuentra cambios entre las dos bases realiza los respectivos cambios
-en nuestra base directamente.
+Este script realiza la comparación de lo que hay en nuestra base de datos local
+contra lo que hay en Catálogo Conabio (CAT) via Zacatuche.
+Si encuentra cambios entre las dos bases, realiza los respectivos cambios
+en la base local directamente.
 Si por alguna razón tenemos un ID que no se encuentre en Zacatuche
 manda un correo a Alicia, Irene y Vivian para dar seguimiento.
 Los logs del script se encuentran en logEstatus.txt
 '''
 
-import functions
-import numpy as np
+import json
 import pandas as pd
+import requests
+import smtplib 
 
-def compareRows(agro_actual):
+# local import
+from paths import *
+
+
+def getInfoTaxon(record_id):
+    '''
+    Hace una consulta a zacatuche para obtener la información que se necesita de un id.
+    Devuelve una pandas.Series con la información solicitada en la query.
+    '''
+    query = """query taxon{
+                dwcTaxon(taxonID:"""+"\""+record_id+"\""+"""){
+                            id
+                            taxonomicStatus
+                            scientificName
+                            acceptedNameUsage{
+                            id
+                            scientificName
+                            }
+                        }
+                        }"""
     
-    email = ""
+    # renombrar las columnas
+    New_col_names = {'acceptedNameUsage.id': 'id_valido',
+                     'acceptedNameUsage.scientificName' : 'taxon_valido',
+                     'taxonomicStatus': 'estatus',
+                     'scientificName': 'taxon'
+                    }
 
-    #Revisa línea por línea del csv
-    for i in range(len(agro_actual.index)):
+    r = requests.post(path_zacatuche, json={'query': query})
 
-        #Si pendiente está en la cadena del ID, se salta el registro -> no lo busca en Zacatuche
-        if "pendiente" in agro_actual.id[i]:
+    # TO DO: check that response.status = 200, else print error to log
+
+    json_data = json.loads(r.text)
+
+    # case when id is not in CAT
+    if json_data['data']['dwcTaxon'] is None:
+        return None
+
+    # case when there is no id_valido associated to id
+    if json_data['data']['dwcTaxon']['acceptedNameUsage'] is None:
+        df_data = (pd.json_normalize(json_data['data']['dwcTaxon'])
+                     .rename(columns = New_col_names))
+        df_data[['id_valido', 'taxon_valido']] = None, None
+        df_data = df_data.fillna('')
+        return df_data.loc[0]
+    
+    df_data = pd.json_normalize(json_data['data']['dwcTaxon'])
+    df_data = (df_data.rename(columns = New_col_names)
+                          .fillna(''))
+    
+    return df_data.loc[0]
+
+
+def updateLocal(agrobd_id, New_values):
+    '''
+    Realiza las modificaciones en la instancia de catalogo-agrobiodiversidad
+    de los campos que se le pasen como parámetro.
+    '''
+    New_values['usuario'] = 'Bot validación'
+    
+    # TO DO: ¿Cómo deben aparecer los valores vacíos en mutation? 
+    new_values = ''  
+    for field in New_values:
+        if New_values[field] is None:
+            New_values[field] = ''
+        new_values += f'{field}: \"{New_values[field]}\" \n'
+
+    query = f'''mutation{{
+                updateAgrobiodiversidad(
+                    id:"{agrobd_id}"
+                    {new_values}){{
+                    id
+                }}
+                }}'''
+    
+    requests.post(path_siagro, json={'query': query})
+
+
+def is_synonym(record):  
+    return (record['id_valido']) and (record['id'] != record['id_valido'])
+
+
+def request_agrobd_review(record, check_previous_label=True):
+    # if record doesn't have agrobd label, request review
+    check = True
+    if check_previous_label:
+        check = record['categoria_agrobiodiversidad'] != 'Agrobiodiversidad'
+
+    if check:
+        try:
+            note = record['comentarios_revision'] + ' - REVISAR ETIQUETA AGROBIODIVERSIDAD'
+
+        except KeyError: # case when record not in local agrobd list
+            note = 'REVISAR ETIQUETA AGROBIODIVERSIDAD'
+        
+        updateLocal(record['id'], {'comentarios_revision': note})
+
+        
+
+
+def delete_agrobd_label(record):
+    # TO DO: also delete subcategoria_agrobiodiversidad
+    # TO DO: cómo poner campos vacíos    
+    updateLocal(record['id'], {'categoria_agrobiodiversidad': ''})
+
+
+def id_is_in_agrobd_list(record_id):
+    return record_id in agrobd_list['id'].values
+
+
+def add_record_to_agrobd_list(record):
+    query = f'''mutation{{
+                addAgrobiodiversidad(
+                    id:"{record['id']}"
+                    taxon:\"{record['taxon']}\"
+                    estatus:\"{record['estatus']}\"
+                    id_valido:"{record['id_valido']}"
+                    taxon_valido:\"{record['taxon_valido']}\"
+                    usuario:\"Bot validación\"){{
+                    id
+                }}
+                }}'''
+    requests.post(path_siagro, json={'query': query})
+
+
+def add_agrobd_label(record_id, agrobd):
+    ''' 
+    Agrega la etiqueta "Agrobiodiversidad" a un registro.
+    También agrega la subcategoría y las referencia que hereda del registro 
+    cuyo estatus cambió de válido --> sinónimo.
+    
+    TO DO: Decidir qué hacer en caso de que ya tenga la etiqueta y referencias.
+
+    Recibe:
+        record_id (string): nuevo id_valido del registro agrobd
+        agrobd (pandas.Series): registro cuyo estatus cambio de válido -> sinónimo
+    '''
+    updateLocal(record_id, {'categoria_agrobiodiversidad': 'Agrobiodiversidad',
+                            'subcategoria_agrobiodiversidad': agrobd['subcategoria_agrobiodiversidad'],
+                            'referencia': agrobd['referencia']})
+
+
+def sendeMail(string):
+    '''
+    Envía un correo a las direcciones en "destinatario". 
+    Recibe como parámetro un string con los ids a los que se necesita dar seguimiento.
+    '''
+    remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
+    #destinatario = ["Vivian <vivbass4@gmail.com>", "Vivian <vbass@conabio.gob.mx>", "Alicia <amastretta@conabio.gob.mx>", "Irene <iramos@conabio.gob.mx>"]
+    destinatario = ["Vivian <vbass@conabio.gob.mx>"]
+    asunto = "Aviso: no se encontró ID de taxon" 
+    mensaje = """´En la validación diaria de registros entre Zacatuche con nuestra base de datos de catalogo-agrobiodiversidad, se detectó que los siguientes IDs no se encontraron en Zacatuche. Favor de dar seguimiento a los casos.
+
+      ID       |      Taxon      
+
+"""+string+"""
+    
+------------------------------------
+Este correo ha sido enviado automáticamente. Favor de no responder.´"""
+    email = 'Subject: {}\n\n{}'.format(asunto, mensaje)
+    try: 
+        smtp = smtplib.SMTP('localhost') 
+        smtp.sendmail(remitente, destinatario, email.encode("utf8")) 
+        print("Correo enviado")
+    except: 
+        print("""Error: el mensaje no pudo enviarse. 
+        Compruebe que el mensaje no tenga acentos""")
+
+
+def sync_status_and_agrobd_label(agrobd, catalog):
+    '''
+    Esta función actualiza los campos de estatus, id_valido, taxon_valido y
+    categoria_agrobiodiversidad en la lista local si el registro `agrobd`
+    tuvo un cambio de estatus en CAT. Los cambios dependen del tipo de 
+    transición que ocurrió para el estatus del registro. Ver detalles en README. 
+
+    Recibe:
+        agrobd (pandas.Series): Un registro de la lista local de agrobiodiversidad
+        catalog (pandas.Series): Versión de CAT Conabio del registro con mismo id que agrobd
+    '''
+    # sync estatus, id_valido, taxon_valido
+    updateLocal(agrobd['id'], {'estatus': catalog['estatus'],
+                               'id_valido': catalog['id_valido'],
+                               'taxon_valido': catalog['taxon_valido']
+                              })
+
+    # sinonimo --> valido OR NA --> valido
+    if agrobd['id'] == catalog['id_valido']:
+        request_agrobd_review(agrobd)
+    
+    # valido --> NA
+    elif (agrobd['id'] == agrobd['id_valido']) and (not catalog['id_valido']):
+        delete_agrobd_label(agrobd) # TO DO: preguntar a CAT qué hacer en este caso
+    
+    # sinonimo --> sinonimo
+    elif is_synonym(agrobd) and is_synonym(catalog):
+        if not id_is_in_agrobd_list(catalog['id_valido']):
+            new_record = getInfoTaxon(catalog['id_valido'])
+            add_record_to_agrobd_list(new_record)
+            request_agrobd_review(new_record, check_previous_label=False)
+    
+    # valido --> sinonimo
+    elif (agrobd['id'] == agrobd['id_valido']) and is_synonym(catalog):
+        delete_agrobd_label(agrobd)
+        if not id_is_in_agrobd_list(catalog['id_valido']):
+            new_record = getInfoTaxon(catalog['id_valido']) # assumes id exists in CAT
+            add_record_to_agrobd_list(new_record)
+        # this is the only line that adds the agrobd label to a record
+        add_agrobd_label(catalog['id_valido'], agrobd)
+    
+
+def sync_agrobd_to_catalog(agrobd_list):
+    ''' Pipeline para sincronizar la lista local de agrobiodiversidad
+    con el catálogo de Conabio (CAT). El script recorre la lista registro por registro;
+    compara la versión actual de la lista `agrobd_list` contra CAT mediante una consulta
+    a zacatuche. Si cambió el estatus de un registro en CAT actualiza los campos
+    y realiza los cambios necesarios en la categoría agrobiodiversidad.
+    Envía un correo para advertir de ids que no están en CAT, pues se trata
+    de un error al que se le debe dar seguimiento.
+    
+    Recibe:
+        agrobd_list(pandas.DataFrame): Tabla que contiene la versión más actual
+        de la lista local de agrobd. 
+    '''
+    agroid_not_in_cat = []
+
+    for i, agrobd in agrobd_list.iterrows():
+        if 'pendiente' in agrobd['id']:
             continue
 
-        #Query a Zacatuche
-        df_data = functions.getInfoTaxon(agro_actual.id[i])
-        #print(agro_actual.id[i])
-        #Existe ID en zacatuche?
-        #Si sí, sigue validando, si no, manda un correo a Alicia, Irene y Vivian para hacer seguimiento.
-        if df_data!=None:
-            if df_data['acceptedNameUsage']==None:
-                print("El id ",agro_actual.id[i]," no tiene un id válido asociado.")
-            #Cambia el estatus?
-            #Si sí, sigue validando, si no, se verifica que el nombre del taxon sea igual.
-            if str(agro_actual.estatus[i]) != str(df_data['taxonomicStatus']):
-                if str(df_data['taxonomicStatus'])!='Sinónimo':
-                    #Cambia a válido
-                    #Cambia en la base el estatus, el id válido, el taxón válido y la categoria_agrobiodiversidad = Agrobiodiversidad
-                    if(df_data['acceptedNameUsage']==None):
-                        functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido="NULL", taxon_valido="NULL", categoria_agrobiodiversidad="NULL")
+        catalog = getInfoTaxon(agrobd['id'])
 
-                    else:
-                        functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
-                    
-                else:
-                    #Cambia a sinónimo
-                    #Si el registro no tiene taxon id válido relacionado sólo actualiza estatus y categoria_agrobiodiversidad=NULL
-                    if(df_data['acceptedNameUsage']==None):
-                        functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido="NULL", taxon_valido="NULL", categoria_agrobiodiversidad="NULL")
-                    
-                    #Si sí tiene taxon id valido relacionado y el taxon existe en nuestra base, se actualiza su estatus, id_valido, taxon_valido y categoria_agrobiodiversidad=NULL del taxon que se está revisando. 
-                    #Si el taxon no existe en nuestra base, se agrega.
-                    else:
+        # case when agrobd is not in CAT
+        if catalog is None:
+            agroid_not_in_cat.append((agrobd['id'], agrobd['taxon']))
+            continue
+        
+        # case when there was a change in taxonomic status
+        if agrobd['id_valido'] != catalog['id_valido']:
+            sync_status_and_agrobd_label(agrobd, catalog)
 
-                        exists = df_data['acceptedNameUsage']['id'] in agro_actual.id.values
-                        if exists:
-                            functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="NULL")
+        # case when there was a change in taxonomic name
+        if agrobd['taxon'] != catalog['taxon']:
+            updateLocal(agrobd['id'], {'taxon': catalog['taxon']})
+    
+    # format text for email
+    # TO DO: add padding to align ids and taxons to fit in a table
+    if len(agroid_not_in_cat) != 0:
+        email = ''
+        for agrobd_id, taxon in agroid_not_in_cat:
 
-                        else:
-                            functions.updateLocal(id=str(agro_actual.id[i]),estatus=str(df_data['taxonomicStatus']), id_valido=str(df_data['acceptedNameUsage']['id']),taxon_valido=str(df_data['acceptedNameUsage']['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
-                            df_data_new = functions.getInfoTaxon(str(df_data['acceptedNameUsage']['id']))
-                            functions.addLocal(id=str(df_data_new['id']),taxon=str(df_data_new['scientificName']),estatus=str(df_data_new['taxonomicStatus']),id_valido=str(df_data_new['id']),taxon_valido=str(df_data_new['scientificName']),categoria_agrobiodiversidad="Agrobiodiversidad")
-                
+            email += f'   {agrobd_id}   |  {taxon} \n'
 
-            #Cambió el scientificName?
-            if df_data['scientificName'] != agro_actual['taxon'][i]:
-                functions.updateLocal(id=str(agro_actual.id[i]),taxon=str(df_data['scientificName']))
-
-        else:
-            email = email + str(agro_actual.id[i]) +"     |      "+ str(agro_actual.taxon[i]) + "\n"
-            
-    if len(email) != 0:
-        functions.sendeMail(email)
+        sendeMail(email)
 
 
-def main():
+if __name__ == '__main__':
     print("Leyendo archivos...")
-    agro_actual =  pd.read_csv('comparaZacatuche.csv')
+    agrobd_list = pd.read_csv(path_agrobd_list, keep_default_na=False)    
     print("Comparando archivos...")
-    compareRows(agro_actual)
-    print("Termina comparación de archivos")
-
-
-main()
+    sync_agrobd_to_catalog(agrobd_list)
+    print("Termina comparación")
