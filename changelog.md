@@ -706,3 +706,5 @@
 | 2022-4-29 | 38468ANGIO | Editar registro | taxon_valido | Zea diploperennis | Zea (Luxuriantes) diploperennis | Bot validación |
 | 2022-4-29 | 79243ANGIO | Editar registro | taxon_valido | Zea mays subsp. mays Bofo | Zea (Zea) mays subsp. mays Bofo | Bot validación |
 | 2022-4-29 | 231360ANGIO | Editar registro | taxon_valido | Zea mays var. huehuetenangensis | Zea (Zea) mays var. huehuetenangensis | Bot validación |
+| 2022-5-9 | 254213ANGIO | Editar registro | id_valido |   | nan | Probando |
+| 2022-5-9 | 254213ANGIO | Editar registro | taxon_valido |   | nan | Probando |

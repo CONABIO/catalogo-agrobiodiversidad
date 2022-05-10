@@ -10553,3 +10553,88 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 231360ANGIO | Zea (Zea) mays var. huehuetenangensis | Aceptado/Válido | 231360ANGIO | Zea mays var. huehuetenangensis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre | nan | nan | Bot validación | 
 -------------------------------
+
+#### 2022-5-9
+
+#### Se actualizó el registro 20691ANGIO por el usuario Probando
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20691ANGIO | Chamaedorea concolor | Sinónimo | 36613ANGIO | Chamaedorea pinnatifrons | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | Probando | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20691ANGIO | Chamaedorea concolor | Sinónimo | 36613ANGIO | Chamaedorea pinnatifrons | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | Pariente Silvestre | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-5-9
+
+#### Se actualizó el registro 1005ECHIN por el usuario Probando
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 1005ECHIN | Ophioderma longicaudum | Aceptado/Válido | 1005ECHIN | Ophioderma longicaudum | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad | nan | nan | nan | Probando | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 1005ECHIN | Ophioderma longicaudum | Aceptado/Válido | 1005ECHIN | Ophioderma longicaudum | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-5-9
+
+#### Se actualizó el registro 254213ANGIO por el usuario Probando
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 254213ANGIO | Salvia modesta | No aplica | nan | nan | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | Probando | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 254213ANGIO | Salvia modesta | No aplica |   |   | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | Bot validación | 
+-------------------------------
+
+#### 2022-5-9
+
+#### Se actualizó el registro 7992ANGIO por el usuario Probando
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 7992ANGIO | Lophophora williamsii | Aceptado/Válido | 7992ANGIO | Lophophora williamsii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Semi-domesticada | nan | nan | Probando | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 7992ANGIO | Lophophora williamsii | Aceptado/Válido | 7992ANGIO | Lophophora williamsii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Semi-domesticada | nan | nan | admin@zen.dro | 
+-------------------------------
+
+#### 2022-5-9
+
+#### Se actualizó el registro 34601ANGIO por el usuario Probando
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 34601ANGIO | Piper misantlense | Sinónimo | 34573ANGIO | Piper chamissonis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | Probando | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 34601ANGIO | Piper misantlense | Sinónimo | 34573ANGIO | Piper chamissonis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |   | nan | nan | nan | admin@zen.dro | 
+-------------------------------
