@@ -100,8 +100,15 @@ def request_agrobd_review(record, check_previous_label=True):
         check = record['categoria_agrobiodiversidad'] != 'Agrobiodiversidad'
 
     if check:
-        note = record['comentarios_revision'] + '\n REVISAR ETIQUETA AGROBIODIVERSIDAD'
+        try:
+            note = record['comentarios_revision'] + '\n REVISAR ETIQUETA AGROBIODIVERSIDAD'
+
+        except KeyError: # case when record not in local agrobd list
+            note = 'REVISAR ETIQUETA AGROBIODIVERSIDAD'
+        
         updateLocal(record['id'], {'comentarios_revision': note})
+
+        
 
 
 def delete_agrobd_label(record):
