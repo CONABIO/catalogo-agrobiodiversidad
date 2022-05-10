@@ -56,6 +56,7 @@ def getInfoTaxon(record_id):
         df_data = (pd.json_normalize(json_data['data']['dwcTaxon'])
                      .rename(columns = New_col_names))
         df_data[['id_valido', 'taxon_valido']] = None, None
+        df_data = df_data.fillna('')
         return df_data.loc[0]
     
     df_data = pd.json_normalize(json_data['data']['dwcTaxon'])
