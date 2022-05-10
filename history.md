@@ -204,3 +204,20 @@
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | 72475ANGIO | Agave (Agave) (Salmianae) salmiana var. salmiana | Sinónimo | 277380ANGIO | Agave (Agave) (Salmianae) salmiana subsp. salmiana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | nan | nan | nan | nan | Bot validación | 
 -------------------------------
+
+#### 2022-5-10
+
+#### Se actualizó el registro 72475ANGIO por el usuario Bot validación
+
+**Registro actual:**
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 72475ANGIO | Agave (Agave) (Salmianae) salmiana var. salmiana | Sinónimo | 277380ANGIO | Agave (Agave) (Salmianae) salmiana subsp. salmiana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | nan | nan | nan | nan | Bot validación | 
+
+**Registro anterior:** 
+
+| id | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 72475ANGIO | Agave (Agave) (Salmianae) salmiana var. salmiana | Aceptado/Válido | 72475ANGIO | Agave (Agave) (Salmianae) salmiana var. salmiana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | nan | nan | nan | admin@zen.dro | 
+-------------------------------
