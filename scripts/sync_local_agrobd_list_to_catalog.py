@@ -76,6 +76,8 @@ def updateLocal(agrobd_id, New_values):
     # TO DO: ¿Cómo deben aparecer los valores vacíos en mutation? 
     new_values = ''  
     for field in New_values:
+        if New_values[field] is None:
+            New_values[field] = ''
         new_values += f'{field}: \"{New_values[field]}\" \n'
 
     query = f'''mutation{{
@@ -101,7 +103,7 @@ def request_agrobd_review(record, check_previous_label=True):
 
     if check:
         try:
-            note = record['comentarios_revision'] + '\n REVISAR ETIQUETA AGROBIODIVERSIDAD'
+            note = record['comentarios_revision'] + ' - REVISAR ETIQUETA AGROBIODIVERSIDAD'
 
         except KeyError: # case when record not in local agrobd list
             note = 'REVISAR ETIQUETA AGROBIODIVERSIDAD'
@@ -162,14 +164,14 @@ def sendeMail(string):
     #destinatario = ["Vivian <vivbass4@gmail.com>", "Vivian <vbass@conabio.gob.mx>", "Alicia <amastretta@conabio.gob.mx>", "Irene <iramos@conabio.gob.mx>"]
     destinatario = ["Vivian <vbass@conabio.gob.mx>"]
     asunto = "Aviso: no se encontró ID de taxon" 
-    mensaje = """En la validación diaria de registros entre Zacatuche con nuestra base de datos de catalogo-agrobiodiversidad, se detectó que los siguientes IDs no se encontraron en Zacatuche. Favor de dar seguimiento a los casos.
+    mensaje = """´En la validación diaria de registros entre Zacatuche con nuestra base de datos de catalogo-agrobiodiversidad, se detectó que los siguientes IDs no se encontraron en Zacatuche. Favor de dar seguimiento a los casos.
 
       ID       |      Taxon      
 
 """+string+"""
     
 ------------------------------------
-Este correo ha sido enviado automáticamente. Favor de no responder."""
+Este correo ha sido enviado automáticamente. Favor de no responder.´"""
     email = 'Subject: {}\n\n{}'.format(asunto, mensaje)
     try: 
         smtp = smtplib.SMTP('localhost') 
@@ -235,7 +237,7 @@ def sync_agrobd_to_catalog(agrobd_list):
         agrobd_list(pandas.DataFrame): Tabla que contiene la versión más actual
         de la lista local de agrobd. 
     '''
-    sin_taxon_valido_asociado = []
+    agroid_not_in_cat = []
 
     for i, agrobd in agrobd_list.iterrows():
         if 'pendiente' in agrobd['id']:
@@ -245,7 +247,7 @@ def sync_agrobd_to_catalog(agrobd_list):
 
         # case when agrobd is not in CAT
         if catalog is None:
-            sin_taxon_valido_asociado.append((agrobd['id'], agrobd['taxon']))
+            agroid_not_in_cat.append((agrobd['id'], agrobd['taxon']))
             continue
         
         # case when there was a change in taxonomic status
@@ -258,11 +260,13 @@ def sync_agrobd_to_catalog(agrobd_list):
     
     # format text for email
     # TO DO: add padding to align ids and taxons to fit in a table
-    email = ''
-    for agrobd_id, taxon in sin_taxon_valido_asociado:
-        email += f'{agrobd_id} |  {taxon} \n'
+    if len(agroid_not_in_cat) != 0:
+        email = ''
+        for agrobd_id, taxon in agroid_not_in_cat:
 
-    sendeMail(email)
+            email += f'   {agrobd_id}   |  {taxon} \n'
+
+        sendeMail(email)
 
 
 if __name__ == '__main__':
