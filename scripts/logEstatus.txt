@@ -1,18 +1,7 @@
-Mon May 9 21:39:57 CDT 2022
+Mon May 9 21:41:46 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
 Leyendo archivos...
 Comparando archivos...
-mutation{
-                updateAgrobiodiversidad(
-                    id:"254213ANGIO"
-                    estatus: "No aplica" 
-id_valido: "" 
-taxon_valido: "" 
-usuario: "Probando" 
-){
-                    id
-                }
-                }
 Termina comparación
