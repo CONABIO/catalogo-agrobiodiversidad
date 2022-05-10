@@ -1,8 +1,18 @@
-Sun May 8 20:00:01 CDT 2022
+Mon May 9 19:43:20 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
 Leyendo archivos...
 Comparando archivos...
-El id  254213ANGIO  no tiene un id válido asociado.
-Termina comparación de archivos
+mutation{
+                updateAgrobiodiversidad(
+                    id:"254213ANGIO"
+                    estatus: "No aplica" 
+id_valido: "" 
+taxon_valido: "" 
+usuario: "Probando" 
+){
+                    id
+                }
+                }
+Termina comparación
