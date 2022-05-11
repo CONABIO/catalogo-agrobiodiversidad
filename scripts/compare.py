@@ -1,136 +1,200 @@
+
 '''
-Este programa realiza la comparación de 2 archivos csv 
-(lo que hay en la instancia el día de hoy contra lo que
-había en la instancia el día de ayer) y sobreescribe 2 archivos .md:
-* El primero (history.md) contiene el histórico a detalle de todos 
-  los cambios que se realizan en la instancia.
-* El segundo (changelog.md) contiene el resumen de esos cambios.
-Este script sólo detecta las diferencias si se agrega un registro o
-se modifica un registro. 
-La eliminación de registros se lleva a cabo directamente en el script 
-que realiza el delete. Por esa razón se utilizan los archivos
-path_history y path_changelog
-ya que ahí se lleva el seguimiento de los registros eliminados.
+Este script compara el archivo `anterior.csv` contra `actual.csv`.
+Ambos archivos csv contienen las mismas columnas. 
+Los ids de los registros (columna `id`) en cada csv son únicos.
+
+El script identifica los registros borrados, agregados y editados.
+
+Por último, el script guarda un registro de los cambios en los 
+archivos `changelog.csv` y `history.md`. Estos archivos
+deben existir en las rutas `path_changelog` y `path_history`.
+La primera línea del archivo `changelog.csv` es el header y 
+contiene las columnas de la lista `changelog_cols`.
 '''
 
-import functions
-import paths
+from datetime import datetime
 import pandas as pd
-from datetime import datetime,timedelta,date
 
-def compareFiles(actual,anterior,path_history,path_changelog):
+from paths import *
+
+def save_new_or_deleted_to_changelog(idx, tipo_cambio, path):
     '''
-    Compara los archivos actual y anterior. Sobreescribe las diferencias
-    en los archivos que se pasan como parámetros en path_history y path_changelog
+    Agrega los registros nuevos o borrados a un csv. 
+    La columna `Usuario` sólo se llena para registros nuevos.
+
+    Recibe:
+        idx (list): Lista u otro objeto iterable de ids que tuvieron cambios
+        tipo_cambio (str): `new` para registros nuevos y `del` para registros borrados.
+        path (str): ruta del csv donde se guardan los cambios
     '''
-    header = functions.getHeader(actual)
-    divisor = '-------------------------------'
+    Opciones_cambios = {'new' : 'Registro nuevo',
+                        'del' : 'Registro borrado'}
+    
+    cambios = pd.DataFrame(columns=changelog_cols)
+    cambios['ID'] = idx
+    cambios[['Fecha', 'Tipo cambio']] = datetime.now().strftime('%Y-%m-%d'), Opciones_cambios[tipo_cambio]
+    
+    if tipo_cambio == 'new':
+        cambios['Usuario'] = actual.loc[idx_new_records, 'usuario'].values
 
-    history = open(path_history,'a')
-    changelog = open(path_changelog,'a')
-    hours = datetime.utcnow()-datetime.now()
-    hours = str(hours).split(":")
-    print("Diferencia de horas: ",hours)
-    #Busca las diferencias entre los ids actuales y los anteriores
-    for i in range(len(actual.index)):
-        torf = actual.id[i] in anterior.id.values
-        date = functions.getDate(actual.updatedAt[i],hours[0])
+    cambios.to_csv(path, mode='a', index=False, header=False)
 
-        #El id del archivo actual no existe en el archivo anterior
-        if(torf == False):
-            #Si la fecha de creación es igual a la de modificación, entonces se agregó un nuevo registro.
-            #Agrega a history el nuevo registro y a changelog el id con la bandera de "nuevo registro"
-            if(actual.createdAt[i] == actual.updatedAt[i]):
-                info = functions.getInfo(actual,i)
 
-                register = header + info
-                
-                res = '\n#### '+str(date)+'\n\n#### Se agregó el registro '+actual.id[i]+' por el usuario '+str(actual.usuario[i])+'\n'+'\n**Registro actual:**\n\n'+register+'\n'+divisor+'\n'
-                history.write(res)
+def save_edited_to_changelog(idx_edited, path):
+    '''
+    Itera sobre registros y columnas para identificar
+    los cambios entre los dataframes `actual` y `anterior`,
+    solamente considerando las columnas en `cols_comparacion`.
+    Agrega a changelog los registros editados.
 
-                res = '| '+str(date)+' | '+str(actual.id[i])+' | Nuevo registro | - | - | - | '+ str(actual.usuario[i]) +' |\n'
-                changelog.write(res)
+    Recibe:
+        idx_edited (lista): Lista u otro objeto iterable de ids que tuvieron cambios
+        path (str): Ruta del csv donde se guardan los cambios
+    '''
 
-            #Si no, se modificó el registro
-            else:
-                existsTaxon = actual.taxon[i] in anterior.taxon.values
-                
-                #Si el id no existe y el taxon si, entonces se modificó el ID
-                #Agrega a hsitory la modificación del registro y a changelog los cambios en los campos de ese registro con la bandera "editar registro"
-                if(existsTaxon == True):
+    cols_comparacion = ['taxon',
+                         'estatus',
+                         'id_valido',
+                         'taxon_valido',
+                         'referencia',
+                         'categoria_agrobiodiversidad',
+                         'subcategoria_agrobiodiversidad',
+                         'justificacion_subcategoria',
+                         'comentarios_revision']
 
-                    modTaxon = anterior[anterior['taxon'] == actual.taxon[i]].index.values
-                    modTaxon = modTaxon[0]
-                    infoAct = functions.getInfo(actual,i)
-                    infoAnt = functions.getInfo(anterior,modTaxon)
+    cambios = pd.DataFrame(columns=changelog_cols)
+    #print(changelog_cols)
+    for idx, row in actual.loc[idx_edited].iterrows():
+        for col in cols_comparacion:
+            if row[col] != anterior.loc[idx, col]:
+                cambios = cambios.append({
+                                'ID': idx,
+                                'Campo': col,
+                                'Valor anterior': anterior.loc[idx, col],
+                                'Valor actual': row[col],
+                                'Usuario': row['usuario']},
+                                ignore_index=True)
+    
+    cambios[['Fecha', 'Tipo cambio']] = datetime.now().strftime('%Y-%m-%d'), 'Registro editado'
+    #print(path)
+    cambios.to_csv(path, mode='a', index=False, header=False)
 
-                    register = header + infoAct
-                    previous = header + infoAnt
-                    
-                    res = '\n#### '+str(date)+'\n\n#### Se actualizó el registro '+actual.id[i]+' por el usuario '+str(actual.usuario[i])+'\n\n'+'**Registro actual:**\n\n'+register+'\n\n**Registro anterior:**\n\n'+previous+'\n'+divisor+'\n'
-                    history.write(res)
 
-                    for j in list(actual.columns):
-                        if j == 'createdAt' or j == 'updatedAt' or j == 'usuario':
-                            continue
-                        
-                        if str(actual[j][i]) != str(anterior[j][modTaxon]):
-                            res = '| '+str(date)+' | '+str(actual.id[i])+' | Editar registro | '+j+' | '+str(anterior[j][modTaxon])+' | '+str(actual[j][i])+' | '+ str(actual.usuario[i]) +' |\n'
-                            changelog.write(res)
+def list_to_markdown(lista_campos):
+    '''
+    Dar formato a los elementos de una lista para que
+    aparezcan como una fila de una tabla en markdown.
 
-                #Si ninguno de los dos existe, se agregó un registro y se modificó en el mismo día
-                #Agrega el registro a history y el id a changelog con la bandera "nuevo registro"
-                else:
+    Recibe: 
+        lista_campos (lista): Lista u otro objeto iterable de strings. Cada elemento se colocará en una columna aparte.
+    Regresa:
+        String con el formato de una fila de una tabla en markdown
 
-                    infoAct = functions.getInfo(actual,i)
+    Ejemplo:
+    lista_campos = [item1, item2, item3]
+    list_to_markdown(lista_campos) = '| item1 | item2 | item3 |'
+    '''
 
-                    register = header + infoAct
+    md = ''
+    for campo in lista_campos:
+        md += f'| {campo} '
+    
+    return md + '|'
 
-                    res = '\n#### '+str(date)+'\n\n#### Se agregó el registro '+actual.id[i]+' y se actualizó en el mismo día por el usuario '+str(actual.usuario[i])+'\n'+'\n**Registro actual:**\n\n'+register+'\n'+divisor+'\n'
-                    history.write(res)
 
-                    res = '| '+str(date)+' | '+str(actual.id[i])+' | Nuevo registro | - | - | - | '+ str(actual.usuario[i]) +' |\n'
-                    changelog.write(res)
+def history_templates(idx, tipo_cambio):
+    '''
+    Genera un string con el formato acordado para guardar 
+    los cambios de un registro con id `idx` en `history.md`.
+    
+    El formato del string depende del tipo de cambio.
+    '''
+    header = list_to_markdown(actual.columns)
+    divisor = list_to_markdown(['---'] * len(actual.columns))
+    date = datetime.now().strftime('%Y-%m-%d')
+    #print(tipo_cambio)
+    if tipo_cambio == 'new': 
+        template = (
+            f"\n### {date}\n"
+            f"**Se agregó el registro {idx}:**\n\n"
+            f"{header}\n"
+            f"{divisor}\n"
+            f"{list_to_markdown(actual.loc[idx])}\n"
+        )
 
-        if(torf == True):
-            #El id del archivo actual existe en el archivo anterior
-            modTaxon = anterior[anterior['id'] == actual.id[i]].index.values
-            modTaxon = modTaxon[0]
-            if(actual.createdAt[i] == actual.updatedAt[i]):
-                res = "No hubo cambios"
-            if(actual.updatedAt[i] == anterior.updatedAt[modTaxon]):
-                res = "No hubo cambios"
+    if tipo_cambio == 'del':
+        template = (
+            f"\n### {date}\n"
+            f"**Se borró el registro {idx}:**\n\n"
+            f"{header}\n"
+            f"{divisor}\n"
+            f"{list_to_markdown(anterior.loc[idx])}\n"
+        )
 
-            #Se actualizó el registro
-            #Agrega a hsitory la modificación del registro y a changelog los cambios en los campos de ese registro con la bandera "editar registro"
-            if(actual.createdAt[i] != actual.updatedAt[i] and actual.updatedAt[i] != anterior.updatedAt[modTaxon]):
-                modTaxon = anterior[anterior['id']==actual.id[i]].index.values
-                modTaxon = modTaxon[0]
-                infoAnt = functions.getInfo(anterior,modTaxon)
-                infoAct = functions.getInfo(actual,i)
-                previous = header + infoAnt
-                register = header + infoAct
-                
-                res = '\n#### '+str(date)+'\n\n#### Se actualizó el registro '+str(actual.id[i])+' por el usuario '+str(actual.usuario[i])+'\n'+'\n**Registro actual:**\n'+'\n'+register+'\n\n**Registro anterior:** \n\n'+previous+'\n'+divisor+'\n'
-                history.write(res)
+    if tipo_cambio == 'edit':
+        template = (
+            f"\n### {date}\n"
+            f"**Se editó el registro {idx}.**\n\n"
+            f"**Registro actual:**\n"
+            f"{header}\n"
+            f"{divisor}\n"
+            f"{list_to_markdown(actual.loc[idx])}\n\n"
+            f"**Registro anterior:**\n"
+            f"{header}\n"
+            f"{divisor}\n"
+            f"{list_to_markdown(anterior.loc[idx])}\n"
+        )
+    
+    return template
 
-                for j in list(actual.columns):
 
-                    if j == 'createdAt' or j == 'updatedAt' or j == 'usuario':
-                        continue
-                    
-                    if str(actual[j][i]) != str(anterior[j][modTaxon]):
-                        res = '| '+str(date)+' | '+str(actual.id[i])+' | Editar registro | '+j+' | '+str(anterior[j][modTaxon])+' | '+str(actual[j][i])+' | '+ str(actual.usuario[i]) +' |\n'
-                        changelog.write(res)
+def print_to_history(idx_cambios, tipo_cambio, path):
+    '''
+    Guarda los cambios de una lista de registros con ids `idx_cambios` en `history.md`
+    '''
+    with open(path, 'a') as output:
+        for idx in idx_cambios:
+            output.write(history_templates(idx, tipo_cambio))
 
-    history.close()
-    changelog.close()
 
-def main():
-    print("Leyendo archivos...")
-    actual = pd.read_csv('agro_actual.csv')
-    anterior = pd.read_csv('agro_anterior.csv')
-    print("Comparando archivos...")
-    compareFiles(actual,anterior,paths.path_history,paths.path_changelog)
-    print("Termina comparación de archivos")
-main()
+if __name__ == '__main__':
+    changelog_cols = ['Fecha',
+                      'ID',
+                      'Tipo cambio',
+                      'Campo',
+                      'Valor anterior',
+                      'Valor actual',
+                      'Usuario']
+        
+    actual = pd.read_csv(path_actual, index_col='id', keep_default_na=False)
+    anterior = pd.read_csv(path_anterior, index_col='id', keep_default_na=False)
+
+    # los registros nuevos corresponden a los ids
+    # que se encuentran en `actual` pero no en `anterior`
+    idx_new_records = list(set(actual.index) - set(anterior.index))
+
+    # los registros borrados corresponden a los ids
+    # que se encuentran en `anterior` pero no en `actual`
+    idx_deleted_records = list(set(anterior.index) - set(actual.index))
+
+    # los registros editados corresponden a los ids que existen 
+    # tanto en `anterior` como en `actual`,
+    # y donde cambió el valor `updatedAt` --- ¿Qué estamos asumiendo aquí?
+    # ¿Podemos asumir que todos los registros tienen un valor en `updatedAt`? 
+    idx_intersect = set(actual.index) & set(anterior.index)
+
+    # Esta comparación regresa True en registros donde `updatedAt` == nan, aunque no se hayan editado
+    # Por eso los csv se leen con la opción keep_default_na=False
+    edited = actual.loc[idx_intersect, 'updatedAt'] != anterior.loc[idx_intersect, 'updatedAt']
+    idx_edited_records = (actual.loc[idx_intersect]
+                                .loc[edited]
+                                .index)
+
+    save_new_or_deleted_to_changelog(idx_new_records, 'new', path_changelog)
+    save_new_or_deleted_to_changelog(idx_deleted_records, 'del', path_changelog)
+    save_edited_to_changelog(idx_edited_records, path_changelog)
+
+    print_to_history(idx_new_records, 'new', path_history)
+    print_to_history(idx_deleted_records, 'del', path_history)
+    print_to_history(idx_edited_records, 'edit', path_history)
