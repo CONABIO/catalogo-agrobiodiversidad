@@ -1,13 +1,15 @@
-Tue May 10 20:00:01 CDT 2022
+Tue May 10 20:30:01 CDT 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 git add history.md changelog.md
 git commit
-[main dd7a414] validacion diaria de registros
- 2 files changed, 42016 insertions(+)
+[main b76f764] validacion diaria de registros
+ 2 files changed, 1 insertion(+), 42045 deletions(-)
+ rewrite changelog.csv (99%)
+ rewrite history.md (100%)
 git push
 To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   d2eec54..dd7a414  main -> main
+   c9c535e..b76f764  main -> main
 Proceso terminado!
