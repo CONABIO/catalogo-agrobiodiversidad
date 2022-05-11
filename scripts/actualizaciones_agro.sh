@@ -8,14 +8,10 @@ echo "Empieza validación de actualizaciones diarias\n"
 echo "Cambiando nombre de archivos..."
 mv agro_actual.csv agro_anterior.csv 
 echo "Descargando archivo nuevo..." 
-#SE LE TIENE QUE QUITAR EL -it
 docker exec etiqueta-postgres psql -U postgres -d zendro_development -c "COPY agrobiodiversidads TO STDOUT WITH CSV HEADER" > agro_actual.csv
-#echo "Comparando archivos..."
 /usr/bin/python3 compare.py
-cp <filename1> ./history.md
-cp <filename2> ./changelog.md
 echo "git add history.md changelog.md"
-/usr/bin/git add history.md changelog.md
+/usr/bin/git add history.md changelog.csv
 echo "git commit"
 /usr/bin/git commit -m "validacion diaria de registros"
 echo "git push"
