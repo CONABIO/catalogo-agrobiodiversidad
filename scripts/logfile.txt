@@ -1,16 +1,32 @@
-Thu May 26 20:00:01 CDT 2022
+Thu May 26 20:30:01 CDT 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 git add history.md changelog.md
 git commit
-[main a003776] validacion diaria de registros
- 2 files changed, 32008 insertions(+)
-git push
-ssh: connect to host github.com port 22: Connection timed out
-fatal: Could not read from remote repository.
+On branch main
+Your branch is up to date with 'origin/main'.
 
-Please make sure you have the correct access rights
-and the repository exists.
+Changes not staged for commit:
+	modified:   scripts/logEstatus.txt
+	modified:   scripts/logfile.txt
+
+Untracked files:
+	Zacatuche.sh
+	__pycache__/
+	actualizaciones_agro.sh
+	agro_actual.csv
+	agro_anterior.csv
+	comparaZacatuche.csv
+	compare.py
+	compareZacatuche.sh
+	estatus.py
+	functions.py
+	paths.py
+	pruebas.sh
+
+no changes added to commit
+git push
+Everything up-to-date
 Proceso terminado!
