@@ -4000,3 +4000,47 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-05-26,54877ANGIO,Registro nuevo,,,,admin@zen.dro
 2022-05-26,hola,Registro borrado,,,,
 2022-05-26,ANGIO PRUEBA,Registro borrado,,,,
+2022-06-08,34817ANGIO,Registro nuevo,,,,Bot validación
+2022-06-08,9006ANGIO,Registro nuevo,,,,Bot validación
+2022-06-08,40873COLEO,Registro nuevo,,,,Bot validación
+2022-06-08,278543ANGIO,Registro nuevo,,,,Bot validación
+2022-06-08,27912ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,27912ANGIO,Registro editado,id_valido,27912ANGIO,27770ANGIO,Bot validación
+2022-06-08,27912ANGIO,Registro editado,taxon_valido,Ipomoea variabilis,Ipomoea batatas,Bot validación
+2022-06-08,27912ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,40751COLEO,Registro editado,taxon,Cicindela roseiventris,Cicindela (Cicindelidia) roseiventris,Bot validación
+2022-06-08,66451ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,66451ANGIO,Registro editado,id_valido,66451ANGIO,14195ANGIO,Bot validación
+2022-06-08,66451ANGIO,Registro editado,taxon_valido,Euphorbia polycarpa var. carmenensis,Euphorbia polycarpa,Bot validación
+2022-06-08,66451ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,19790ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,19790ANGIO,Registro editado,id_valido,19790ANGIO,278543ANGIO,Bot validación
+2022-06-08,19790ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,53762COLEO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,53762COLEO,Registro editado,id_valido,53762COLEO,40873COLEO,Bot validación
+2022-06-08,53762COLEO,Registro editado,taxon_valido,Cicindela curvata,Habroscelimorpha curvata,Bot validación
+2022-06-08,53762COLEO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,245513ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,245513ANGIO,Registro editado,id_valido,245513ANGIO,76592ANGIO,Bot validación
+2022-06-08,245513ANGIO,Registro editado,taxon_valido,Lepidium virginicum var. pubescens,Lepidium virginicum subsp. menziesii,Bot validación
+2022-06-08,245513ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,245511ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,245511ANGIO,Registro editado,id_valido,245511ANGIO,244783ANGIO,Bot validación
+2022-06-08,245511ANGIO,Registro editado,taxon_valido,Lepidium virginicum var. centrali-americanum,Lepidium costaricense,Bot validación
+2022-06-08,245511ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,20734ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,20734ANGIO,Registro editado,id_valido,20734ANGIO,78597ANGIO,Bot validación
+2022-06-08,20734ANGIO,Registro editado,taxon_valido,Chamaedorea quezalteca,Chamaedorea costaricana,Bot validación
+2022-06-08,20734ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,7914ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,7914ANGIO,Registro editado,id_valido,7914ANGIO,9006ANGIO,Bot validación
+2022-06-08,7914ANGIO,Registro editado,taxon_valido,Nopalea karwinskiana,Opuntia karwinskiana,Bot validación
+2022-06-08,7914ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,30872ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,30872ANGIO,Registro editado,id_valido,30872ANGIO,34817ANGIO,Bot validación
+2022-06-08,30872ANGIO,Registro editado,taxon_valido,Talinum triangulare,Talinum fruticosum,Bot validación
+2022-06-08,30872ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-06-08,35038ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-06-08,35038ANGIO,Registro editado,id_valido,35038ANGIO,35036ANGIO,Bot validación
+2022-06-08,35038ANGIO,Registro editado,taxon_valido,Prunus communis,Prunus amygdalus,Bot validación
+2022-06-08,35038ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación

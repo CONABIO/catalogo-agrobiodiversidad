@@ -28005,3 +28005,174 @@
 | createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-05-25 04:13:57.393+00 | 2022-05-25 04:13:57.393+00 | ASDKASDK | SADASD |  |  |  |  |  |  |  |  |
+
+### 2022-06-08
+**Se agregó el registro 34817ANGIO:**
+
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-09 01:16:33.776+00 | 2022-06-09 01:16:33.793+00 | Talinum fruticosum | Aceptado/Válido | 34817ANGIO | Talinum fruticosum | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | Bot validación |
+
+### 2022-06-08
+**Se agregó el registro 9006ANGIO:**
+
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-09 01:15:06.492+00 | 2022-06-09 01:15:06.492+00 | Opuntia karwinskiana | Aceptado/Válido | 9006ANGIO | Opuntia karwinskiana |  |  |  |  |  | Bot validación |
+
+### 2022-06-08
+**Se agregó el registro 40873COLEO:**
+
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-09 01:16:28.389+00 | 2022-06-09 01:16:28.412+00 | Habroscelimorpha curvata | Aceptado/Válido | 40873COLEO | Habroscelimorpha curvata | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | Bot validación |
+
+### 2022-06-08
+**Se agregó el registro 278543ANGIO:**
+
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-06-09 01:16:31.017+00 | 2022-06-09 01:16:31.037+00 | Alocasia macrorrhizos | Aceptado/Válido | 278543ANGIO | Alocasia macrorrhizos | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | Bot validación |
+
+### 2022-06-08
+**Se editó el registro 27912ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:57:03.528+00 | 2022-06-09 01:15:23.412+00 | Ipomoea variabilis | Sinónimo | 27770ANGIO | Ipomoea batatas | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |  | Pariente Silvestre |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:57:03.528+00 | 2022-05-26 18:57:03.528+00 | Ipomoea variabilis | Aceptado/Válido | 27912ANGIO | Ipomoea variabilis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 40751COLEO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:36.912+00 | 2022-06-09 01:16:27.633+00 | Cicindela (Cicindelidia) roseiventris | Aceptado/Válido | 40751COLEO | Cicindela roseiventris | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:36.912+00 | 2022-05-26 18:58:36.912+00 | Cicindela roseiventris | Aceptado/Válido | 40751COLEO | Cicindela roseiventris | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 66451ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:33.966+00 | 2022-06-09 01:16:06.374+00 | Euphorbia polycarpa var. carmenensis | Sinónimo | 14195ANGIO | Euphorbia polycarpa | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |  | Pariente Silvestre |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:33.966+00 | 2022-05-26 18:58:33.966+00 | Euphorbia polycarpa var. carmenensis | Aceptado/Válido | 66451ANGIO | Euphorbia polycarpa var. carmenensis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 19790ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:37.208+00 | 2022-06-09 01:16:30.979+00 | Alocasia macrorrhizos | Sinónimo | 278543ANGIO | Alocasia macrorrhizos | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. |  |  |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:37.208+00 | 2022-05-26 18:58:37.208+00 | Alocasia macrorrhizos | Aceptado/Válido | 19790ANGIO | Alocasia macrorrhizos | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 53762COLEO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:36.968+00 | 2022-06-09 01:16:28.351+00 | Cicindela curvata | Sinónimo | 40873COLEO | Habroscelimorpha curvata | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. |  |  |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:36.968+00 | 2022-05-26 18:58:36.968+00 | Cicindela curvata | Aceptado/Válido | 53762COLEO | Cicindela curvata | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 245513ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:34.42+00 | 2022-06-09 01:16:11.022+00 | Lepidium virginicum var. pubescens | Sinónimo | 76592ANGIO | Lepidium virginicum subsp. menziesii | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |  | Pariente Silvestre |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:34.42+00 | 2022-05-26 18:58:34.42+00 | Lepidium virginicum var. pubescens | Aceptado/Válido | 245513ANGIO | Lepidium virginicum var. pubescens | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 245511ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:34.417+00 | 2022-06-09 01:16:10.95+00 | Lepidium virginicum var. centrali-americanum | Sinónimo | 244783ANGIO | Lepidium costaricense | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |  | Pariente Silvestre |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:34.417+00 | 2022-05-26 18:58:34.417+00 | Lepidium virginicum var. centrali-americanum | Aceptado/Válido | 245511ANGIO | Lepidium virginicum var. centrali-americanum | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 20734ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:57:03.181+00 | 2022-06-09 01:15:18.347+00 | Chamaedorea quezalteca | Sinónimo | 78597ANGIO | Chamaedorea costaricana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |  | Pariente Silvestre |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:57:03.181+00 | 2022-05-26 18:57:03.181+00 | Chamaedorea quezalteca | Aceptado/Válido | 20734ANGIO | Chamaedorea quezalteca | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad | Pariente Silvestre |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 7914ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:57:01.307+00 | 2022-06-09 01:15:06.447+00 | Nopalea karwinskiana | Sinónimo | 9006ANGIO | Opuntia karwinskiana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |  |  |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:57:01.307+00 | 2022-05-26 18:57:01.307+00 | Nopalea karwinskiana | Aceptado/Válido | 7914ANGIO | Nopalea karwinskiana | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad |  |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 30872ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:37.462+00 | 2022-06-09 01:16:33.735+00 | Talinum triangulare | Sinónimo | 34817ANGIO | Talinum fruticosum | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. |  |  |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:37.462+00 | 2022-05-26 18:58:37.462+00 | Talinum triangulare | Aceptado/Válido | 30872ANGIO | Talinum triangulare | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | admin@zen.dro |
+
+### 2022-06-08
+**Se editó el registro 35038ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:57:04.27+00 | 2022-06-09 01:15:33.541+00 | Prunus communis | Sinónimo | 35036ANGIO | Prunus amygdalus | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." |  |  |  |  | Bot validación |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:57:04.27+00 | 2022-05-26 18:57:04.27+00 | Prunus communis | Aceptado/Válido | 35038ANGIO | Prunus communis | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad |  |  |  | admin@zen.dro |
