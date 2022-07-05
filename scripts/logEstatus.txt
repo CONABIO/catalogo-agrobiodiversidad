@@ -1,68 +1,7 @@
-Sun Jul 3 20:15:01 CDT 2022
+Mon Jul 4 20:15:01 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
 Leyendo archivos...
 Comparando archivos...
-Traceback (most recent call last):
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
-    chunked=chunked)
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 387, in _make_request
-    six.raise_from(e, None)
-  File "<string>", line 3, in raise_from
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 383, in _make_request
-    httplib_response = conn.getresponse()
-  File "/usr/lib/python3.6/http/client.py", line 1377, in getresponse
-    response.begin()
-  File "/usr/lib/python3.6/http/client.py", line 320, in begin
-    version, status, reason = self._read_status()
-  File "/usr/lib/python3.6/http/client.py", line 289, in _read_status
-    raise RemoteDisconnected("Remote end closed connection without"
-http.client.RemoteDisconnected: Remote end closed connection without response
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 440, in send
-    timeout=timeout
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 639, in urlopen
-    _stacktrace=sys.exc_info()[2])
-  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 367, in increment
-    raise six.reraise(type(error), error, _stacktrace)
-  File "/home/vbass/.local/lib/python3.6/site-packages/six.py", line 718, in reraise
-    raise value.with_traceback(tb)
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
-    chunked=chunked)
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 387, in _make_request
-    six.raise_from(e, None)
-  File "<string>", line 3, in raise_from
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 383, in _make_request
-    httplib_response = conn.getresponse()
-  File "/usr/lib/python3.6/http/client.py", line 1377, in getresponse
-    response.begin()
-  File "/usr/lib/python3.6/http/client.py", line 320, in begin
-    version, status, reason = self._read_status()
-  File "/usr/lib/python3.6/http/client.py", line 289, in _read_status
-    raise RemoteDisconnected("Remote end closed connection without"
-urllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "estatus.py", line 276, in <module>
-    sync_agrobd_to_catalog(agrobd_list)
-  File "estatus.py", line 246, in sync_agrobd_to_catalog
-    catalog = getInfoTaxon(agrobd['id'])
-  File "estatus.py", line 44, in getInfoTaxon
-    r = requests.post(path_zacatuche, json={'query': query})
-  File "/usr/lib/python3/dist-packages/requests/api.py", line 112, in post
-    return request('post', url, data=data, json=json, **kwargs)
-  File "/usr/lib/python3/dist-packages/requests/api.py", line 58, in request
-    return session.request(method=method, url=url, **kwargs)
-  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 520, in request
-    resp = self.send(prep, **send_kwargs)
-  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 630, in send
-    r = adapter.send(request, **kwargs)
-  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 490, in send
-    raise ConnectionError(err, request=request)
-requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+Termina comparación
