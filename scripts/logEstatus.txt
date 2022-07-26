@@ -1,4 +1,4 @@
-Mon Jul 25 20:15:01 CDT 2022
+Mon Jul 25 21:29:26 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
@@ -34,7 +34,7 @@ Traceback (most recent call last):
     conn = self._new_conn()
   File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 153, in _new_conn
     self, "Failed to establish a new connection: %s" % e)
-urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f766dee0da0>: Failed to establish a new connection: [Errno 111] Connection refused
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fd8149b8ef0>: Failed to establish a new connection: [Errno 111] Connection refused
 
 During handling of the above exception, another exception occurred:
 
@@ -45,7 +45,7 @@ Traceback (most recent call last):
     _stacktrace=sys.exc_info()[2])
   File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
     raise MaxRetryError(_pool, url, error or ResponseError(cause))
-urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='siagro.conabio.gob.mx', port=4750): Max retries exceeded with url: /graphql (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f766dee0da0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='siagro.conabio.gob.mx', port=4750): Max retries exceeded with url: /graphql (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd8149b8ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))
 
 During handling of the above exception, another exception occurred:
 
@@ -68,4 +68,4 @@ Traceback (most recent call last):
     r = adapter.send(request, **kwargs)
   File "/usr/lib/python3/dist-packages/requests/adapters.py", line 508, in send
     raise ConnectionError(e, request=request)
-requests.exceptions.ConnectionError: HTTPConnectionPool(host='siagro.conabio.gob.mx', port=4750): Max retries exceeded with url: /graphql (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f766dee0da0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='siagro.conabio.gob.mx', port=4750): Max retries exceeded with url: /graphql (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd8149b8ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))
