@@ -1,60 +1,41 @@
-Mon Jul 25 21:36:20 CDT 2022
+Mon Jul 25 21:38:34 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
+/usr/lib/python3/dist-packages/urllib3/connectionpool.py:860: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning)
 Leyendo archivos...
 Comparando archivos...
-Traceback (most recent call last):
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
-    chunked=chunked)
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 346, in _make_request
-    self._validate_conn(conn)
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 852, in _validate_conn
-    conn.connect()
-  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 340, in connect
-    ssl_context=context)
-  File "/usr/lib/python3/dist-packages/urllib3/util/ssl_.py", line 332, in ssl_wrap_socket
-    return context.wrap_socket(sock, server_hostname=server_hostname)
-  File "/usr/lib/python3.6/ssl.py", line 407, in wrap_socket
-    _context=self, _session=session)
-  File "/usr/lib/python3.6/ssl.py", line 817, in __init__
-    self.do_handshake()
-  File "/usr/lib/python3.6/ssl.py", line 1077, in do_handshake
-    self._sslobj.do_handshake()
-  File "/usr/lib/python3.6/ssl.py", line 689, in do_handshake
-    self._sslobj.do_handshake()
-ssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 440, in send
-    timeout=timeout
-  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 639, in urlopen
-    _stacktrace=sys.exc_info()[2])
-  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
-    raise MaxRetryError(_pool, url, error or ResponseError(cause))
-urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='listado-siagro.conabio.gob.mx', port=443): Max retries exceeded with url: /api/graphql (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)'),))
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "estatus.py", line 276, in <module>
-    sync_agrobd_to_catalog(agrobd_list)
-  File "estatus.py", line 255, in sync_agrobd_to_catalog
-    sync_status_and_agrobd_label(agrobd, catalog)
-  File "estatus.py", line 199, in sync_status_and_agrobd_label
-    'taxon_valido': catalog['taxon_valido']
-  File "estatus.py", line 91, in updateLocal
-    requests.post(path_siagro, json={'query': query})
-  File "/usr/lib/python3/dist-packages/requests/api.py", line 112, in post
-    return request('post', url, data=data, json=json, **kwargs)
-  File "/usr/lib/python3/dist-packages/requests/api.py", line 58, in request
-    return session.request(method=method, url=url, **kwargs)
-  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 520, in request
-    resp = self.send(prep, **send_kwargs)
-  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 630, in send
-    r = adapter.send(request, **kwargs)
-  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 506, in send
-    raise SSLError(e, request=request)
-requests.exceptions.SSLError: HTTPSConnectionPool(host='listado-siagro.conabio.gob.mx', port=443): Max retries exceeded with url: /api/graphql (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)'),))
+Termina comparación
