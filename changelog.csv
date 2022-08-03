@@ -1,1 +1,24 @@
 Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
+2022-08-03,14037ANGIO,Registro nuevo,,,,Bot validación
+2022-08-03,55628ANGIO,Registro nuevo,,,,Bot validación
+2022-08-03,275174ANGIO,Registro nuevo,,,,Bot validación
+2022-08-03,14028ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-08-03,14028ANGIO,Registro editado,id_valido,14028ANGIO,14037ANGIO,Bot validación
+2022-08-03,14028ANGIO,Registro editado,taxon_valido,Euphorbia georgei,Euphorbia acuta,Bot validación
+2022-08-03,14028ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-08-03,55861ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-08-03,55861ANGIO,Registro editado,id_valido,55861ANGIO,55628ANGIO,Bot validación
+2022-08-03,55861ANGIO,Registro editado,taxon_valido,Agave vera-cruz,Agave (Agave) (Americanae) lurida,Bot validación
+2022-08-03,55861ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-08-03,27356ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-08-03,27356ANGIO,Registro editado,id_valido,27356ANGIO,275174ANGIO,Bot validación
+2022-08-03,27356ANGIO,Registro editado,taxon_valido,Amoreuxia palmatifida,Cochlospermum palmatifidum,Bot validación
+2022-08-03,27356ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-08-03,54795ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-08-03,54795ANGIO,Registro editado,id_valido,54795ANGIO,,Bot validación
+2022-08-03,54795ANGIO,Registro editado,taxon_valido,Solanum bicolor,,Bot validación
+2022-08-03,54795ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-08-03,64927ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-08-03,64927ANGIO,Registro editado,id_valido,64927ANGIO,55807ANGIO,Bot validación
+2022-08-03,64927ANGIO,Registro editado,taxon_valido,Agave (Agave) (Umbelliflorae) shawii subsp. shawii,Agave (Agave) (Umbelliflorae) shawii,Bot validación
+2022-08-03,64927ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
