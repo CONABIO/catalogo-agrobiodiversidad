@@ -12,10 +12,40 @@ import json
 import pandas as pd
 import requests
 import smtplib 
+import warnings
+warnings.filterwarnings('ignore')
 
 # local import
 from paths import *
 
+# credential for login to zendro
+auth = {
+    "username": username,
+    "password": password,
+    "client_id": client_id,
+    "grant_type": grant_type
+}
+
+# make a post to a zendro-keycloak endpoint to retrieve session token
+login = requests.post(
+    listado_token,
+    verify=False,
+    data=auth
+)
+
+# if status code in the response is 200, then the request was successful and we have
+# the session token we need in the login response
+if login.status_code == 200:
+    
+    # we create a session object to use it for the requests to zendro api
+    session = requests.Session()
+
+    # and store the token we receive in the 'Authorization' header as a Bearer token
+    session.headers.update({
+        "Authorization": "Bearer " + login.json()["access_token"]
+    })
+    
+    print("Successful login")
 
 def getInfoTaxon(record_id):
     '''
@@ -23,7 +53,7 @@ def getInfoTaxon(record_id):
     Devuelve una pandas.Series con la información solicitada en la query.
     '''
     query = """query taxon{
-                dwcTaxon(taxonID:"""+"\""+record_id+"\""+"""){
+                taxon(taxonID:"""+"\""+record_id+"\""+"""){
                             id
                             taxonomicStatus
                             scientificName
@@ -41,25 +71,25 @@ def getInfoTaxon(record_id):
                      'scientificName': 'taxon'
                     }
 
-    r = requests.post(path_zacatuche, json={'query': query})
+    r = session.post(path_zacatuche, json={'query': query}, verify=False)
 
     # TO DO: check that response.status = 200, else print error to log
 
     json_data = json.loads(r.text)
-
+    #print(json_data)
     # case when id is not in CAT
-    if json_data['data']['dwcTaxon'] is None:
+    if json_data['data']['taxon'] is None:
         return None
 
     # case when there is no id_valido associated to id
-    if json_data['data']['dwcTaxon']['acceptedNameUsage'] is None:
-        df_data = (pd.json_normalize(json_data['data']['dwcTaxon'])
+    if json_data['data']['taxon']['acceptedNameUsage'] is None:
+        df_data = (pd.json_normalize(json_data['data']['taxon'])
                      .rename(columns = New_col_names))
         df_data[['id_valido', 'taxon_valido']] = None, None
         df_data = df_data.fillna('')
         return df_data.loc[0]
     
-    df_data = pd.json_normalize(json_data['data']['dwcTaxon'])
+    df_data = pd.json_normalize(json_data['data']['taxon'])
     df_data = (df_data.rename(columns = New_col_names)
                           .fillna(''))
     
@@ -71,6 +101,8 @@ def updateLocal(agrobd_id, New_values):
     Realiza las modificaciones en la instancia de catalogo-agrobiodiversidad
     de los campos que se le pasen como parámetro.
     '''
+    #print("estoy en update: ",agrobd_id)
+
     New_values['usuario'] = 'Bot validación'
     
     # TO DO: ¿Cómo deben aparecer los valores vacíos en mutation? 
@@ -87,11 +119,13 @@ def updateLocal(agrobd_id, New_values):
                     id
                 }}
                 }}'''
-    
-    requests.post(path_siagro, json={'query': query})
+    #print(query)
+    session.post(path_siagro, json={'query': query}, verify=False)
+    #print(res)
 
 
 def is_synonym(record):  
+    #print("estoy en is_synonym")
     return (record['id_valido']) and (record['id'] != record['id_valido'])
 
 
@@ -135,7 +169,7 @@ def add_record_to_agrobd_list(record):
                     id
                 }}
                 }}'''
-    requests.post(path_siagro, json={'query': query})
+    session.post(path_siagro, json={'query': query},verify=False)
 
 
 def add_agrobd_label(record_id, agrobd):
