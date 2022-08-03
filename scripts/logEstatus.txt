@@ -1,14 +1,8 @@
-Tue Aug 2 20:15:01 CDT 2022
+Wed Aug 3 12:15:26 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
+Successful login
 Leyendo archivos...
 Comparando archivos...
-Traceback (most recent call last):
-  File "estatus.py", line 276, in <module>
-    sync_agrobd_to_catalog(agrobd_list)
-  File "estatus.py", line 246, in sync_agrobd_to_catalog
-    catalog = getInfoTaxon(agrobd['id'])
-  File "estatus.py", line 51, in getInfoTaxon
-    if json_data['data']['dwcTaxon'] is None:
-KeyError: 'data'
+Termina comparación
