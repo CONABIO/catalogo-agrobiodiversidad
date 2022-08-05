@@ -1,4 +1,4 @@
-Wed Aug 3 20:30:01 CDT 2022
+Thu Aug 4 20:00:01 CDT 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -22,6 +22,7 @@ Untracked files:
 	comparaZacatuche.csv
 	compare.py
 	compareZacatuche.sh
+	data/
 	estatus.py
 	functions.py
 	paths.py
