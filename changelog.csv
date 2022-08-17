@@ -22,3 +22,13 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-08-03,64927ANGIO,Registro editado,id_valido,64927ANGIO,55807ANGIO,Bot validación
 2022-08-03,64927ANGIO,Registro editado,taxon_valido,Agave (Agave) (Umbelliflorae) shawii subsp. shawii,Agave (Agave) (Umbelliflorae) shawii,Bot validación
 2022-08-03,64927ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-08-16,237947ANGIO,Registro nuevo,,,,Bot validación
+2022-08-16,279252ANGIO,Registro nuevo,,,,Bot validación
+2022-08-16,32091ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-08-16,32091ANGIO,Registro editado,id_valido,32091ANGIO,279252ANGIO,Bot validación
+2022-08-16,32091ANGIO,Registro editado,taxon_valido,Hybanthus verticillatus,Pombalia verticillata,Bot validación
+2022-08-16,32091ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-08-16,17826ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-08-16,17826ANGIO,Registro editado,id_valido,17826ANGIO,237947ANGIO,Bot validación
+2022-08-16,17826ANGIO,Registro editado,taxon_valido,Mimulus guttatus,Erythranthe guttata,Bot validación
+2022-08-16,17826ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
