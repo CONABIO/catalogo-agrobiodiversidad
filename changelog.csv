@@ -32,3 +32,4 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-08-16,17826ANGIO,Registro editado,id_valido,17826ANGIO,237947ANGIO,Bot validación
 2022-08-16,17826ANGIO,Registro editado,taxon_valido,Mimulus guttatus,Erythranthe guttata,Bot validación
 2022-08-16,17826ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-08-18,100_pendiente,Registro editado,referencia,"""Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.""","Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",admin@zen.dro

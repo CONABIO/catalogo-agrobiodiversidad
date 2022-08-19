@@ -124,3 +124,16 @@
 | createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-05-26 18:58:37.153+00 | 2022-05-26 18:58:37.153+00 | Mimulus guttatus | Aceptado/Válido | 17826ANGIO | Mimulus guttatus | El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida. | Agrobiodiversidad |  |  |  | admin@zen.dro |
+
+### 2022-08-18
+**Se editó el registro 100_pendiente.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:34.77+00 | 2022-08-18 20:23:35.475+00 |  |  |  |  | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad |  |  |  | admin@zen.dro |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-05-26 18:58:34.77+00 | 2022-05-26 18:58:34.77+00 |  |  |  |  | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad |  |  |  | admin@zen.dro |
