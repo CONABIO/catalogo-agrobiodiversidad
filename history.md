@@ -137,3 +137,10 @@
 | createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2022-05-26 18:58:34.77+00 | 2022-05-26 18:58:34.77+00 |  |  |  |  | "Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225." | Agrobiodiversidad |  |  |  | admin@zen.dro |
+
+### 2022-09-01
+**Se borró el registro 11454MAMIF:**
+
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | subcategoria_agrobiodiversidad | justificacion_subcategoria | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2022-08-31 22:14:23.836+00 | 2022-08-31 22:15:28.8+00 | Romerolagus diazi | Aceptado/Válido | 11454MAMIF | Romerolagus diazi |  |  |  |  |  - REVISAR ETIQUETA AGROBIODIVERSIDAD | listado-admin |
