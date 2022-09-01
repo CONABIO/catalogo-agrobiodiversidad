@@ -3451,3 +3451,8 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-08-31,11454MAMIF,Registro nuevo,,,,listado-admin
 2022-08-31,11454MAMIF,Registro borrado,,,,
 2022-08-31,11454MAMIF,Registro nuevo,,,,listado-admin
+2022-08-31,11454MAMIF,Registro editado,taxon,hola,Romerolagus diazi,listado-admin
+2022-08-31,11454MAMIF,Registro editado,estatus,,Aceptado/Válido,listado-admin
+2022-08-31,11454MAMIF,Registro editado,id_valido,,11454MAMIF,listado-admin
+2022-08-31,11454MAMIF,Registro editado,taxon_valido,,Romerolagus diazi,listado-admin
+2022-08-31,11454MAMIF,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,listado-admin
