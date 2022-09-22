@@ -241,3 +241,16 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-08-28,74389ANGIO,Registro editado,taxon_valido,,Salvia misella,listado-admin
 2022-08-28,72475ANGIO,Registro editado,id_valido,,277380ANGIO,listado-admin
 2022-08-28,72475ANGIO,Registro editado,taxon_valido,,Agave (Agave) (Salmianae) salmiana subsp. salmiana,listado-admin2022-09-01,11454MAMIF,Registro borrado,,,,
+2022-09-21,279307ANGIO,Registro nuevo,,,,Bot validación
+2022-09-21,35173ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-09-21,35173ANGIO,Registro editado,id_valido,35173ANGIO,35517ANGIO,Bot validación
+2022-09-21,35173ANGIO,Registro editado,taxon_valido,Pouteria unilocularis,Pouteria reticulata,Bot validación
+2022-09-21,35173ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-09-21,31671ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-09-21,31671ANGIO,Registro editado,id_valido,31671ANGIO,279307ANGIO,Bot validación
+2022-09-21,31671ANGIO,Registro editado,taxon_valido,Byttneria aculeata,Ayenia aculeata,Bot validación
+2022-09-21,31671ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2022-09-21,61770ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2022-09-21,61770ANGIO,Registro editado,id_valido,61770ANGIO,55219ANGIO,Bot validación
+2022-09-21,61770ANGIO,Registro editado,taxon_valido,Solanum diversifolium,Solanum (Leptostemomum) (Torva) rudepannum,Bot validación
+2022-09-21,61770ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
