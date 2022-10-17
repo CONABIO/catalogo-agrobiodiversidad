@@ -1,4 +1,4 @@
-Mon Oct 17 12:40:56 CDT 2022
+Mon Oct 17 12:49:47 CDT 2022
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
