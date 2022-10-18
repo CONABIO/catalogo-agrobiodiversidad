@@ -4729,3 +4729,10 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-10-04,19534GIMNO,Registro editado,taxon,Pinus (Pinus) (Trifoliae) (Australes) patula,Pinus (Pinus) patula,listado-admin
 2022-10-05,18219ANGIO,Registro editado,referencia,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.","Hernández-Rosales, H. S., Castellanos-Morales, G., Sánchez-de la Vega, G., Aguirre-Planter, E., Montes-Hernández, S., and Lira-Saade, R. et al. (2020). Phylogeographic and population genetics analyses of Cucurbita moschata reveal divergence of two mitochondrial lineages linked to an elevational gradient. Am. J. Bot. 107, 510–525. doi: 10.1002/ajb2.1424",ooliver@conabio.gob.mx
 2022-10-05,18219ANGIO,Registro editado,comentarios_revision,,C. moschata es domesticada con una gran diversidad morfológica y genética en México,ooliver@conabio.gob.mx
+2022-10-17,1049FUNGI,Registro nuevo,,,,listado-admin
+2022-10-17,999FUNGI,Registro nuevo,,,,listado-admin
+2022-10-17,64927ANGIO,Registro editado,taxon_valido,Agave (Agave) (Umbelliflorae) shawii,Agave (Agave) shawii,listado-admin
+2022-10-17,61770ANGIO,Registro editado,taxon_valido,Solanum (Leptostemomum) (Torva) rudepannum,Solanum (Leptostemomum) rudepannum,listado-admin
+2022-10-17,76752ANGIO,Registro editado,taxon_valido,Solanum (Solanum) (Dulcamara) umbelliferum,Solanum (Solanum) umbelliferum,listado-admin
+2022-10-17,72475ANGIO,Registro editado,taxon_valido,Agave (Agave) (Salmianae) salmiana subsp. salmiana,Agave (Agave) salmiana subsp. salmiana,listado-admin
+2022-10-17,55861ANGIO,Registro editado,taxon_valido,Agave (Agave) (Americanae) lurida,Agave (Agave) lurida,listado-admin
