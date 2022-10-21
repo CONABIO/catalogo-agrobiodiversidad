@@ -1,0 +1,16 @@
+#path_history = '/home/vbass/projects/etiquetas/etiquetas/graphql-server/history.txt'
+path_history = '/home/vbass/daily_update/catalogo-agrobiodiversidad/history.md'
+#path_changelog = '/home/vbass/projects/etiquetas/etiquetas/graphql-server/changelog.txt'
+path_changelog = '/home/vbass/daily_update/catalogo-agrobiodiversidad/changelog.csv'
+zacatuche = "http://zacatuche2.conabio.gob.mx:4000/graphql"
+siagro = "https://listado-siagro.conabio.gob.mx/api/graphql"
+path_agrobd_list = "comparaZacatuche.csv"
+path_zacatuche = "http://zacatuche2.conabio.gob.mx:4000/graphql"
+path_siagro = "https://listado-siagro.conabio.gob.mx/api/graphql"
+path_actual = '/home/vbass/daily_update/catalogo-agrobiodiversidad/agro_actual.csv'
+path_anterior = '/home/vbass/daily_update/catalogo-agrobiodiversidad/agro_anterior.csv'
+username = "listado-admin"
+password = "LiAdmQwe"
+client_id = "zendro_graphql-server"
+grant_type = "password"
+listado_token = "https://listado-siagro.conabio.gob.mx/auth/realms/listado/protocol/openid-connect/token"
