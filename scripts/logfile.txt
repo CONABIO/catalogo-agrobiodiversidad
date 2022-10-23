@@ -1,4 +1,4 @@
-Fri Oct 21 20:30:01 CDT 2022
+Sat Oct 22 20:00:01 CDT 2022
 Empieza validación de actualizaciones diarias
 
 Cambiando nombre de archivos...
@@ -22,10 +22,12 @@ Untracked files:
 	agro_anterior.csv
 	checkOcurrence.py
 	check_pendiente.py
+	check_pendiente_mensual.py
 	comparaZacatuche.csv
 	compare.py
 	compareZacatuche.sh
 	consultaOswa.py
+	correo_adjunto.py
 	data/
 	ejemplares.py
 	estatus.py
