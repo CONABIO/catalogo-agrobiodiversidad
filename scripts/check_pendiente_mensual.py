@@ -5,10 +5,13 @@ import requests
 import smtplib 
 import warnings
 warnings.filterwarnings('ignore')
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
+from email import encoders
 
 # local import
 from paths import *
-from correo_adjunto import *
 
 def loginListado():
 
@@ -97,34 +100,51 @@ def delete_pendiente(id):
     #print(query)
     session.post(path_siagro, json={'query': query}, verify=False)
 
-
-def sendeMail(string):
-    '''
-    Envía un correo a las direcciones en "destinatario". 
-    Recibe como parámetro un string con los ids a los que se necesita dar seguimiento.
-    '''
-    remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
-    #destinatario = ["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
-    destinatario = ["Vivian <vbass@conabio.gob.mx>"]
-    asunto = "Revisar taxones con id pendiente" 
-    mensaje = """La siguiente lista de taxones pendientes tiene similitudes con los taxones indicados, favor de revisar los campos categoria_agrobiodiversidad, es_parientesilvestre, es_domesticado y es_quelite.
+def mailAdjunto():
+    # Iniciamos los parámetros del script
+    remitente = 'siagro@siagro.conabio.gob.mx'
+    #["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
+    destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+    asunto = 'Revisar taxones con id pendiente'
+    cuerpo = """La lista adjunta de taxones pendientes tiene similitudes con los taxones indicados, favor de revisar los campos categoria_agrobiodiversidad, es_parientesilvestre, es_domesticado y es_quelite.
 
 Este es el aviso mensual, favor de hacer caso omiso si el registro ya se reviso y tiene comentarios. Si el registro ya se reviso y no tiene comentarios, favor de agregarlos.
-
- ID pendiente | Taxon pendiente | ID coincidencia | Taxon coincidencia | Comentarios
-
-"""+string+"""
     
 ------------------------------------
 Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
-    email = 'Subject: {}\n\n{}'.format(asunto, mensaje)
-    try: 
-        smtp = smtplib.SMTP('localhost') 
-        smtp.sendmail(remitente, destinatario, email.encode("utf8")) 
-        print("Correo enviado")
-    except: 
-        print("""Error: el mensaje no pudo enviarse. 
-        Compruebe que el mensaje no tenga acentos""")
+    ruta_adjunto = 'check_pendiente.csv'
+    nombre_adjunto = 'check_pendiente.csv'
+
+    # Creamos el objeto mensaje
+    mensaje = MIMEMultipart()
+    
+    # Establecemos los atributos del mensaje
+    mensaje['From'] = remitente
+    mensaje['To'] = ", ".join(destinatarios)
+    mensaje['Subject'] = asunto
+    
+    # Agregamos el cuerpo del mensaje como objeto MIME de tipo texto
+    mensaje.attach(MIMEText(cuerpo, 'plain'))
+    
+    # Abrimos el archivo que vamos a adjuntar
+    archivo_adjunto = open(ruta_adjunto, 'rb')
+    
+    # Creamos un objeto MIME base
+    adjunto_MIME = MIMEBase('application', 'octet-stream')
+    # Y le cargamos el archivo adjunto
+    adjunto_MIME.set_payload((archivo_adjunto).read())
+    # Codificamos el objeto en BASE64
+    encoders.encode_base64(adjunto_MIME)
+    # Agregamos una cabecera al objeto
+    adjunto_MIME.add_header('Content-Disposition', "attachment; filename= %s" % nombre_adjunto)
+    # Y finalmente lo agregamos al mensaje
+    mensaje.attach(adjunto_MIME)
+    
+    # Creamos la conexión con el servidor
+    sesion_smtp = smtplib.SMTP('smtp.gmail.com', 587)
+    
+    smtp = smtplib.SMTP('localhost') 
+    smtp.sendmail(remitente, destinatarios, mensaje.as_string()) 
 
 
 def is_new(id,actual,anterior):
