@@ -8,6 +8,7 @@ warnings.filterwarnings('ignore')
 
 # local import
 from paths import *
+from correo_adjunto import *
 
 def loginListado():
 
@@ -62,14 +63,23 @@ def get_pendientes():
     actual=pd.read_csv(path_actual, keep_default_na=False)   
     anterior=pd.read_csv(path_anterior, keep_default_na=False)   
     #print(json_data['data']['agrobiodiversidads'])
-    aux=""
+    aux=[]
     for i in range (len(json_data)):
         #print(json_data[i]['taxon'])
         res=search_taxon(json_data[i],actual,anterior)
-        aux=aux + res 
+        if len(res) != 0:
+            for j in range(len(res)):
+                #print(res[j])
+                aux.append(res[j])
 
-    if aux != "":
-        sendeMail(aux)    
+    
+    if len(aux) != 0:
+
+        #sendeMail(aux)   
+        pdData = pd.DataFrame(aux,columns=["ID pendiente", "Taxon pendiente", "ID coincidencia", "Taxon coincidencia", "Comentarios"])
+        #print(aux[0])
+        pdData.to_csv('check_pendiente.csv',index=False) 
+        mailAdjunto()
 
 
 def is_equal(info,json_data):
@@ -94,12 +104,14 @@ def sendeMail(string):
     Recibe como parámetro un string con los ids a los que se necesita dar seguimiento.
     '''
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
-    destinatario = ["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
-    #destinatario = ["Vivian <vbass@conabio.gob.mx>"]
+    #destinatario = ["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
+    destinatario = ["Vivian <vbass@conabio.gob.mx>"]
     asunto = "Revisar taxones con id pendiente" 
     mensaje = """La siguiente lista de taxones pendientes tiene similitudes con los taxones indicados, favor de revisar los campos categoria_agrobiodiversidad, es_parientesilvestre, es_domesticado y es_quelite.
 
- ID pendiente | Taxon pendiente | ID coincidencia | Taxon coincidencia
+Este es el aviso mensual, favor de hacer caso omiso si el registro ya se reviso y tiene comentarios. Si el registro ya se reviso y no tiene comentarios, favor de agregarlos.
+
+ ID pendiente | Taxon pendiente | ID coincidencia | Taxon coincidencia | Comentarios
 
 """+string+"""
     
@@ -139,6 +151,7 @@ def search_taxon(info,actual,anterior):
                 es_parientesilvestre
                 es_domesticado
                 es_quelite
+                comentarios_revision
             }
         }"""
 
@@ -147,7 +160,18 @@ def search_taxon(info,actual,anterior):
     json_data = json.loads(r.text)
     json_data = json_data['data']['agrobiodiversidads']
     formail=""
+    arrFormail=[]
+    
+
     if len(json_data) > 0 :
+        
+        for x in info:
+            #print(info[x])
+            if info[x] is None:
+                info[x] = ''
+
+        
+        #print(info)
         for i in range(len(json_data)):
             
             #print(json_data[0]['taxon'])
@@ -155,12 +179,18 @@ def search_taxon(info,actual,anterior):
                 delete_pendiente(info['id'])
 
             else:
-                if is_new(json_data[i]['id'],actual,anterior):
-                    formail=formail + info['id'] + " | " + info['taxon']+ " | " + json_data[i]['id'] + " | " + json_data[i]['taxon'] +"\n" 
+                
+                formail=info['id'] + "," + info['taxon'] + ","+ json_data[i]['id'] + ","+ json_data[i]['taxon'] + ","+ info['comentarios_revision']
+                formail=formail.split(',')
+                #print(formail)
+                arrFormail.append(formail) 
 
-    return formail            
+    return arrFormail            
 
 if __name__ == '__main__':
     print("Empieza check_pendiente archivos...")
     session=loginListado()
     get_pendientes()
+
+
+    
