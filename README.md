@@ -24,4 +24,8 @@ El script identifica los registros borrados, agregados y editados y guarda un re
 En ambos scripts se detecta quién realizó los respectivos cambios a los registros.
 Los logs del script se encuentran en [logfile.txt](https://github.com/CONABIO/catalogo-agrobiodiversidad/blob/main/scripts/logfile.txt).
 
+## Revisión de ids marcados como \*\_pendiente
 
+Diariamente a las 20:40 horas correrá el script check_pendiente.py, el cual revisa si existe algún taxón marcado como \*\_pendiente que tenga un nombre científico parecido a los nuevos registros. Si es exactamente igual así como sus etiquetas, el registro marcado como pendiente se elimina y se queda el que ya tiene un ID asignado. Si el registro no es exactamente igual entonces se enviará un correo a Oswa, Mao y Vivian.
+
+Mensualmente se realizará una revisión de todos los registros pendientes contra todos los taxones que ya tienen un ID asignado. Si existen registros parecidos, se enviará un correo a Oswa, Mao y Vivian, el cual incluirá un archivo csv adjunto con el id y taxón del pendiente así como de la coincidencia y también se incluirá la columna de comentarios para saber si ese registro ya fue revisado o no.
