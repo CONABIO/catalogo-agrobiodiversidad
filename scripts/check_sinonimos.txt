@@ -1,0 +1,253 @@
+Thu Oct 27 11:10:16 CDT 2022
+Empieza check_pendiente archivos...
+Successful login
+compara etiquetas
+El sinónimo  14028ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  17826ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  19790ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  20682ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  20691ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  20721ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  20734ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  238710ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  245511ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  245513ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  254214ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  26460ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  26869ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  27356ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  27912ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  30872ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  31671ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  32091ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  34601ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  35038ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  35117ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  35173ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  35876ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  44557ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  49720ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  49734ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  49744ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  51486ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  51971ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  53093ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  53762COLEO  ya no tiene etiquetas
+
+
+El id  54795ANGIO  tiene un id_valido None
+
+
+compara etiquetas
+El sinónimo  55305ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  55861ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  57333ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  57717ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  61770ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  64813ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  64927ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  66451ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  72475ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  72716ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74382ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74389ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74765ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74790ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74795ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74822ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74827ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74849ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74874ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74887ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74889ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74900ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74907ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74919ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  74923ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  75732ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  76752ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  78072ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinónimo  7914ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+Sinónimo: | 999FUNGI  |  Hydnodon  |  True  |  False  |  None
+Válido: | 1049FUNGI  |  Trechispora  |  True  |  None  |  None
+
+
+
+
