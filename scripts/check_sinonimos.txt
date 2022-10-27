@@ -1,4 +1,4 @@
-Thu Oct 27 11:14:05 CDT 2022
+Thu Oct 27 11:16:04 CDT 2022
 Empieza check_pendiente archivos...
 Successful login
 compara etiquetas
@@ -252,3 +252,9 @@ Válido: | 1049FUNGI  |  Trechispora  |  True  |  None  |  None
 
 
 
+Traceback (most recent call last):
+  File "check_sinonimos.py", line 215, in <module>
+    get_sinonimos()
+  File "check_sinonimos.py", line 209, in get_sinonimos
+    mailAdjunto()
+NameError: name 'mailAdjunto' is not defined
