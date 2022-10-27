@@ -63,7 +63,7 @@ def getInfoTaxon(record_id):
                             }
                         }
                         }"""
-    
+    #print(query)
     # renombrar las columnas
     New_col_names = {'acceptedNameUsage.id': 'id_valido',
                      'acceptedNameUsage.scientificName' : 'taxon_valido',
@@ -110,7 +110,17 @@ def updateLocal(agrobd_id, New_values):
     for field in New_values:
         if New_values[field] is None:
             New_values[field] = ''
-        new_values += f'{field}: \"{New_values[field]}\" \n'
+        if field == 'es_parientesilvestre' or field == 'es_domesticado' or field == 'es_quelite':
+            if New_values[field] == 't':
+                New_values[field] = 'true'
+            if New_values[field] == 'f':
+                New_values[field] = 'false'
+            if New_values[field] == "":
+                New_values[field] = "null"
+            new_values += f'{field}: {New_values[field]} \n'
+        else:
+            new_values += f'{field}: \"{New_values[field]}\" \n'
+        #new_values += f'{field}: \"{New_values[field]}\" \n'
 
     query = f'''mutation{{
                 updateAgrobiodiversidad(
@@ -125,7 +135,7 @@ def updateLocal(agrobd_id, New_values):
 
 
 def is_synonym(record):  
-    #print("estoy en is_synonym")
+    #print("estoy en is_synonym",record['id'])
     return (record['id_valido']) and (record['id'] != record['id_valido'])
 
 
@@ -150,7 +160,10 @@ def request_agrobd_review(record, check_previous_label=True):
 def delete_agrobd_label(record):
     # TO DO: also delete subcategoria_agrobiodiversidad
     # TO DO: cómo poner campos vacíos    
-    updateLocal(record['id'], {'categoria_agrobiodiversidad': ''})
+    updateLocal(record['id'], {'categoria_agrobiodiversidad': '',
+                                'es_parientesilvestre': "null",
+                                'es_quelite': "null",
+                                'es_domesticado': "null"})
 
 
 def id_is_in_agrobd_list(record_id):
@@ -185,8 +198,11 @@ def add_agrobd_label(record_id, agrobd):
         agrobd (pandas.Series): registro cuyo estatus cambio de válido -> sinónimo
     '''
     updateLocal(record_id, {'categoria_agrobiodiversidad': 'Agrobiodiversidad',
-                            'subcategoria_agrobiodiversidad': agrobd['subcategoria_agrobiodiversidad'],
-                            'referencia': agrobd['referencia']})
+                            'referencia': agrobd['referencia'],
+                            'es_parientesilvestre': agrobd['es_parientesilvestre'],
+                            'es_domesticado': agrobd['es_domesticado'],
+                            'es_quelite': agrobd['es_quelite']
+                            })
 
 
 def sendeMail(string):
@@ -250,6 +266,7 @@ def sync_status_and_agrobd_label(agrobd, catalog):
     
     # valido --> sinonimo
     elif (agrobd['id'] == agrobd['id_valido']) and is_synonym(catalog):
+        #print("valido a sinonimo",agrobd['id'])
         delete_agrobd_label(agrobd)
         if not id_is_in_agrobd_list(catalog['id_valido']):
             new_record = getInfoTaxon(catalog['id_valido']) # assumes id exists in CAT
@@ -286,6 +303,7 @@ def sync_agrobd_to_catalog(agrobd_list):
         
         # case when there was a change in taxonomic status
         if agrobd['id_valido'] != catalog['id_valido']:
+            #print("cambia estatus",agrobd['id_valido'])
             sync_status_and_agrobd_label(agrobd, catalog)
 
         # case when there was a change in taxonomic name
