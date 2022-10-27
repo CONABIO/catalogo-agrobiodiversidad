@@ -4787,3 +4787,22 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-10-21,231_pendiente,Registro borrado,,,,
 2022-10-24,123PRUEBA,Registro nuevo,,,,listado-admin
 2022-10-24,prueba_pendiente,Registro nuevo,,,,listado-admin
+2022-10-26,999FUNGI,Registro nuevo,,,,listado-admin
+2022-10-26,1049FUNGI,Registro nuevo,,,,listado-admin
+2022-10-26,232_pendiente,Registro borrado,,,,
+2022-10-26,269_pendiente,Registro borrado,,,,
+2022-10-26,272_pendiente,Registro borrado,,,,
+2022-10-26,295_pendiente,Registro borrado,,,,
+2022-10-26,233_pendiente,Registro borrado,,,,
+2022-10-26,301_pendiente,Registro borrado,,,,
+2022-10-26,3_pendiente,Registro borrado,,,,
+2022-10-26,prueba_pendiente,Registro borrado,,,,
+2022-10-26,296_pendiente,Registro borrado,,,,
+2022-10-26,123PRUEBA,Registro borrado,,,,
+2022-10-26,202_pendiente,Registro borrado,,,,
+2022-10-26,198_pendiente,Registro borrado,,,,
+2022-10-26,273_pendiente,Registro borrado,,,,
+2022-10-26,91_pendiente,Registro borrado,,,,
+2022-10-26,51_pendiente,Registro editado,comentarios_revision,,"No está en Enciclovida, pero en la página de Tropicos la especie Salvia verticillata L. tiene distribución en Norteamérica (EUA). Al parecer no tiene relación con el taxón 28646ANGIO ",ooliver@conabio.gob.mx
+2022-10-26,52_pendiente,Registro editado,comentarios_revision,,El taxón es válido en Enciclovida y si estaría relacionado con el taxón 64453ANGIO ,ooliver@conabio.gob.mx
+2022-10-26,32_pendiente,Registro editado,comentarios_revision,,"No está en Enciclovida, pero en la página de Tropicos la especie Euphorbia hirtella Boiss. tiene distribución en Sudamérica. Al parecer no tiene relación con el taxón 66412ANGIO ",ooliver@conabio.gob.mx
