@@ -1,4 +1,4 @@
-Thu Oct 27 11:10:16 CDT 2022
+Thu Oct 27 11:11:26 CDT 2022
 Empieza check_pendiente archivos...
 Successful login
 compara etiquetas
@@ -245,6 +245,7 @@ El sinónimo  7914ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+VALIDAR CON OSWA Y MAO
 Sinónimo: | 999FUNGI  |  Hydnodon  |  True  |  False  |  None
 Válido: | 1049FUNGI  |  Trechispora  |  True  |  None  |  None
 
