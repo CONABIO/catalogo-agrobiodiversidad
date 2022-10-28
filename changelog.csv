@@ -4806,3 +4806,11 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-10-26,51_pendiente,Registro editado,comentarios_revision,,"No está en Enciclovida, pero en la página de Tropicos la especie Salvia verticillata L. tiene distribución en Norteamérica (EUA). Al parecer no tiene relación con el taxón 28646ANGIO ",ooliver@conabio.gob.mx
 2022-10-26,52_pendiente,Registro editado,comentarios_revision,,El taxón es válido en Enciclovida y si estaría relacionado con el taxón 64453ANGIO ,ooliver@conabio.gob.mx
 2022-10-26,32_pendiente,Registro editado,comentarios_revision,,"No está en Enciclovida, pero en la página de Tropicos la especie Euphorbia hirtella Boiss. tiene distribución en Sudamérica. Al parecer no tiene relación con el taxón 66412ANGIO ",ooliver@conabio.gob.mx
+2022-10-27,1049FUNGI,Registro borrado,,,,
+2022-10-27,999FUNGI,Registro borrado,,,,
+2022-10-27,14037ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",listado-admin
+2022-10-27,14037ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,listado-admin
+2022-10-27,9006ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.	",listado-admin
+2022-10-27,9006ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,listado-admin
+2022-10-27,55628ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.	",listado-admin
+2022-10-27,55628ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,listado-admin
