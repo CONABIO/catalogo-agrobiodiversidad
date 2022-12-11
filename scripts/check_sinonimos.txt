@@ -1,245 +1,186 @@
-Fri Dec 9 20:50:01 CST 2022
+Sat Dec 10 20:50:01 CST 2022
 Empieza check_pendiente archivos...
 Successful login
-compara etiquetas
-El sinonimo  14028ANGIO  ya no tiene etiquetas
+El id  14028ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  17826ANGIO  ya no tiene etiquetas
+El id  17826ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  19790ANGIO  ya no tiene etiquetas
+El id  19790ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  20682ANGIO  ya no tiene etiquetas
+El id  20682ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  20691ANGIO  ya no tiene etiquetas
+El id  20691ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  20721ANGIO  ya no tiene etiquetas
+El id  20721ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  20734ANGIO  ya no tiene etiquetas
+El id  20734ANGIO  tiene un id_valido None
 
 
 El id  238710ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  245511ANGIO  ya no tiene etiquetas
+El id  245511ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  245513ANGIO  ya no tiene etiquetas
+El id  245513ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  254214ANGIO  ya no tiene etiquetas
+El id  254214ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  26460ANGIO  ya no tiene etiquetas
+El id  26460ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  26869ANGIO  ya no tiene etiquetas
+El id  26869ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  27356ANGIO  ya no tiene etiquetas
+El id  27356ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  27912ANGIO  ya no tiene etiquetas
+El id  27912ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  30872ANGIO  ya no tiene etiquetas
+El id  30872ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  31671ANGIO  ya no tiene etiquetas
+El id  31671ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  32091ANGIO  ya no tiene etiquetas
+El id  32091ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  34601ANGIO  ya no tiene etiquetas
+El id  34601ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  35038ANGIO  ya no tiene etiquetas
+El id  35038ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  35117ANGIO  ya no tiene etiquetas
+El id  35117ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  35173ANGIO  ya no tiene etiquetas
+El id  35173ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  35876ANGIO  ya no tiene etiquetas
+El id  35876ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  44557ANGIO  ya no tiene etiquetas
+El id  44557ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  49720ANGIO  ya no tiene etiquetas
+El id  49720ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  49734ANGIO  ya no tiene etiquetas
+El id  49734ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  49744ANGIO  ya no tiene etiquetas
+El id  49744ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  51486ANGIO  ya no tiene etiquetas
+El id  51486ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  51971ANGIO  ya no tiene etiquetas
+El id  51971ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  53093ANGIO  ya no tiene etiquetas
+El id  53093ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  53762COLEO  ya no tiene etiquetas
+El id  53762COLEO  tiene un id_valido None
 
 
 El id  54795ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  55305ANGIO  ya no tiene etiquetas
+El id  55305ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  55861ANGIO  ya no tiene etiquetas
+El id  55861ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  57333ANGIO  ya no tiene etiquetas
+El id  57333ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  57717ANGIO  ya no tiene etiquetas
+El id  57717ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  61770ANGIO  ya no tiene etiquetas
+El id  61770ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  64813ANGIO  ya no tiene etiquetas
+El id  64813ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  64927ANGIO  ya no tiene etiquetas
+El id  64927ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  66451ANGIO  ya no tiene etiquetas
+El id  66451ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  72475ANGIO  ya no tiene etiquetas
+El id  72475ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  72716ANGIO  ya no tiene etiquetas
+El id  72716ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74382ANGIO  ya no tiene etiquetas
+El id  74382ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74389ANGIO  ya no tiene etiquetas
+El id  74389ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74765ANGIO  ya no tiene etiquetas
+El id  74765ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74790ANGIO  ya no tiene etiquetas
+El id  74790ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74795ANGIO  ya no tiene etiquetas
+El id  74795ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74822ANGIO  ya no tiene etiquetas
+El id  74822ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74827ANGIO  ya no tiene etiquetas
+El id  74827ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74849ANGIO  ya no tiene etiquetas
+El id  74849ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74874ANGIO  ya no tiene etiquetas
+El id  74874ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74887ANGIO  ya no tiene etiquetas
+El id  74887ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74889ANGIO  ya no tiene etiquetas
+El id  74889ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74900ANGIO  ya no tiene etiquetas
+El id  74900ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74907ANGIO  ya no tiene etiquetas
+El id  74907ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74919ANGIO  ya no tiene etiquetas
+El id  74919ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  74923ANGIO  ya no tiene etiquetas
+El id  74923ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  75732ANGIO  ya no tiene etiquetas
+El id  75732ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  76752ANGIO  ya no tiene etiquetas
+El id  76752ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  78072ANGIO  ya no tiene etiquetas
+El id  78072ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  7914ANGIO  ya no tiene etiquetas
+El id  7914ANGIO  tiene un id_valido None
 
 
