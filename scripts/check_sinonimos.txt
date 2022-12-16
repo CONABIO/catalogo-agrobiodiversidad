@@ -1,4 +1,4 @@
-Wed Dec 14 20:50:01 CST 2022
+Thu Dec 15 20:50:01 CST 2022
 Empieza check_pendiente archivos...
 Successful login
 compara etiquetas
@@ -116,8 +116,7 @@ compara etiquetas
 El sinonimo  51971ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  53093ANGIO  ya no tiene etiquetas
+El id  53093ANGIO  tiene un id_valido None
 
 
 compara etiquetas
