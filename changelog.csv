@@ -5052,3 +5052,7 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-12-12,20721ANGIO,Registro editado,taxon_valido,,Chamaedorea oreophila,listado-admin
 2022-12-12,34601ANGIO,Registro editado,id_valido,,34573ANGIO,listado-admin
 2022-12-12,34601ANGIO,Registro editado,taxon_valido,,Piper chamissonis,listado-admin
+2022-12-15,51971ANGIO,Registro editado,id_valido,50899ANGIO,52582ANGIO,listado-admin
+2022-12-15,51971ANGIO,Registro editado,taxon_valido,Phaseolus grayanus,Phaseolus scabrellus,listado-admin
+2022-12-15,53093ANGIO,Registro editado,id_valido,51470ANGIO,,listado-admin
+2022-12-15,53093ANGIO,Registro editado,taxon_valido,Phaseolus maculatus,,listado-admin
