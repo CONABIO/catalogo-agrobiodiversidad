@@ -1,7 +1,8 @@
-Wed Jan 4 13:12:01 CST 2023
+Wed Jan 4 13:18:01 CST 2023
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
+./compareZacatuche.sh: 11: ./compareZacatuche.sh: source: not found
 
 
 Error: No such container: psql
