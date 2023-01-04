@@ -1,4 +1,4 @@
-Wed Jan 4 14:06:01 CST 2023
+Wed Jan 4 14:28:01 CST 2023
 Empieza validación de actualizaciones diarias\n
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
@@ -8,44 +8,21 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 Changes not staged for commit:
-	modified:   actualizaciones_agro.sh
-	modified:   check_pendiente.txt
-	modified:   check_pendiente_mensual.txt
-	modified:   check_sinonimos.txt
-	modified:   compare.py
-	modified:   compareZacatuche.sh
-	modified:   logEstatus.txt
 	modified:   logfile.txt
 
 Untracked files:
-	../NuevoLeon.csv
-	../Zacatuche.sh
 	../__pycache__/
-	../actualizaciones_agro.sh
 	../agro_actual.csv
 	../agro_anterior.csv
-	../checkOcurrence.py
+	../checkZacatuche/
 	../check_pendiente.csv
-	../check_pendiente.py
 	../check_pendiente.sh
-	../check_pendiente_mensual.py
 	../check_pendiente_mensual.sh
-	../check_sinonimos.py
 	../check_sinonimos.sh
 	../comparaZacatuche.csv
-	../compare.py
-	../compareZacatuche.sh
-	../consultaOswa.py
-	../correo_adjunto.py
 	../data/
-	../ejemplares.py
-	../estatus.py
-	../functions.py
-	../maices.csv
-	../maices.py
-	../maices_instancia.csv
-	../pruebas.sh
 	__pycache__/
+	correo_adjunto.py
 	paths.py
 	vars.sh
 
@@ -53,10 +30,3 @@ no changes added to commit
 git push
 Everything up-to-date
 Proceso terminado!
-git commit
-[main 289cea0] validacion diaria de registros
- 1 file changed, 55 insertions(+), 51 deletions(-)
- rewrite scripts/logfile.txt (69%)
-git push
-To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   a84fd64..289cea0  main -> main
