@@ -1,4 +1,4 @@
-Wed Jan 4 13:18:01 CST 2023
+Wed Jan 4 13:22:01 CST 2023
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
