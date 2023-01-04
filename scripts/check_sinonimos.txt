@@ -242,3 +242,7 @@ compara etiquetas
 El sinonimo  7914ANGIO  ya no tiene etiquetas
 
 
+[main 60dedb1] check sinonimos diario
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   9571e0c..60dedb1  main -> main

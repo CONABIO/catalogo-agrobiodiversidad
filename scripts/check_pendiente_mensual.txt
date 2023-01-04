@@ -2,3 +2,7 @@ Mon Dec 26 21:00:01 CST 2022
 Empieza check_pendiente archivos...
 Successful login
 Correo enviado
+[main 671e32e] check pendiente mensual
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   fcc9441..671e32e  main -> main

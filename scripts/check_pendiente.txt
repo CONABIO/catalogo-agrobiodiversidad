@@ -1,3 +1,7 @@
 Tue Jan 3 20:40:01 CST 2023
 Empieza check_pendiente archivos...
 Successful login
+[main 9571e0c] check pendiente diario
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To github.com:CONABIO/catalogo-agrobiodiversidad.git
+   c129ea3..9571e0c  main -> main

@@ -59,8 +59,6 @@ def save_edited_to_changelog(idx_edited, path):
                          'taxon_valido',
                          'referencia',
                          'categoria_agrobiodiversidad',
-                         'subcategoria_agrobiodiversidad',
-                         'justificacion_subcategoria',
                          'comentarios_revision']
 
     cambios = pd.DataFrame(columns=changelog_cols)

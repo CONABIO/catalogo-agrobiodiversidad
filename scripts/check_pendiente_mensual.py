@@ -79,10 +79,11 @@ def get_pendientes():
     if len(aux) != 0:
 
         #sendeMail(aux)   
+        #print(aux)
         pdData = pd.DataFrame(aux,columns=["ID pendiente", "Taxon pendiente", "ID coincidencia", "Taxon coincidencia", "Comentarios"])
-        #print(aux[0])
         pdData.to_csv('check_pendiente.csv',index=False) 
         mailAdjunto()
+        print("Correo enviado")
 
 
 def is_equal(info,json_data):
@@ -104,7 +105,8 @@ def mailAdjunto():
     # Iniciamos los parámetros del script
     remitente = 'siagro@siagro.conabio.gob.mx'
     #["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
-    destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+    destinatarios = ["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
+    #destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
     asunto = 'Revisar taxones con id pendiente'
     cuerpo = """La lista adjunta de taxones pendientes tiene similitudes con los taxones indicados, favor de revisar los campos categoria_agrobiodiversidad, es_parientesilvestre, es_domesticado y es_quelite.
 
@@ -200,8 +202,8 @@ def search_taxon(info,actual,anterior):
 
             else:
                 
-                formail=info['id'] + "," + info['taxon'] + ","+ json_data[i]['id'] + ","+ json_data[i]['taxon'] + ","+ info['comentarios_revision']
-                formail=formail.split(',')
+                formail=info['id'] + "|" + info['taxon'] + "|"+ json_data[i]['id'] + "|"+ json_data[i]['taxon'] + "|"+ info['comentarios_revision']
+                formail=formail.split('|')
                 #print(formail)
                 arrFormail.append(formail) 
 
