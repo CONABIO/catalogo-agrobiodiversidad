@@ -1,12 +1,6 @@
-Wed Jan 4 13:25:01 CST 2023
+Wed Jan 4 13:27:01 CST 2023
 Empieza comparación con Zacatuche\n
 Descargando csv de la instancia...
-desde vars
-listado-postgres
-zendro_development
-termina vars
-listado-postgres
-zendro_development
 Successful login
 Leyendo archivos...
 Comparando archivos...
