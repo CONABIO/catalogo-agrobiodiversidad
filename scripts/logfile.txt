@@ -1,32 +1,5 @@
-Wed Jan 4 14:28:01 CST 2023
+Wed Jan 4 14:34:01 CST 2023
 Empieza validación de actualizaciones diarias\n
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
 git add history.md changelog.md
-git commit
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Changes not staged for commit:
-	modified:   logfile.txt
-
-Untracked files:
-	../__pycache__/
-	../agro_actual.csv
-	../agro_anterior.csv
-	../checkZacatuche/
-	../check_pendiente.csv
-	../check_pendiente.sh
-	../check_pendiente_mensual.sh
-	../check_sinonimos.sh
-	../comparaZacatuche.csv
-	../data/
-	__pycache__/
-	correo_adjunto.py
-	paths.py
-	vars.sh
-
-no changes added to commit
-git push
-Everything up-to-date
-Proceso terminado!
