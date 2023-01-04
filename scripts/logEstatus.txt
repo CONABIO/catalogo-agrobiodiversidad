@@ -1,8 +1,22 @@
-Tue Jan 3 20:15:01 CST 2023
+Wed Jan 4 12:56:01 CST 2023
 Empieza comparación con Zacatuche
 
 Descargando csv de la instancia...
+Error: No such container: psql
 Successful login
 Leyendo archivos...
-Comparando archivos...
-Termina comparación
+Traceback (most recent call last):
+  File "estatus.py", line 326, in <module>
+    agrobd_list = pd.read_csv(path_agrobd_list, keep_default_na=False)    
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 454, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 948, in __init__
+    self._make_engine(self.engine)
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 1180, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 2010, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 540, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file
