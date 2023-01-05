@@ -1,11 +1,7 @@
-Wed Jan 4 13:27:01 CST 2023
+Wed Jan 4 20:15:01 CST 2023
 Empieza comparación con Zacatuche\n
 Descargando csv de la instancia...
 Successful login
 Leyendo archivos...
 Comparando archivos...
 Termina comparación
-[main a84fd64] comparación diaria de registros
- 1 file changed, 1 insertion(+), 7 deletions(-)
-To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   7564443..a84fd64  main -> main
