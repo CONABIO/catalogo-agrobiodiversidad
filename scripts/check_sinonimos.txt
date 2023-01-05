@@ -1,4 +1,4 @@
-Wed Jan 4 23:02:41 CST 2023
+Wed Jan 4 23:04:17 CST 2023
 Empieza check_pendiente archivos...
 Successful login
 compara etiquetas
@@ -242,9 +242,3 @@ compara etiquetas
 El sinonimo  7914ANGIO  ya no tiene etiquetas
 
 
-Traceback (most recent call last):
-  File "scripts/correo_adjunto.py", line 52, in <module>
-    mailAdjunto()
-  File "scripts/correo_adjunto.py", line 31, in mailAdjunto
-    archivo_adjunto = open(ruta_adjunto, 'rb')
-FileNotFoundError: [Errno 2] No such file or directory: 'check_sinonimos.txt'
