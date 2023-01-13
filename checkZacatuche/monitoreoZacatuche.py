@@ -7,12 +7,11 @@ import smtplib
 import os
 from paths import *
 
-def sendeMail(string):
+def sendeMail(string,destinatario):
     '''
     Envía un correo a las direcciones en "destinatario". 
     '''
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
-    destinatario = ["Vivian <vbass@conabio.gob.mx>"]
     asunto = "Monitoreo Zacatuche" 
     mensaje = string+"""
     
@@ -72,10 +71,9 @@ response_json_len=len(json_data['data']['searchOccurrence']['edges'])
 
 if code==200 and response_json_len>0:
     string="Todo esta bien, se encontraron "+str(response_json_len)+" registros en la consulta." 
-    sendeMail(string)
+    destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+    sendeMail(string,destinatarios)
 else:
     string="ALGO ESTA MAL, REVISA YA. SE ENCONTRARON "+str(response_json_len)+" REGISTROS EN LA CONSULTA Y EL ESTATUS CODE ES "+str(code)+". LA CONSULTA QUE SE REALIZO ES "+str(query)
-    sendeMail(string)
-
-
-
+    destinatarios = ["Vivian <vbass@conabio.gob.mx>","Juan <jbarrios@conabio.gob.mx>"]
+    sendeMail(string,destinatarios)
