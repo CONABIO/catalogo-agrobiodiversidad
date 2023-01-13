@@ -74,6 +74,6 @@ if code==200 and response_json_len>0:
     destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
     sendeMail(string,destinatarios)
 else:
-    string="ALGO ESTA MAL, REVISA YA. SE ENCONTRARON "+str(response_json_len)+" REGISTROS EN LA CONSULTA Y EL ESTATUS CODE ES "+str(code)+". LA CONSULTA QUE SE REALIZO ES "+str(query)
+    string="ALGO ESTA MAL, REVISA. SE ENCONTRARON "+str(response_json_len)+" REGISTROS EN LA CONSULTA Y EL ESTATUS CODE ES "+str(code)+". LA CONSULTA QUE SE REALIZO ES "+str(query)
     destinatarios = ["Vivian <vbass@conabio.gob.mx>","Juan <jbarrios@conabio.gob.mx>"]
     sendeMail(string,destinatarios)
