@@ -1,4 +1,4 @@
-Wed Jan 25 20:50:01 CST 2023
+Thu Jan 26 20:50:01 CST 2023
 Empieza check_pendiente archivos...
 Successful login
 compara etiquetas
@@ -27,9 +27,6 @@ El sinonimo  20721ANGIO  ya no tiene etiquetas
 
 compara etiquetas
 El sinonimo  20734ANGIO  ya no tiene etiquetas
-
-
-El id  238710ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -61,6 +58,10 @@ El sinonimo  27912ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  28606ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  30872ANGIO  ya no tiene etiquetas
 
 
@@ -70,6 +71,14 @@ El sinonimo  31671ANGIO  ya no tiene etiquetas
 
 compara etiquetas
 El sinonimo  32091ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  33735ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  33745ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
@@ -97,6 +106,10 @@ El sinonimo  44557ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  49719ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  49720ANGIO  ya no tiene etiquetas
 
 
@@ -109,6 +122,18 @@ El sinonimo  49744ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  50593ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  50815ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  50899ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  51486ANGIO  ya no tiene etiquetas
 
 
@@ -116,14 +141,12 @@ compara etiquetas
 El sinonimo  51971ANGIO  ya no tiene etiquetas
 
 
-El id  53093ANGIO  tiene un id_valido None
+compara etiquetas
+El sinonimo  52198ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
 El sinonimo  53762COLEO  ya no tiene etiquetas
-
-
-El id  54795ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -159,6 +182,26 @@ El sinonimo  66451ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  71687ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71708ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71717ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71780ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71852ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  72475ANGIO  ya no tiene etiquetas
 
 
@@ -172,6 +215,10 @@ El sinonimo  74382ANGIO  ya no tiene etiquetas
 
 compara etiquetas
 El sinonimo  74389ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74760ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
@@ -227,6 +274,22 @@ El sinonimo  74923ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  75079ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  75080ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  75081ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  75111ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  75732ANGIO  ya no tiene etiquetas
 
 
@@ -239,6 +302,14 @@ El sinonimo  78072ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  7908ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  7914ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  80094ANGIO  ya no tiene etiquetas
 
 
