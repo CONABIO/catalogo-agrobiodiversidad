@@ -5056,3 +5056,102 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2022-12-15,51971ANGIO,Registro editado,taxon_valido,Phaseolus grayanus,Phaseolus scabrellus,listado-admin
 2022-12-15,53093ANGIO,Registro editado,id_valido,51470ANGIO,,listado-admin
 2022-12-15,53093ANGIO,Registro editado,taxon_valido,Phaseolus maculatus,,listado-admin
+2023-01-26,252899ANGIO,Registro nuevo,,,,listado-admin
+2023-01-26,252539ANGIO,Registro nuevo,,,,listado-admin
+2023-01-26,279921ANGIO,Registro nuevo,,,,listado-admin
+2023-01-26,279983ANGIO,Registro nuevo,,,,listado-admin
+2023-01-26,52476ANGIO,Registro nuevo,,,,listado-admin
+2023-01-26,71780ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,71780ANGIO,Registro editado,id_valido,71780ANGIO,51306ANGIO,listado-admin
+2023-01-26,71780ANGIO,Registro editado,taxon_valido,Phaseolus leptostachyus var. nanus,Phaseolus leptostachyus,listado-admin
+2023-01-26,71780ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,50593ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,50593ANGIO,Registro editado,id_valido,50593ANGIO,53244ANGIO,listado-admin
+2023-01-26,50593ANGIO,Registro editado,taxon_valido,Phaseolus esquincensis,Phaseolus xanthotrichus,listado-admin
+2023-01-26,50593ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,74760ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,74760ANGIO,Registro editado,id_valido,74760ANGIO,252899ANGIO,listado-admin
+2023-01-26,74760ANGIO,Registro editado,taxon_valido,Hyptis emoryi,Condea emoryi,listado-admin
+2023-01-26,74760ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,52198ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,52198ANGIO,Registro editado,id_valido,52198ANGIO,52582ANGIO,listado-admin
+2023-01-26,52198ANGIO,Registro editado,taxon_valido,Phaseolus polymorphus,Phaseolus scabrellus,listado-admin
+2023-01-26,52198ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,49719ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,49719ANGIO,Registro editado,id_valido,49719ANGIO,52749ANGIO,listado-admin
+2023-01-26,49719ANGIO,Registro editado,taxon_valido,Phaseolus albinervus,Phaseolus sonorensis,listado-admin
+2023-01-26,49719ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,71717ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,71717ANGIO,Registro editado,id_valido,71717ANGIO,51306ANGIO,listado-admin
+2023-01-26,71717ANGIO,Registro editado,taxon_valido,Phaseolus leptostachyus var. leptostachyus,Phaseolus leptostachyus,listado-admin
+2023-01-26,71717ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,75081ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,75081ANGIO,Registro editado,id_valido,75081ANGIO,252899ANGIO,listado-admin
+2023-01-26,75081ANGIO,Registro editado,taxon_valido,Hyptis emoryi var. palmeri,Condea emoryi,listado-admin
+2023-01-26,75081ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,71687ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,71687ANGIO,Registro editado,id_valido,71687ANGIO,51306ANGIO,listado-admin
+2023-01-26,71687ANGIO,Registro editado,taxon_valido,Phaseolus leptostachyus var. intonsus,Phaseolus leptostachyus,listado-admin
+2023-01-26,71687ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,75111ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,75111ANGIO,Registro editado,id_valido,75111ANGIO,279983ANGIO,listado-admin
+2023-01-26,75111ANGIO,Registro editado,taxon_valido,Hylocereus trigonus,Selenicereus trigonus,listado-admin
+2023-01-26,75111ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,238710ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,listado-admin
+2023-01-26,238710ANGIO,Registro editado,id_valido,,238710ANGIO,listado-admin
+2023-01-26,238710ANGIO,Registro editado,taxon_valido,,Condea americana,listado-admin
+2023-01-26,238710ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,listado-admin
+2023-01-26,238710ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,listado-admin
+2023-01-26,54795ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,listado-admin
+2023-01-26,54795ANGIO,Registro editado,id_valido,,54795ANGIO,listado-admin
+2023-01-26,54795ANGIO,Registro editado,taxon_valido,,Solanum bicolor,listado-admin
+2023-01-26,54795ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,listado-admin
+2023-01-26,28606ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,28606ANGIO,Registro editado,id_valido,28606ANGIO,279921ANGIO,listado-admin
+2023-01-26,28606ANGIO,Registro editado,taxon_valido,Hyptis verticillata,Condea verticillata,listado-admin
+2023-01-26,28606ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,50815ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,50815ANGIO,Registro editado,id_valido,50815ANGIO,53260ANGIO,listado-admin
+2023-01-26,50815ANGIO,Registro editado,taxon_valido,Phaseolus gladiolatus,Phaseolus zimapanensis,listado-admin
+2023-01-26,50815ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,50154ANGIO,Registro editado,taxon,Phaseolus carteri,Phaseolus carterae,listado-admin
+2023-01-26,7908ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,7908ANGIO,Registro editado,id_valido,7908ANGIO,9127ANGIO,listado-admin
+2023-01-26,7908ANGIO,Registro editado,taxon_valido,Nopalea nuda,Opuntia cochenillifera,listado-admin
+2023-01-26,7908ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,75079ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,75079ANGIO,Registro editado,id_valido,75079ANGIO,252899ANGIO,listado-admin
+2023-01-26,75079ANGIO,Registro editado,taxon_valido,Hyptis emoryi var. amplifolia,Condea emoryi,listado-admin
+2023-01-26,75079ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,33735ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,33735ANGIO,Registro editado,id_valido,33735ANGIO,238710ANGIO,listado-admin
+2023-01-26,33735ANGIO,Registro editado,taxon_valido,Hyptis americana,Condea americana,listado-admin
+2023-01-26,33735ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,53093ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,listado-admin
+2023-01-26,53093ANGIO,Registro editado,id_valido,,53093ANGIO,listado-admin
+2023-01-26,53093ANGIO,Registro editado,taxon_valido,,Phaseolus venosus,listado-admin
+2023-01-26,53093ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,listado-admin
+2023-01-26,33745ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,33745ANGIO,Registro editado,id_valido,33745ANGIO,252539ANGIO,listado-admin
+2023-01-26,33745ANGIO,Registro editado,taxon_valido,Hyptis albida,Condea albida,listado-admin
+2023-01-26,33745ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,71708ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,71708ANGIO,Registro editado,id_valido,71708ANGIO,71484ANGIO,listado-admin
+2023-01-26,71708ANGIO,Registro editado,taxon_valido,Phaseolus acutifolius var. latifolius,Phaseolus acutifolius var. acutifolius,listado-admin
+2023-01-26,71708ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,75080ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,75080ANGIO,Registro editado,id_valido,75080ANGIO,252899ANGIO,listado-admin
+2023-01-26,75080ANGIO,Registro editado,taxon_valido,Hyptis emoryi var. emoryi,Condea emoryi,listado-admin
+2023-01-26,75080ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,80094ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,80094ANGIO,Registro editado,id_valido,80094ANGIO,52476ANGIO,listado-admin
+2023-01-26,80094ANGIO,Registro editado,taxon_valido,Phaseolus maculatus subsp. ritensis,Phaseolus ritensis,listado-admin
+2023-01-26,80094ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,50899ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,50899ANGIO,Registro editado,id_valido,50899ANGIO,52582ANGIO,listado-admin
+2023-01-26,50899ANGIO,Registro editado,taxon_valido,Phaseolus grayanus,Phaseolus scabrellus,listado-admin
+2023-01-26,50899ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-01-26,71852ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,listado-admin
+2023-01-26,71852ANGIO,Registro editado,id_valido,71852ANGIO,51306ANGIO,listado-admin
+2023-01-26,71852ANGIO,Registro editado,taxon_valido,Phaseolus leptostachyus var. pinnatifolius,Phaseolus leptostachyus,listado-admin
+2023-01-26,71852ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
