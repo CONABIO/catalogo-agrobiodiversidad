@@ -1,3 +1,15 @@
-Sat Feb 18 20:40:01 CST 2023
+Sun Feb 19 20:40:01 CST 2023
 Empieza check_pendiente archivos...
 Successful login
+Traceback (most recent call last):
+  File "scripts/check_pendiente.py", line 166, in <module>
+    get_pendientes()
+  File "scripts/check_pendiente.py", line 60, in get_pendientes
+    json_data = json.loads(r.text)
+  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
