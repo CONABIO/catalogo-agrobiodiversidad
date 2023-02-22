@@ -1,15 +1,20 @@
-Mon Feb 20 20:40:01 CST 2023
+Tue Feb 21 20:40:01 CST 2023
 Empieza check_pendiente archivos...
 Successful login
 Traceback (most recent call last):
   File "scripts/check_pendiente.py", line 166, in <module>
     get_pendientes()
-  File "scripts/check_pendiente.py", line 60, in get_pendientes
-    json_data = json.loads(r.text)
-  File "/usr/lib/python3.6/json/__init__.py", line 354, in loads
-    return _default_decoder.decode(s)
-  File "/usr/lib/python3.6/json/decoder.py", line 339, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-  File "/usr/lib/python3.6/json/decoder.py", line 357, in raw_decode
-    raise JSONDecodeError("Expecting value", s, err.value) from None
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  File "scripts/check_pendiente.py", line 62, in get_pendientes
+    actual=pd.read_csv(path_actual, keep_default_na=False)   
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 688, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 454, in _read
+    parser = TextFileReader(fp_or_buf, **kwds)
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 948, in __init__
+    self._make_engine(self.engine)
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 1180, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 2010, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 540, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file
