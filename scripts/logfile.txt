@@ -1,11 +1,10 @@
-Tue Feb 28 20:30:01 CST 2023
+Wed Mar 1 00:35:18 CST 2023
 Empieza validación de actualizaciones diarias\n
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
-Error: No such container: listado-postgres
 Traceback (most recent call last):
-  File "compare.py", line 168, in <module>
-    actual = pd.read_csv(path_actual, index_col='id', keep_default_na=False)
+  File "compare.py", line 169, in <module>
+    anterior = pd.read_csv(path_anterior, index_col='id', keep_default_na=False)
   File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 688, in read_csv
     return _read(filepath_or_buffer, kwds)
   File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 454, in _read
