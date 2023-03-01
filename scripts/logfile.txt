@@ -1,22 +1,7 @@
-Wed Mar 1 00:35:18 CST 2023
+Wed Mar 1 00:38:30 CST 2023
 Empieza validación de actualizaciones diarias\n
 Cambiando nombre de archivos...
 Descargando archivo nuevo...
-Traceback (most recent call last):
-  File "compare.py", line 169, in <module>
-    anterior = pd.read_csv(path_anterior, index_col='id', keep_default_na=False)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 688, in read_csv
-    return _read(filepath_or_buffer, kwds)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 454, in _read
-    parser = TextFileReader(fp_or_buf, **kwds)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 948, in __init__
-    self._make_engine(self.engine)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 1180, in _make_engine
-    self._engine = CParserWrapper(self.f, **self.options)
-  File "/home/vbass/.local/lib/python3.6/site-packages/pandas/io/parsers.py", line 2010, in __init__
-    self._reader = parsers.TextReader(src, **kwds)
-  File "pandas/_libs/parsers.pyx", line 540, in pandas._libs.parsers.TextReader.__cinit__
-pandas.errors.EmptyDataError: No columns to parse from file
 git add history.md changelog.md
 git commit
 git push
