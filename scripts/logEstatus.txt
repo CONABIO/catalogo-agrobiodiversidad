@@ -1,4 +1,4 @@
-Mon Feb 27 20:15:01 CST 2023
+Tue Feb 28 20:15:01 CST 2023
 Empieza comparación con Zacatuche\n
 Descargando csv de la instancia...
 Error: No such container: listado-postgres
