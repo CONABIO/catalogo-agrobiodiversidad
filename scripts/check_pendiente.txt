@@ -1,3 +1,8 @@
-Wed Mar 22 20:40:01 CST 2023
+Thu Mar 23 20:40:01 CST 2023
 Empieza check_pendiente archivos...
-Successful login
+Traceback (most recent call last):
+  File "scripts/check_pendiente.py", line 166, in <module>
+    get_pendientes()
+  File "scripts/check_pendiente.py", line 59, in get_pendientes
+    r = session.post(path_siagro, json={'query': query}, verify=False)
+AttributeError: 'NoneType' object has no attribute 'post'
