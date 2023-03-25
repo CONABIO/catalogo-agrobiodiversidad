@@ -1,13 +1,7 @@
-Fri Mar 24 20:15:01 CST 2023
+Sat Mar 25 13:03:30 CST 2023
 Empieza comparación con Zacatuche\n
 Descargando csv de la instancia...
+Successful login
 Leyendo archivos...
 Comparando archivos...
-Traceback (most recent call last):
-  File "estatus.py", line 328, in <module>
-    sync_agrobd_to_catalog(agrobd_list)
-  File "estatus.py", line 297, in sync_agrobd_to_catalog
-    catalog = getInfoTaxon(agrobd['id'])
-  File "estatus.py", line 74, in getInfoTaxon
-    r = session.post(path_zacatuche, json={'query': query}, verify=False)
-NameError: name 'session' is not defined
+Termina comparación
