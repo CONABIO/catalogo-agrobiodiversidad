@@ -1,8 +1,315 @@
-Fri Mar 24 20:50:01 CST 2023
+Sat Mar 25 13:06:15 CST 2023
 Empieza check_pendiente archivos...
-Traceback (most recent call last):
-  File "scripts/check_sinonimos.py", line 234, in <module>
-    get_sinonimos()
-  File "scripts/check_sinonimos.py", line 189, in get_sinonimos
-    r = session.post(path_siagro, json={'query': query}, verify=False)
-AttributeError: 'NoneType' object has no attribute 'post'
+Successful login
+compara etiquetas
+El sinonimo  14028ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  17826ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  19790ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  20682ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  20691ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  20721ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  20734ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  245511ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  245513ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  254214ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  26460ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  26869ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  27356ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  27912ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  28606ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  30872ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  31671ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  32091ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  33735ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  33745ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  34601ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  35038ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  35117ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  35173ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  35876ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  44557ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  49719ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  49720ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  49734ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  49744ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  50593ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  50815ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  50899ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  51486ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  51971ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  52198ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  53762COLEO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  55305ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  55861ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  57333ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  57717ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  61770ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  64813ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  64927ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  66451ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71687ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71708ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71717ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71780ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  71852ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  72475ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  72716ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74382ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74389ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74760ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74765ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74790ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74795ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74822ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74827ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74849ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74874ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74887ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74889ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74900ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74907ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74919ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  74923ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  75079ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  75080ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  75081ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  75111ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  75732ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  76752ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  78072ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  7908ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  7914ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  80094ANGIO  ya no tiene etiquetas
+
+
