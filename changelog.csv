@@ -5155,3 +5155,5 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2023-01-26,71852ANGIO,Registro editado,id_valido,71852ANGIO,51306ANGIO,listado-admin
 2023-01-26,71852ANGIO,Registro editado,taxon_valido,Phaseolus leptostachyus var. pinnatifolius,Phaseolus leptostachyus,listado-admin
 2023-01-26,71852ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2023-05-02,19790ANGIO,Registro editado,id_valido,278543ANGIO,,Bot validación
+2023-05-02,19790ANGIO,Registro editado,taxon_valido,Alocasia macrorrhizos,,Bot validación
