@@ -1,4 +1,4 @@
-Mon May 1 20:50:01 CST 2023
+Tue May 2 20:50:01 CST 2023
 Empieza check_pendiente archivos...
 Successful login
 compara etiquetas
@@ -9,8 +9,7 @@ compara etiquetas
 El sinonimo  17826ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  19790ANGIO  ya no tiene etiquetas
+El id  19790ANGIO  tiene un id_valido None
 
 
 compara etiquetas
