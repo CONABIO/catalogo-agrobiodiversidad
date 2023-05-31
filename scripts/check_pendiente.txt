@@ -1,8 +1,3 @@
-Mon May 29 20:40:01 CST 2023
+Tue May 30 20:40:01 CST 2023
 Empieza check_pendiente archivos...
 Successful login
-[main 7e88a89] check pendiente diario
- 1 file changed, 1 insertion(+), 1 deletion(-)
-remote: Resolving deltas:   0% (0/2)        remote: Resolving deltas:  50% (1/2)        remote: Resolving deltas: 100% (2/2)        remote: Resolving deltas: 100% (2/2), completed with 2 local objects.        
-To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   e0b9cec..7e88a89  main -> main
