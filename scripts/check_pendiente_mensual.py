@@ -148,6 +148,28 @@ Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no r
     smtp = smtplib.SMTP('localhost') 
     smtp.sendmail(remitente, destinatarios, mensaje.as_string()) 
 
+def sendWarning(string, destinatario):
+    """
+    Envía un correo a las direcciones en "destinatario".
+    """
+    remitente = "SIAgro <siagro@siagro.conabio.gob.mx>"
+    asunto = "ERROR EN REVISION DE PENDIENTES MENSUAL"
+    mensaje = ( """El archivo de """+string+""" que revisa los IDs pendientes mensual no se actualizo. Favor de verificar.
+    
+------------------------------------
+Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
+    )
+    email = "Subject: {}\n\n{}".format(asunto, mensaje)
+    try:
+        smtp = smtplib.SMTP("localhost")
+        smtp.sendmail(remitente, destinatario, email.encode("utf8"))
+        print("Correo enviado")
+    except:
+        print(
+            """Error: el mensaje no pudo enviarse. 
+        Compruebe que el mensaje no tenga acentos"""
+        )
+
 
 def is_new(id,actual,anterior):
     if (actual['id'].isin([id]).any()) and (anterior['id'].isin([id]).any() == False):
@@ -210,9 +232,13 @@ def search_taxon(info,actual,anterior):
     return arrFormail            
 
 if __name__ == '__main__':
-    print("Empieza check_pendiente archivos...")
-    session=loginListado()
-    get_pendientes()
-
+    try:
+        print("Empieza check_pendiente archivos...")
+        session=loginListado()
+        get_pendientes()
+    except:
+        print("Error al ejecutar script que revisa los IDs pendientes mensual")
+        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        sendWarning("check_pendiente_mensual.py de check_pendiente_mensual", destinatarios)
 
     

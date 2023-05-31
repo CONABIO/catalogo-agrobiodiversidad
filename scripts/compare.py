@@ -15,7 +15,9 @@ contiene las columnas de la lista `changelog_cols`.
 
 from datetime import datetime
 import pandas as pd
-
+import smtplib 
+import warnings
+warnings.filterwarnings('ignore')
 from paths import *
 
 def save_new_or_deleted_to_changelog(idx, tipo_cambio, path):
@@ -155,44 +157,71 @@ def print_to_history(idx_cambios, tipo_cambio, path):
         for idx in idx_cambios:
             output.write(history_templates(idx, tipo_cambio))
 
+def sendeMail(string, destinatario):
+    """
+    Envía un correo a las direcciones en "destinatario".
+    """
+    remitente = "SIAgro <siagro@siagro.conabio.gob.mx>"
+    asunto = "ERROR EN ACTUALIZACION DE LISTADO AGROBD"
+    mensaje = ( """El archivo de """+string+""" que actualiza el listado de agrobiodiversidad no se ejecuto correctamente. Favor de verificar.
+    
+------------------------------------
+Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
+    )
+    email = "Subject: {}\n\n{}".format(asunto, mensaje)
+    try:
+        smtp = smtplib.SMTP("localhost")
+        smtp.sendmail(remitente, destinatario, email.encode("utf8"))
+        print("Correo enviado")
+    except:
+        print(
+            """Error: el mensaje no pudo enviarse. 
+        Compruebe que el mensaje no tenga acentos"""
+        )
 
 if __name__ == '__main__':
-    changelog_cols = ['Fecha',
-                      'ID',
-                      'Tipo cambio',
-                      'Campo',
-                      'Valor anterior',
-                      'Valor actual',
-                      'Usuario']
-        
-    actual = pd.read_csv(path_actual, index_col='id', keep_default_na=False)
-    anterior = pd.read_csv(path_anterior, index_col='id', keep_default_na=False)
+    try:
+        changelog_cols = ['Fecha',
+                        'ID',
+                        'Tipo cambio',
+                        'Campo',
+                        'Valor anterior',
+                        'Valor actual',
+                        'Usuario']
+            
+        actual = pd.read_csv(path_actual, index_col='id', keep_default_na=False)
+        anterior = pd.read_csv(path_anterior, index_col='id', keep_default_na=False)
 
-    # los registros nuevos corresponden a los ids
-    # que se encuentran en `actual` pero no en `anterior`
-    idx_new_records = list(set(actual.index) - set(anterior.index))
+        # los registros nuevos corresponden a los ids
+        # que se encuentran en `actual` pero no en `anterior`
+        idx_new_records = list(set(actual.index) - set(anterior.index))
 
-    # los registros borrados corresponden a los ids
-    # que se encuentran en `anterior` pero no en `actual`
-    idx_deleted_records = list(set(anterior.index) - set(actual.index))
+        # los registros borrados corresponden a los ids
+        # que se encuentran en `anterior` pero no en `actual`
+        idx_deleted_records = list(set(anterior.index) - set(actual.index))
 
-    # los registros editados corresponden a los ids que existen 
-    # tanto en `anterior` como en `actual`,
-    # y donde cambió el valor `updatedAt` --- ¿Qué estamos asumiendo aquí?
-    # ¿Podemos asumir que todos los registros tienen un valor en `updatedAt`? 
-    idx_intersect = set(actual.index) & set(anterior.index)
+        # los registros editados corresponden a los ids que existen 
+        # tanto en `anterior` como en `actual`,
+        # y donde cambió el valor `updatedAt` --- ¿Qué estamos asumiendo aquí?
+        # ¿Podemos asumir que todos los registros tienen un valor en `updatedAt`? 
+        idx_intersect = set(actual.index) & set(anterior.index)
 
-    # Esta comparación regresa True en registros donde `updatedAt` == nan, aunque no se hayan editado
-    # Por eso los csv se leen con la opción keep_default_na=False
-    edited = actual.loc[idx_intersect, 'updatedAt'] != anterior.loc[idx_intersect, 'updatedAt']
-    idx_edited_records = (actual.loc[idx_intersect]
-                                .loc[edited]
-                                .index)
+        # Esta comparación regresa True en registros donde `updatedAt` == nan, aunque no se hayan editado
+        # Por eso los csv se leen con la opción keep_default_na=False
+        edited = actual.loc[idx_intersect, 'updatedAt'] != anterior.loc[idx_intersect, 'updatedAt']
+        idx_edited_records = (actual.loc[idx_intersect]
+                                    .loc[edited]
+                                    .index)
 
-    save_new_or_deleted_to_changelog(idx_new_records, 'new', path_changelog)
-    save_new_or_deleted_to_changelog(idx_deleted_records, 'del', path_changelog)
-    save_edited_to_changelog(idx_edited_records, path_changelog)
+        save_new_or_deleted_to_changelog(idx_new_records, 'new', path_changelog)
+        save_new_or_deleted_to_changelog(idx_deleted_records, 'del', path_changelog)
+        save_edited_to_changelog(idx_edited_records, path_changelog)
 
-    print_to_history(idx_new_records, 'new', path_history)
-    print_to_history(idx_deleted_records, 'del', path_history)
-    print_to_history(idx_edited_records, 'edit', path_history)
+        print_to_history(idx_new_records, 'new', path_history)
+        print_to_history(idx_deleted_records, 'del', path_history)
+        print_to_history(idx_edited_records, 'edit', path_history)
+
+    except:
+        print("Error al actualizar el listado de agrobiodiversidad")
+        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        sendeMail("compare.py de actualizaciones_agro", destinatarios)

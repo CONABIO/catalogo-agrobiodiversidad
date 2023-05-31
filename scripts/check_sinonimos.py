@@ -227,11 +227,36 @@ def get_sinonimos():
                 print("El id ",json_data[i]['id']," tiene un id_valido None")
         print("\n")
     
+def sendWarning(string, destinatario):
+    """
+    Envía un correo a las direcciones en "destinatario".
+    """
+    remitente = "SIAgro <siagro@siagro.conabio.gob.mx>"
+    asunto = "ERROR EN REVISION DE SINONIMOS LISTADO"
+    mensaje = ( """El archivo de """+string+""" que revisa los sinonimos del listado no se ejecuto. Favor de verificar.
+    
+------------------------------------
+Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
+    )
+    email = "Subject: {}\n\n{}".format(asunto, mensaje)
+    try:
+        smtp = smtplib.SMTP("localhost")
+        smtp.sendmail(remitente, destinatario, email.encode("utf8"))
+        print("Correo enviado")
+    except:
+        print(
+            """Error: el mensaje no pudo enviarse. 
+        Compruebe que el mensaje no tenga acentos"""
+        )
+
 
 if __name__ == '__main__':
-    print("Empieza check_pendiente archivos...")
-    session=loginListado()
-    get_sinonimos()
-
-
+    try:
+        print("Empieza check_pendiente archivos...")
+        session=loginListado()
+        get_sinonimos()
+    except:
+        print("Error al ejecutar script que revisa los sinonimos del listado")
+        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        sendWarning("check_sinonimos.py de check_sinonimos", destinatarios)
     

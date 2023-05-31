@@ -47,6 +47,9 @@ if login.status_code == 200:
     
     print("Successful login")
 
+else:
+    print("not successful")
+
 def getInfoTaxon(record_id):
     '''
     Hace una consulta a zacatuche para obtener la información que se necesita de un id.
@@ -232,6 +235,28 @@ Este correo ha sido enviado automáticamente. Favor de no responder.´"""
         Compruebe que el mensaje no tenga acentos""")
 
 
+def sendWarning(string, destinatario):
+    """
+    Envía un correo a las direcciones en "destinatario".
+    """
+    remitente = "SIAgro <siagro@siagro.conabio.gob.mx>"
+    asunto = "ERROR EN COMPARACION LISTADO - ZACATUCHE"
+    mensaje = ( """El archivo de """+string+""" que compara lo del listado contra lo que existe en Zacatuche no se actualizo. Favor de verificar.
+    
+------------------------------------
+Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
+    )
+    email = "Subject: {}\n\n{}".format(asunto, mensaje)
+    try:
+        smtp = smtplib.SMTP("localhost")
+        smtp.sendmail(remitente, destinatario, email.encode("utf8"))
+        print("Correo enviado")
+    except:
+        print(
+            """Error: el mensaje no pudo enviarse. 
+        Compruebe que el mensaje no tenga acentos"""
+        )
+
 def sync_status_and_agrobd_label(agrobd, catalog):
     '''
     Esta función actualiza los campos de estatus, id_valido, taxon_valido y
@@ -322,8 +347,14 @@ def sync_agrobd_to_catalog(agrobd_list):
 
 
 if __name__ == '__main__':
-    print("Leyendo archivos...")
-    agrobd_list = pd.read_csv(path_agrobd_list, keep_default_na=False)    
-    print("Comparando archivos...")
-    sync_agrobd_to_catalog(agrobd_list)
-    print("Termina comparación")
+    try:
+        print("Leyendo archivos...")
+        agrobd_list = pd.read_csv(path_agrobd_list, keep_default_na=False)    
+        print("Comparando archivos...")
+        sync_agrobd_to_catalog(agrobd_list)
+        print("Termina comparación")
+
+    except:
+        print("Error al ejecutar script que compara el listado contra Zacatuche")
+        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        sendWarning("estatus.py de compareZacatuche", destinatarios)

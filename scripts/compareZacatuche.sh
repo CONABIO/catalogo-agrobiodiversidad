@@ -8,7 +8,7 @@ echo "Empieza comparación con Zacatuche\n"
 
 echo "Descargando csv de la instancia..." 
 source vars.sh
-docker exec $listadobd psql -U postgres -d $db -c "COPY agrobiodiversidads TO STDOUT WITH CSV HEADER" > ../comparaZacatuche.csv
+docker exec $listadobd psql -U instancia_listado -d $db -c "COPY agrobiodiversidads TO STDOUT WITH CSV HEADER" > ../comparaZacatuche.csv
 
 /usr/bin/python3 estatus.py
 
