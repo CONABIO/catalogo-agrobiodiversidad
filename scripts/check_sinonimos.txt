@@ -1,4 +1,4 @@
-Mon May 29 20:50:01 CST 2023
+Tue May 30 20:50:01 CST 2023
 Empieza check_pendiente archivos...
 Successful login
 compara etiquetas
@@ -312,8 +312,3 @@ compara etiquetas
 El sinonimo  80094ANGIO  ya no tiene etiquetas
 
 
-[main 40948f2] check sinonimos diario
- 1 file changed, 1 insertion(+), 1 deletion(-)
-remote: Resolving deltas:   0% (0/3)        remote: Resolving deltas:  33% (1/3)        remote: Resolving deltas:  66% (2/3)        remote: Resolving deltas: 100% (3/3)        remote: Resolving deltas: 100% (3/3), completed with 3 local objects.        
-To github.com:CONABIO/catalogo-agrobiodiversidad.git
-   7e88a89..40948f2  main -> main
