@@ -5157,3 +5157,51 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2023-01-26,71852ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
 2023-05-02,19790ANGIO,Registro editado,id_valido,278543ANGIO,,Bot validación
 2023-05-02,19790ANGIO,Registro editado,taxon_valido,Alocasia macrorrhizos,,Bot validación
+2023-07-25,9128ANGIO,Registro nuevo,,,,Bot validación
+2023-07-25,33255ANGIO,Registro nuevo,,,,Bot validación
+2023-07-25,19324GIMNO,Registro nuevo,,,,Bot validación
+2023-07-25,280204ANGIO,Registro nuevo,,,,Bot validación
+2023-07-25,57308ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,57308ANGIO,Registro editado,id_valido,57308ANGIO,,Bot validación
+2023-07-25,57308ANGIO,Registro editado,taxon_valido,Salvia glechomifolia,,Bot validación
+2023-07-25,57308ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,10315MOLUS,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,10315MOLUS,Registro editado,id_valido,10315MOLUS,,Bot validación
+2023-07-25,10315MOLUS,Registro editado,taxon_valido,Plicopurpura pansa,,Bot validación
+2023-07-25,10315MOLUS,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,68173ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,68173ANGIO,Registro editado,id_valido,68173ANGIO,,Bot validación
+2023-07-25,68173ANGIO,Registro editado,taxon_valido,Passiflora foetida var. arida,,Bot validación
+2023-07-25,68173ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,35164ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,35164ANGIO,Registro editado,id_valido,35164ANGIO,64403ANGIO,Bot validación
+2023-07-25,35164ANGIO,Registro editado,taxon_valido,Pouteria hypoglauca,Pouteria glomerata subsp. glomerata,Bot validación
+2023-07-25,35164ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,245505ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,245505ANGIO,Registro editado,id_valido,245505ANGIO,244678ANGIO,Bot validación
+2023-07-25,245505ANGIO,Registro editado,taxon_valido,Lepidium alyssoides var. angustifolium,Lepidium alyssoides,Bot validación
+2023-07-25,245505ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,27430ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,27430ANGIO,Registro editado,id_valido,27430ANGIO,33255ANGIO,Bot validación
+2023-07-25,27430ANGIO,Registro editado,taxon_valido,Rorippa nasturtium-aquaticum,Nasturtium officinale,Bot validación
+2023-07-25,27430ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,72769ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,72769ANGIO,Registro editado,id_valido,72769ANGIO,,Bot validación
+2023-07-25,72769ANGIO,Registro editado,taxon_valido,Salvia microphylla var. neurepia,,Bot validación
+2023-07-25,72769ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,10647ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,10647ANGIO,Registro editado,id_valido,10647ANGIO,9128ANGIO,Bot validación
+2023-07-25,10647ANGIO,Registro editado,taxon_valido,Opuntia cochinera,Opuntia x cochinera,Bot validación
+2023-07-25,10647ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,67120GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,67120GIMNO,Registro editado,id_valido,67120GIMNO,19324GIMNO,Bot validación
+2023-07-25,67120GIMNO,Registro editado,taxon_valido,Pinus (Strobus) (Quinquefoliae) (Strobus) strobus var. chiapensis,Pinus (Strobus) chiapensis,Bot validación
+2023-07-25,67120GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,29568ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,29568ANGIO,Registro editado,id_valido,29568ANGIO,280204ANGIO,Bot validación
+2023-07-25,29568ANGIO,Registro editado,taxon_valido,Clidemia petiolaris,Miconia petiolaris,Bot validación
+2023-07-25,29568ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
+2023-07-25,35927ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validación
+2023-07-25,35927ANGIO,Registro editado,id_valido,35927ANGIO,32394ANGIO,Bot validación
+2023-07-25,35927ANGIO,Registro editado,taxon_valido,Amaranthus myrianthus,Amaranthus greggii,Bot validación
+2023-07-25,35927ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validación
