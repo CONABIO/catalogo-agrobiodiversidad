@@ -1,8 +1,8 @@
-Wed Jul 26 20:15:01 CST 2023
+Thu Jul 27 20:15:01 CST 2023
 Empieza comparación con Zacatuche\n
 Descargando csv de la instancia...
 Successful login
 Leyendo archivos...
 Comparando archivos...
 Correo enviado
-Termina comparación
+Termina comparacion
