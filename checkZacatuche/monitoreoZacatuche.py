@@ -98,7 +98,10 @@ try:
     if code != 200:
         msg = f"EXISTE UN ERROR EN EL SERVIDOR. CODIGO DE ERROR: {code}"
         destinatarios = [
-            "Vivian <vbass@conabio.gob.mx>",
+            "Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>",
             "Juan <jbarrios@conabio.gob.mx>"
         ]
         print(msg)
@@ -110,7 +113,10 @@ try:
             f"SE REALIZO ES \n {queryOc}"
         )
         destinatarios = [
-            "Vivian <vbass@conabio.gob.mx>",
+            "Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>",
             "Juan <jbarrios@conabio.gob.mx>"
         ]
         print(msg)
@@ -121,9 +127,12 @@ try:
             f"Todo esta bien, se encontraron {response_json_len} registros "
             f"en la consulta."
         )
-        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>"]
         print(string)
-        sendeMail(string, destinatarios)
+        #sendeMail(string, destinatarios)
 
 except requests.Timeout as err:
     #print("ERROR TIMEOUT:",err)
@@ -137,7 +146,11 @@ except requests.Timeout as err:
         #print(response_json_len)
         if code != 200:
             msg = f"EXISTE UN ERROR EN EL SERVIDOR. CODIGO DE ERROR: {code}"
-            destinatarios = ["Vivian <vbass@conabio.gob.mx>", "Juan <jbarrios@conabio.gob.mx>"]
+            destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>",
+            "Juan <jbarrios@conabio.gob.mx>"]
             print(msg)
             sendeMail(msg, destinatarios)
 
@@ -146,7 +159,11 @@ except requests.Timeout as err:
                 f"NO SE OBTUVIERON RESULTADOS DE LA CONSULTA. LA CONSULTA QUE "
                 f"SE REALIZO ES \n {queryTaxon}"
             )
-            destinatarios = ["Vivian <vbass@conabio.gob.mx>", "Juan <jbarrios@conabio.gob.mx>"]
+            destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>",
+            "Juan <jbarrios@conabio.gob.mx>"]
             print(msg)
             sendeMail(msg, destinatarios)
 
@@ -155,25 +172,41 @@ except requests.Timeout as err:
                 f"LAS CONSULTAS DE OCCURRENCE NO RESPONDEN PERO LAS DE TAXON SI RESPONDEN."
                
             )
-            destinatarios = ["Vivian <vbass@conabio.gob.mx>", "Juan <jbarrios@conabio.gob.mx>"]            
+            destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>",
+            "Juan <jbarrios@conabio.gob.mx>"]            
             print(string)
             sendeMail(string, destinatarios)
 
     except requests.Timeout as err:
         msg = f"ZACATUCHE ESTA TARDANDO MAS DE 10 SEGUNDOS EN RESPONDER LAS PETICIONES TANTO DE OCCURRENCE COMO DE TAXON"
-        destinatarios = ["Vivian <vbass@conabio.gob.mx>", "Juan <jbarrios@conabio.gob.mx>"]        
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>",
+            "Juan <jbarrios@conabio.gob.mx>"]        
         print(msg)
         sendeMail(msg, destinatarios)
 
     except requests.ConnectionError:
         msg = f"EXISTE UN ERROR DE CONEXION CON ZACATUCHE AL INTENTAR HACER UNA QUERY EN TAXON. EL SERVIDOR NO CONTESTA"
-        destinatarios = ["Vivian <vbass@conabio.gob.mx>", "Juan <jbarrios@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>",
+            "Juan <jbarrios@conabio.gob.mx>"]
         print(msg)
         sendeMail(msg, destinatarios)
 
 
 except requests.ConnectionError:
     msg = f"EXISTE UN ERROR DE CONEXION CON ZACATUCHE. EL SERVIDOR NO CONTESTA"
-    destinatarios = ["Vivian <vbass@conabio.gob.mx>", "Juan <jbarrios@conabio.gob.mx>"]
+    destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>",
+            "Alicia <amastretta@conabio.gob.mx>",
+            "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
+            "Irma <ihernandez@conabio.gob.mx>",
+            "Juan <jbarrios@conabio.gob.mx>"]
     print(msg)
     sendeMail(msg, destinatarios)
