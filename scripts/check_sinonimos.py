@@ -194,39 +194,41 @@ def get_sinonimos():
     for i in range (len(json_data)):
 
         zacatuche=getInfoZacatuche(json_data[i]['id'])
-
-        #Si tanto en zacatuche como en el listado el estatus es sinónimo
-        #hay que revisar primero que su id_valido sea igual, Si no,
-        #hay que cambiar el id valido del registro en el listado.
-        #Hay que verificar que el id valido esté en el listado, si no
-        # hay que agregarlo y heredar etiquetas. Si si, se verifican etiquetas.
-        #
-        #Si el estatus es distinto en zacatuche y en el listado, se verificará en el script
-        #estatus.py
-        if zacatuche['estatus'] == json_data[i]['estatus']:
-            if zacatuche['acceptedNameUsage'] is not None:
-                if zacatuche['acceptedNameUsage']['id_valido']!=json_data[i]['id_valido']:
-                    print("cambiar id_valido del taxon: ",json_data[i])
-                    change_valid(json_data[i],zacatuche)
-                    
-                if is_in_listado(zacatuche['acceptedNameUsage']['id_valido']):
-                    print("compara etiquetas")
-                    
-                    if (json_data[i]['categoria_agrobiodiversidad'] is None or json_data[i]['categoria_agrobiodiversidad'] == "") and (json_data[i]['es_domesticado'] is None) and (json_data[i]['es_quelite'] is None) and (json_data[i]['es_parientesilvestre'] is None):
-                        #print(json_data[i])
-                        print("El sinonimo ", json_data[i]['id']," ya no tiene etiquetas")
+        if zacatuche is not None:
+            #Si tanto en zacatuche como en el listado el estatus es sinónimo
+            #hay que revisar primero que su id_valido sea igual, Si no,
+            #hay que cambiar el id valido del registro en el listado.
+            #Hay que verificar que el id valido esté en el listado, si no
+            # hay que agregarlo y heredar etiquetas. Si si, se verifican etiquetas.
+            #
+            #Si el estatus es distinto en zacatuche y en el listado, se verificará en el script
+            #estatus.py
+            if zacatuche['estatus'] == json_data[i]['estatus']:
+                if zacatuche['acceptedNameUsage'] is not None:
+                    if zacatuche['acceptedNameUsage']['id_valido']!=json_data[i]['id_valido']:
+                        print("cambiar id_valido del taxon: ",json_data[i])
+                        change_valid(json_data[i],zacatuche)
+                        
+                    if is_in_listado(zacatuche['acceptedNameUsage']['id_valido']):
+                        print("compara etiquetas")
+                        
+                        if (json_data[i]['categoria_agrobiodiversidad'] is None or json_data[i]['categoria_agrobiodiversidad'] == "") and (json_data[i]['es_domesticado'] is None) and (json_data[i]['es_quelite'] is None) and (json_data[i]['es_parientesilvestre'] is None):
+                            #print(json_data[i])
+                            print("El sinonimo ", json_data[i]['id']," ya no tiene etiquetas")
+                        else:
+                            verify_labels(json_data[i],zacatuche)
+                        
                     else:
-                        verify_labels(json_data[i],zacatuche)
-                    
+                        print("agrega valido y elimina etiquetas")
+                        add_new_valid(json_data[i],zacatuche)
+                        delete_labels_pendiente(json_data[i]['id'])
+                        
                 else:
-                    print("agrega valido y elimina etiquetas")
-                    add_new_valid(json_data[i],zacatuche)
-                    delete_labels_pendiente(json_data[i]['id'])
-                    
-            else:
-                print("El id ",json_data[i]['id']," tiene un id_valido None")
-        print("\n")
-    
+                    print("El id ",json_data[i]['id']," tiene un id_valido None")
+            print("\n")
+        else:
+            print("El id ",json_data[i]['id']," no se encuentra en zacatuche")
+        
 def sendWarning(string, destinatario):
     """
     Envía un correo a las direcciones en "destinatario".
@@ -234,7 +236,9 @@ def sendWarning(string, destinatario):
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>"
     asunto = "ERROR EN REVISION DE SINONIMOS LISTADO"
     mensaje = ( """El archivo de """+string+""" que revisa los sinonimos del listado no se ejecuto. Favor de verificar.
-    
+
+Para mas informacion sobre el script check_sinonimos.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad/tree/main#revisi%C3%B3n-de-taxones-marcados-como-sin%C3%B3nimos, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Revision de taxones marcados como sinonimos, en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
+   
 ------------------------------------
 Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
     )
@@ -252,11 +256,11 @@ Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no r
 
 if __name__ == '__main__':
     try:
-        print("Empieza check_pendiente archivos...")
+        print("Empieza check_sinonimos...")
         session=loginListado()
         get_sinonimos()
     except:
         print("Error al ejecutar script que revisa los sinonimos del listado")
-        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
         sendWarning("check_sinonimos.py de check_sinonimos", destinatarios)
     

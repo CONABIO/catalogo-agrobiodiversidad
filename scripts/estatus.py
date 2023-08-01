@@ -1,9 +1,9 @@
 '''
-Este script realiza la comparación de lo que hay en nuestra base de datos local
-contra lo que hay en Catálogo Conabio (CAT) via Zacatuche.
+Este script realiza la comparacion de lo que hay en nuestra base de datos local
+contra lo que hay en Catalogo Conabio (CAT) via Zacatuche.
 Si encuentra cambios entre las dos bases, realiza los respectivos cambios
 en la base local directamente.
-Si por alguna razón tenemos un ID que no se encuentre en Zacatuche
+Si por alguna razon tenemos un ID que no se encuentre en Zacatuche
 manda un correo a Alicia, Irene y Vivian para dar seguimiento.
 Los logs del script se encuentran en logEstatus.txt
 '''
@@ -52,8 +52,8 @@ else:
 
 def getInfoTaxon(record_id):
     '''
-    Hace una consulta a zacatuche para obtener la información que se necesita de un id.
-    Devuelve una pandas.Series con la información solicitada en la query.
+    Hace una consulta a zacatuche para obtener la informacion que se necesita de un id.
+    Devuelve una pandas.Series con la informacion solicitada en la query.
     '''
     query = """query taxon{
                 taxon(taxonID:"""+"\""+record_id+"\""+"""){
@@ -102,13 +102,13 @@ def getInfoTaxon(record_id):
 def updateLocal(agrobd_id, New_values):
     '''
     Realiza las modificaciones en la instancia de catalogo-agrobiodiversidad
-    de los campos que se le pasen como parámetro.
+    de los campos que se le pasen como parametro.
     '''
     #print("estoy en update: ",agrobd_id)
 
-    New_values['usuario'] = 'Bot validación'
+    New_values['usuario'] = 'Bot validacion'
     
-    # TO DO: ¿Cómo deben aparecer los valores vacíos en mutation? 
+    # TO DO: ¿Como deben aparecer los valores vacios en mutation? 
     new_values = ''  
     for field in New_values:
         if New_values[field] is None:
@@ -162,7 +162,7 @@ def request_agrobd_review(record, check_previous_label=True):
 
 def delete_agrobd_label(record):
     # TO DO: also delete subcategoria_agrobiodiversidad
-    # TO DO: cómo poner campos vacíos    
+    # TO DO: como poner campos vacios    
     updateLocal(record['id'], {'categoria_agrobiodiversidad': '',
                                 'es_parientesilvestre': "null",
                                 'es_quelite': "null",
@@ -181,7 +181,7 @@ def add_record_to_agrobd_list(record):
                     estatus:\"{record['estatus']}\"
                     id_valido:"{record['id_valido']}"
                     taxon_valido:\"{record['taxon_valido']}\"
-                    usuario:\"Bot validación\"){{
+                    usuario:\"Bot validacion\"){{
                     id
                 }}
                 }}'''
@@ -191,14 +191,14 @@ def add_record_to_agrobd_list(record):
 def add_agrobd_label(record_id, agrobd):
     ''' 
     Agrega la etiqueta "Agrobiodiversidad" a un registro.
-    También agrega la subcategoría y las referencia que hereda del registro 
-    cuyo estatus cambió de válido --> sinónimo.
+    Tambien agrega la subcategoria y las referencia que hereda del registro 
+    cuyo estatus cambio de valido --> sinonimo.
     
-    TO DO: Decidir qué hacer en caso de que ya tenga la etiqueta y referencias.
+    TO DO: Decidir que hacer en caso de que ya tenga la etiqueta y referencias.
 
     Recibe:
         record_id (string): nuevo id_valido del registro agrobd
-        agrobd (pandas.Series): registro cuyo estatus cambio de válido -> sinónimo
+        agrobd (pandas.Series): registro cuyo estatus cambio de valido -> sinonimo
     '''
     updateLocal(record_id, {'categoria_agrobiodiversidad': 'Agrobiodiversidad',
                             'referencia': agrobd['referencia'],
@@ -210,21 +210,20 @@ def add_agrobd_label(record_id, agrobd):
 
 def sendeMail(string):
     '''
-    Envía un correo a las direcciones en "destinatario". 
-    Recibe como parámetro un string con los ids a los que se necesita dar seguimiento.
+    Envia un correo a las direcciones en "destinatario". 
+    Recibe como parametro un string con los ids a los que se necesita dar seguimiento.
     '''
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
-    #destinatario = ["Vivian <vivbass4@gmail.com>", "Vivian <vbass@conabio.gob.mx>", "Alicia <amastretta@conabio.gob.mx>", "Irene <iramos@conabio.gob.mx>"]
-    destinatario = ["Vivian <vbass@conabio.gob.mx>"]
-    asunto = "Aviso: no se encontró ID de taxon" 
-    mensaje = """´En la validación diaria de registros entre Zacatuche con nuestra base de datos de catalogo-agrobiodiversidad, se detectó que los siguientes IDs no se encontraron en Zacatuche. Favor de dar seguimiento a los casos.
+    destinatario = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
+    asunto = "Aviso: no se encontro ID de taxon" 
+    mensaje = """´En la validacion diaria de registros entre Zacatuche con nuestra base de datos de catalogo-agrobiodiversidad, se detecto que los siguientes IDs no se encontraron en Zacatuche. Favor de dar seguimiento a los casos. Para mas informacion sobre el script estatus.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad#comparaci%C3%B3n-del-listado-contra-el-snib, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Comparacion del listado contra el SNIB en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
 
       ID       |      Taxon      
 
 """+string+"""
     
 ------------------------------------
-Este correo ha sido enviado automáticamente. Favor de no responder.´"""
+Este correo ha sido enviado automaticamente. Favor de no responder.´"""
     email = 'Subject: {}\n\n{}'.format(asunto, mensaje)
     try: 
         smtp = smtplib.SMTP('localhost') 
@@ -237,11 +236,11 @@ Este correo ha sido enviado automáticamente. Favor de no responder.´"""
 
 def sendWarning(string, destinatario):
     """
-    Envía un correo a las direcciones en "destinatario".
+    Envia un correo a las direcciones en "destinatario".
     """
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>"
     asunto = "ERROR EN COMPARACION LISTADO - ZACATUCHE"
-    mensaje = ( """El archivo de """+string+""" que compara lo del listado contra lo que existe en Zacatuche no se actualizo. Favor de verificar.
+    mensaje = ( """El archivo de """+string+""" que compara lo del listado contra lo que existe en Zacatuche no se actualizo. Favor de verificar. Para mas informacion sobre el script estatus.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad#comparaci%C3%B3n-del-listado-contra-el-snib, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Comparacion del listado contra el SNIB en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
     
 ------------------------------------
 Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
@@ -259,14 +258,14 @@ Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no r
 
 def sync_status_and_agrobd_label(agrobd, catalog):
     '''
-    Esta función actualiza los campos de estatus, id_valido, taxon_valido y
+    Esta funcion actualiza los campos de estatus, id_valido, taxon_valido y
     categoria_agrobiodiversidad en la lista local si el registro `agrobd`
     tuvo un cambio de estatus en CAT. Los cambios dependen del tipo de 
-    transición que ocurrió para el estatus del registro. Ver detalles en README. 
+    transicion que ocurrio para el estatus del registro. Ver detalles en README. 
 
     Recibe:
         agrobd (pandas.Series): Un registro de la lista local de agrobiodiversidad
-        catalog (pandas.Series): Versión de CAT Conabio del registro con mismo id que agrobd
+        catalog (pandas.Series): Version de CAT Conabio del registro con mismo id que agrobd
     '''
     # sync estatus, id_valido, taxon_valido
     updateLocal(agrobd['id'], {'estatus': catalog['estatus'],
@@ -280,7 +279,7 @@ def sync_status_and_agrobd_label(agrobd, catalog):
     
     # valido --> NA
     elif (agrobd['id'] == agrobd['id_valido']) and (not catalog['id_valido']):
-        delete_agrobd_label(agrobd) # TO DO: preguntar a CAT qué hacer en este caso
+        delete_agrobd_label(agrobd) # TO DO: preguntar a CAT que hacer en este caso
     
     # sinonimo --> sinonimo
     elif is_synonym(agrobd) and is_synonym(catalog):
@@ -302,15 +301,15 @@ def sync_status_and_agrobd_label(agrobd, catalog):
 
 def sync_agrobd_to_catalog(agrobd_list):
     ''' Pipeline para sincronizar la lista local de agrobiodiversidad
-    con el catálogo de Conabio (CAT). El script recorre la lista registro por registro;
-    compara la versión actual de la lista `agrobd_list` contra CAT mediante una consulta
-    a zacatuche. Si cambió el estatus de un registro en CAT actualiza los campos
-    y realiza los cambios necesarios en la categoría agrobiodiversidad.
-    Envía un correo para advertir de ids que no están en CAT, pues se trata
+    con el catalogo de Conabio (CAT). El script recorre la lista registro por registro;
+    compara la version actual de la lista `agrobd_list` contra CAT mediante una consulta
+    a zacatuche. Si cambio el estatus de un registro en CAT actualiza los campos
+    y realiza los cambios necesarios en la categoria agrobiodiversidad.
+    Envia un correo para advertir de ids que no estan en CAT, pues se trata
     de un error al que se le debe dar seguimiento.
     
     Recibe:
-        agrobd_list(pandas.DataFrame): Tabla que contiene la versión más actual
+        agrobd_list(pandas.DataFrame): Tabla que contiene la version mas actual
         de la lista local de agrobd. 
     '''
     agroid_not_in_cat = []
@@ -352,9 +351,9 @@ if __name__ == '__main__':
         agrobd_list = pd.read_csv(path_agrobd_list, keep_default_na=False)    
         print("Comparando archivos...")
         sync_agrobd_to_catalog(agrobd_list)
-        print("Termina comparación")
+        print("Termina comparacion")
 
     except:
         print("Error al ejecutar script que compara el listado contra Zacatuche")
-        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
         sendWarning("estatus.py de compareZacatuche", destinatarios)

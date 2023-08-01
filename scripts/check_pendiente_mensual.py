@@ -102,15 +102,15 @@ def delete_pendiente(id):
     session.post(path_siagro, json={'query': query}, verify=False)
 
 def mailAdjunto():
-    # Iniciamos los parámetros del script
+    # Iniciamos los parametros del script
     remitente = 'siagro@siagro.conabio.gob.mx'
-    #["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
-    destinatarios = ["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
-    #destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+    destinatarios = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"], "Mao <morjuela@conabio.gob.mx>"]
     asunto = 'Revisar taxones con id pendiente'
     cuerpo = """La lista adjunta de taxones pendientes tiene similitudes con los taxones indicados, favor de revisar los campos categoria_agrobiodiversidad, es_parientesilvestre, es_domesticado y es_quelite.
 
 Este es el aviso mensual, favor de hacer caso omiso si el registro ya se reviso y tiene comentarios. Si el registro ya se reviso y no tiene comentarios, favor de agregarlos.
+
+Para mas informacion sobre el script check_pendiente_mensual.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad#revisi%C3%B3n-de-ids-marcados-como-_pendiente, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Revision de ids marcados como *_pendiente, en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
     
 ------------------------------------
 Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
@@ -142,7 +142,7 @@ Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no r
     # Y finalmente lo agregamos al mensaje
     mensaje.attach(adjunto_MIME)
     
-    # Creamos la conexión con el servidor
+    # Creamos la conexion con el servidor
     sesion_smtp = smtplib.SMTP('smtp.gmail.com', 587)
     
     smtp = smtplib.SMTP('localhost') 
@@ -238,7 +238,7 @@ if __name__ == '__main__':
         get_pendientes()
     except:
         print("Error al ejecutar script que revisa los IDs pendientes mensual")
-        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
         sendWarning("check_pendiente_mensual.py de check_pendiente_mensual", destinatarios)
 
     

@@ -23,7 +23,7 @@ from paths import *
 def save_new_or_deleted_to_changelog(idx, tipo_cambio, path):
     '''
     Agrega los registros nuevos o borrados a un csv. 
-    La columna `Usuario` sólo se llena para registros nuevos.
+    La columna `Usuario` solo se llena para registros nuevos.
 
     Recibe:
         idx (list): Lista u otro objeto iterable de ids que tuvieron cambios
@@ -87,7 +87,7 @@ def list_to_markdown(lista_campos):
     aparezcan como una fila de una tabla en markdown.
 
     Recibe: 
-        lista_campos (lista): Lista u otro objeto iterable de strings. Cada elemento se colocará en una columna aparte.
+        lista_campos (lista): Lista u otro objeto iterable de strings. Cada elemento se colocara en una columna aparte.
     Regresa:
         String con el formato de una fila de una tabla en markdown
 
@@ -117,7 +117,7 @@ def history_templates(idx, tipo_cambio):
     if tipo_cambio == 'new': 
         template = (
             f"\n### {date}\n"
-            f"**Se agregó el registro {idx}:**\n\n"
+            f"**Se agrego el registro {idx}:**\n\n"
             f"{header}\n"
             f"{divisor}\n"
             f"{list_to_markdown(actual.loc[idx])}\n"
@@ -126,7 +126,7 @@ def history_templates(idx, tipo_cambio):
     if tipo_cambio == 'del':
         template = (
             f"\n### {date}\n"
-            f"**Se borró el registro {idx}:**\n\n"
+            f"**Se borro el registro {idx}:**\n\n"
             f"{header}\n"
             f"{divisor}\n"
             f"{list_to_markdown(anterior.loc[idx])}\n"
@@ -135,7 +135,7 @@ def history_templates(idx, tipo_cambio):
     if tipo_cambio == 'edit':
         template = (
             f"\n### {date}\n"
-            f"**Se editó el registro {idx}.**\n\n"
+            f"**Se edito el registro {idx}.**\n\n"
             f"**Registro actual:**\n"
             f"{header}\n"
             f"{divisor}\n"
@@ -163,7 +163,7 @@ def sendeMail(string, destinatario):
     """
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>"
     asunto = "ERROR EN ACTUALIZACION DE LISTADO AGROBD"
-    mensaje = ( """El archivo de """+string+""" que actualiza el listado de agrobiodiversidad no se ejecuto correctamente. Favor de verificar.
+    mensaje = ( """El archivo de """+string+""" que actualiza el listado de agrobiodiversidad no se ejecuto correctamente. Favor de verificar. Para mas informacion sobre el script compare.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad#hist%C3%B3rico-de-cambios-en-la-base-de-datos-del-listado, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Historico de cambios en la base de datos del Listado, en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
     
 ------------------------------------
 Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
@@ -202,12 +202,12 @@ if __name__ == '__main__':
 
         # los registros editados corresponden a los ids que existen 
         # tanto en `anterior` como en `actual`,
-        # y donde cambió el valor `updatedAt` --- ¿Qué estamos asumiendo aquí?
+        # y donde cambio el valor `updatedAt` --- ¿Qué estamos asumiendo aquí?
         # ¿Podemos asumir que todos los registros tienen un valor en `updatedAt`? 
         idx_intersect = set(actual.index) & set(anterior.index)
 
-        # Esta comparación regresa True en registros donde `updatedAt` == nan, aunque no se hayan editado
-        # Por eso los csv se leen con la opción keep_default_na=False
+        # Esta comparacion regresa True en registros donde `updatedAt` == nan, aunque no se hayan editado
+        # Por eso los csv se leen con la opcion keep_default_na=False
         edited = actual.loc[idx_intersect, 'updatedAt'] != anterior.loc[idx_intersect, 'updatedAt']
         idx_edited_records = (actual.loc[idx_intersect]
                                     .loc[edited]
@@ -223,5 +223,5 @@ if __name__ == '__main__':
 
     except:
         print("Error al actualizar el listado de agrobiodiversidad")
-        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
         sendeMail("compare.py de actualizaciones_agro", destinatarios)

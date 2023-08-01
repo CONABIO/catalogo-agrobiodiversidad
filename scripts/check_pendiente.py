@@ -94,14 +94,15 @@ def sendeMail(string):
     Recibe como parámetro un string con los ids a los que se necesita dar seguimiento.
     '''
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
-    destinatario = ["Vivian <vbass@conabio.gob.mx>", "Oswaldo <ooliver@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
-    #destinatario = ["Vivian <vbass@conabio.gob.mx>"]
+    destinatario = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
     asunto = "Revisar taxones con id pendiente" 
     mensaje = """La siguiente lista de taxones pendientes tiene similitudes con los taxones indicados, favor de revisar los campos categoria_agrobiodiversidad, es_parientesilvestre, es_domesticado y es_quelite.
 
  ID pendiente | Taxon pendiente | ID coincidencia | Taxon coincidencia
 
 """+string+"""
+
+Para mas informacion sobre el script check_pendiente.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad#revisi%C3%B3n-de-ids-marcados-como-_pendiente, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Revision de ids marcados como *_pendiente, en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
     
 ------------------------------------
 Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
@@ -122,6 +123,8 @@ def sendWarning(string, destinatario):
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>"
     asunto = "ERROR EN REVISION DE PENDIENTES"
     mensaje = ( """El archivo de """+string+""" que revisa los IDs pendientes no se actualizo. Favor de verificar.
+    
+    Para mas informacion sobre el script check_pendiente.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad#revisi%C3%B3n-de-ids-marcados-como-_pendiente, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Revision de ids marcados como *_pendiente, en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
     
 ------------------------------------
 Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
@@ -189,5 +192,5 @@ if __name__ == '__main__':
         get_pendientes()
     except:
         print("Error al ejecutar script que revisa los IDs pendientes")
-        destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
         sendWarning("check_pendiente.py de check_pendiente", destinatarios)

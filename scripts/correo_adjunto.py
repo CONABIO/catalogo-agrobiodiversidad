@@ -7,10 +7,12 @@ from email import encoders
 def mailAdjunto():
     # Iniciamos los parámetros del script
     remitente = 'siagro@siagro.conabio.gob.mx'
-    destinatarios = ["Vivian <vbass@conabio.gob.mx>"]
+    destinatarios = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
     asunto = 'Revisar etiquetas con Oswa y Mao'
-    cuerpo = """Verifica si en los logs hay sinónimos con etiquetas que necesiten revisarse con Oswa y Mao.
-    
+    cuerpo = """Verifica si en los logs hay sinonimos con etiquetas que necesiten revisarse con Oswa y Mao.
+
+Para mas informacion sobre el script check_sinonimos.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad/tree/main#revisi%C3%B3n-de-taxones-marcados-como-sin%C3%B3nimos, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Revision de taxones marcados como sinonimos, en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
+        
 ------------------------------------
 Este correo no contiene acentos y ha sido enviado automaticamente. Favor de no responder."""
     ruta_adjunto = 'scripts/check_sinonimos.txt'
