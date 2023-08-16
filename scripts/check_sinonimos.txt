@@ -1,7 +1,8 @@
-Mon Aug 14 20:50:01 CST 2023
+Tue Aug 15 20:50:01 CST 2023
 Empieza check_sinonimos...
 Successful login
-agrega valido y elimina etiquetas
+compara etiquetas
+El sinonimo  10315MOLUS  ya no tiene etiquetas
 
 
 compara etiquetas
