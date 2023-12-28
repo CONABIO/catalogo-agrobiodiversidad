@@ -1,4 +1,4 @@
-Tue Dec 26 20:50:01 CST 2023
+Wed Dec 27 20:50:01 CST 2023
 Empieza check_sinonimos...
 Successful login
 compara etiquetas
@@ -202,8 +202,7 @@ compara etiquetas
 El sinonimo  64813ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  64927ANGIO  ya no tiene etiquetas
+El id  64927ANGIO  tiene un id_valido None
 
 
 compara etiquetas
