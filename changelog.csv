@@ -5553,3 +5553,7 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2023-08-15,10354MOLUS,Registro nuevo,,,,Bot check sinónimo
 2023-12-27,64927ANGIO,Registro editado,id_valido,55807ANGIO,,Bot validacion
 2023-12-27,64927ANGIO,Registro editado,taxon_valido,Agave (Agave) shawii,,Bot validacion
+2024-02-01,33745ANGIO,Registro editado,id_valido,252539ANGIO,,Bot validacion
+2024-02-01,33745ANGIO,Registro editado,taxon_valido,Condea albida,,Bot validacion
+2024-02-01,74760ANGIO,Registro editado,id_valido,252899ANGIO,,Bot validacion
+2024-02-01,74760ANGIO,Registro editado,taxon_valido,Condea emoryi,,Bot validacion
