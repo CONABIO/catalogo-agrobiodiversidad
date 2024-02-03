@@ -5557,3 +5557,13 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2024-02-01,33745ANGIO,Registro editado,taxon_valido,Condea albida,,Bot validacion
 2024-02-01,74760ANGIO,Registro editado,id_valido,252899ANGIO,,Bot validacion
 2024-02-01,74760ANGIO,Registro editado,taxon_valido,Condea emoryi,,Bot validacion
+2024-02-02,28606ANGIO,Registro editado,id_valido,279921ANGIO,,Bot validacion
+2024-02-02,28606ANGIO,Registro editado,taxon_valido,Condea verticillata,,Bot validacion
+2024-02-02,75079ANGIO,Registro editado,id_valido,252899ANGIO,74760ANGIO,Bot validacion
+2024-02-02,75079ANGIO,Registro editado,taxon_valido,Condea emoryi,Hyptis emoryi,Bot validacion
+2024-02-02,75081ANGIO,Registro editado,id_valido,252899ANGIO,74760ANGIO,Bot validacion
+2024-02-02,75081ANGIO,Registro editado,taxon_valido,Condea emoryi,Hyptis emoryi,Bot validacion
+2024-02-02,33735ANGIO,Registro editado,id_valido,238710ANGIO,28603ANGIO,Bot validacion
+2024-02-02,33735ANGIO,Registro editado,taxon_valido,Condea americana,Hyptis spicigera,Bot validacion
+2024-02-02,75080ANGIO,Registro editado,id_valido,252899ANGIO,74760ANGIO,Bot validacion
+2024-02-02,75080ANGIO,Registro editado,taxon_valido,Condea emoryi,Hyptis emoryi,Bot validacion
