@@ -5567,3 +5567,114 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2024-02-02,33735ANGIO,Registro editado,taxon_valido,Condea americana,Hyptis spicigera,Bot validacion
 2024-02-02,75080ANGIO,Registro editado,id_valido,252899ANGIO,74760ANGIO,Bot validacion
 2024-02-02,75080ANGIO,Registro editado,taxon_valido,Condea emoryi,Hyptis emoryi,Bot validacion
+2024-02-08,284394ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,285184ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,284791ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,284790ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,284742ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,284327ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,55739ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,36602GIMNO,Registro nuevo,,,,Bot validacion
+2024-02-08,284501ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,55479ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,285173ANGIO,Registro nuevo,,,,Bot validacion
+2024-02-08,35168ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,35168ANGIO,Registro editado,id_valido,35168ANGIO,35160ANGIO,Bot validacion
+2024-02-08,35168ANGIO,Registro editado,taxon_valido,Pouteria lundellii,Pouteria belizensis,Bot validacion
+2024-02-08,35168ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,54845ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,54845ANGIO,Registro editado,id_valido,54845ANGIO,285173ANGIO,Bot validacion
+2024-02-08,54845ANGIO,Registro editado,taxon_valido,Solanum circinatum,Solanum splendens,Bot validacion
+2024-02-08,54845ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,33745ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2024-02-08,33745ANGIO,Registro editado,id_valido,,33745ANGIO,Bot validacion
+2024-02-08,33745ANGIO,Registro editado,taxon_valido,,Hyptis albida,Bot validacion
+2024-02-08,33745ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2024-02-08,33745ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2024-02-08,74760ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2024-02-08,74760ANGIO,Registro editado,id_valido,,74760ANGIO,Bot validacion
+2024-02-08,74760ANGIO,Registro editado,taxon_valido,,Hyptis emoryi,Bot validacion
+2024-02-08,74760ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2024-02-08,74760ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2024-02-08,35997ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,35997ANGIO,Registro editado,id_valido,35997ANGIO,284742ANGIO,Bot validacion
+2024-02-08,35997ANGIO,Registro editado,taxon_valido,Prosopis juliflora,Neltuma juliflora,Bot validacion
+2024-02-08,35997ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,35864ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,35864ANGIO,Registro editado,id_valido,35864ANGIO,35873ANGIO,Bot validacion
+2024-02-08,35864ANGIO,Registro editado,taxon_valido,Salvia curtiflora,Salvia nervata,Bot validacion
+2024-02-08,35864ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,28606ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2024-02-08,28606ANGIO,Registro editado,id_valido,,28606ANGIO,Bot validacion
+2024-02-08,28606ANGIO,Registro editado,taxon_valido,,Hyptis verticillata,Bot validacion
+2024-02-08,28606ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2024-02-08,28606ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2024-02-08,75731ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,75731ANGIO,Registro editado,id_valido,75731ANGIO,284327ANGIO,Bot validacion
+2024-02-08,75731ANGIO,Registro editado,taxon_valido,Prunus virens,Prunus serotina var. rufula,Bot validacion
+2024-02-08,75731ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,55420ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,55420ANGIO,Registro editado,id_valido,55420ANGIO,284791ANGIO,Bot validacion
+2024-02-08,55420ANGIO,Registro editado,taxon_valido,Agave (Agave) (Campaniflorae) capensis,Agave (Agave) aurea var. capensis,Bot validacion
+2024-02-08,55420ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,55665ANGIO,Registro editado,taxon,Agave montana,Agave (Agave) montana,Bot validacion
+2024-02-08,30150ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,30150ANGIO,Registro editado,id_valido,30150ANGIO,284394ANGIO,Bot validacion
+2024-02-08,30150ANGIO,Registro editado,taxon_valido,Salpianthus purpurascens,Boldoa purpurascens,Bot validacion
+2024-02-08,30150ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,64927ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2024-02-08,64927ANGIO,Registro editado,id_valido,,64927ANGIO,Bot validacion
+2024-02-08,64927ANGIO,Registro editado,taxon_valido,,Agave (Agave) shawii subsp. shawii,Bot validacion
+2024-02-08,64927ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2024-02-08,55743ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,55743ANGIO,Registro editado,id_valido,55743ANGIO,284790ANGIO,Bot validacion
+2024-02-08,55743ANGIO,Registro editado,taxon_valido,Agave (Agave) (Campaniflorae) promontorii,Agave (Agave) aurea subsp. promontorii,Bot validacion
+2024-02-08,55743ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,35170ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,35170ANGIO,Registro editado,id_valido,35170ANGIO,64404ANGIO,Bot validacion
+2024-02-08,35170ANGIO,Registro editado,taxon_valido,Pouteria neglecta,Pouteria torta subsp. tuberculata,Bot validacion
+2024-02-08,35170ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,64929ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,64929ANGIO,Registro editado,id_valido,64929ANGIO,55479ANGIO,Bot validacion
+2024-02-08,64929ANGIO,Registro editado,taxon_valido,Agave (Agave) (Deserticolae) deserti subsp. simplex,Agave (Agave) deserti,Bot validacion
+2024-02-08,64929ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,55082ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,55082ANGIO,Registro editado,id_valido,55082ANGIO,284501ANGIO,Bot validacion
+2024-02-08,55082ANGIO,Registro editado,taxon_valido,Physalis (Rydbergis) (Mycrophysalis) microphysa,Cataracta microphysa,Bot validacion
+2024-02-08,55082ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,27378ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,27378ANGIO,Registro editado,id_valido,27378ANGIO,285184ANGIO,Bot validacion
+2024-02-08,27378ANGIO,Registro editado,taxon_valido,Brassica nigra,Rhamphospermum nigrum,Bot validacion
+2024-02-08,27378ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,238710ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,238710ANGIO,Registro editado,id_valido,238710ANGIO,28603ANGIO,Bot validacion
+2024-02-08,238710ANGIO,Registro editado,taxon_valido,Condea americana,Hyptis spicigera,Bot validacion
+2024-02-08,238710ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,64923ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,64923ANGIO,Registro editado,id_valido,64923ANGIO,55739ANGIO,Bot validacion
+2024-02-08,64923ANGIO,Registro editado,taxon_valido,Agave (Agave) (Deserticolae) deserti subsp. pringlei,Agave (Agave) pringlei,Bot validacion
+2024-02-08,64923ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,252539ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,252539ANGIO,Registro editado,id_valido,252539ANGIO,33745ANGIO,Bot validacion
+2024-02-08,252539ANGIO,Registro editado,taxon_valido,Condea albida,Hyptis albida,Bot validacion
+2024-02-08,252539ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,67142GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,67142GIMNO,Registro editado,id_valido,67142GIMNO,36602GIMNO,Bot validacion
+2024-02-08,67142GIMNO,Registro editado,taxon_valido,Pinus (Strobus) (Parrya) (Cembroides) cembroides var. bicolor,Pinus (Strobus) johannis,Bot validacion
+2024-02-08,67142GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,7227PECES,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,7227PECES,Registro editado,id_valido,7227PECES,7216PECES,Bot validacion
+2024-02-08,7227PECES,Registro editado,taxon_valido,Lutjanus purpureus,Lutjanus campechanus,Bot validacion
+2024-02-08,7227PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,79033ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,79033ANGIO,Registro editado,id_valido,79033ANGIO,57885ANGIO,Bot validacion
+2024-02-08,79033ANGIO,Registro editado,taxon_valido,Crataegus parryana,Crataegus rosei,Bot validacion
+2024-02-08,79033ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,279921ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,279921ANGIO,Registro editado,id_valido,279921ANGIO,28606ANGIO,Bot validacion
+2024-02-08,279921ANGIO,Registro editado,taxon_valido,Condea verticillata,Hyptis verticillata,Bot validacion
+2024-02-08,279921ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-08,252899ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-08,252899ANGIO,Registro editado,id_valido,252899ANGIO,74760ANGIO,Bot validacion
+2024-02-08,252899ANGIO,Registro editado,taxon_valido,Condea emoryi,Hyptis emoryi,Bot validacion
+2024-02-08,252899ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
