@@ -1,4 +1,4 @@
-Fri Jan 26 21:00:01 CST 2024
+Mon Feb 26 21:00:01 CST 2024
   File "scripts/check_pendiente_mensual.py", line 107
     destinatarios = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"], "Mao <morjuela@conabio.gob.mx>"]
                                                                                                                                                                           ^
