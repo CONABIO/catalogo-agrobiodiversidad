@@ -1,4 +1,4 @@
-Tue Feb 27 20:50:01 CST 2024
+Wed Feb 28 20:50:01 CST 2024
 Empieza check_sinonimos...
 Successful login
 compara etiquetas
@@ -112,6 +112,10 @@ El sinonimo  32091ANGIO  ya no tiene etiquetas
 
 compara etiquetas
 El sinonimo  33735ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  34587ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
