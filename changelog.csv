@@ -5678,3 +5678,7 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2024-02-08,252899ANGIO,Registro editado,id_valido,252899ANGIO,74760ANGIO,Bot validacion
 2024-02-08,252899ANGIO,Registro editado,taxon_valido,Condea emoryi,Hyptis emoryi,Bot validacion
 2024-02-08,252899ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-02-28,34587ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-02-28,34587ANGIO,Registro editado,id_valido,34587ANGIO,34625ANGIO,Bot validacion
+2024-02-28,34587ANGIO,Registro editado,taxon_valido,Piper geniculatum,Piper unguiculatum,Bot validacion
+2024-02-28,34587ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
