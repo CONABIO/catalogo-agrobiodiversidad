@@ -5682,3 +5682,5 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2024-02-28,34587ANGIO,Registro editado,id_valido,34587ANGIO,34625ANGIO,Bot validacion
 2024-02-28,34587ANGIO,Registro editado,taxon_valido,Piper geniculatum,Piper unguiculatum,Bot validacion
 2024-02-28,34587ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-07-19,55784ANGIO,Registro editado,taxon_valido,Agave rzedowskiana,Echinoagave rzedowskiana,listado-admin
+2024-07-19,55784ANGIO,Registro editado,comentarios_revision,,"con base en Hassler, M. (1994 - 2024)b. World Plants. Synonymic Checklist and Distribution of the World Flora. Version 18.3; last update Jan. 3rd, 2024. - www.worldplants.de. Last accessed 2024",listado-admin
