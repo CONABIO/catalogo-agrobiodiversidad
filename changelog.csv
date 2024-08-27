@@ -5703,3 +5703,14 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2024-08-26,19790ANGIO,Registro editado,id_valido,,278543ANGIO,ooliver
 2024-08-26,19790ANGIO,Registro editado,taxon_valido,,Alocasia macrorrhizos,ooliver
 2024-08-26,19790ANGIO,Registro editado,comentarios_revision,,Ya se encuentra dada de alta esta especie válida bajo el IdCAT 278543ANGIO,ooliver
+2024-08-26,55720ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2024-08-26,55720ANGIO,Registro editado,id_valido,286471ANGIO,55720ANGIO,Bot validacion
+2024-08-26,55720ANGIO,Registro editado,taxon_valido,Echinoagave petrophila,Agave petrophila,Bot validacion
+2024-08-26,55720ANGIO,Registro editado,comentarios_revision,"Agave petrophila es sinónimo de Echinoagave petrophila García-Mend. E. Martínez A. Vázquez Rosales García-Mor., 2024","Agave petrophila es sinónimo de Echinoagave petrophila García-Mend. E. Martínez A. Vázquez Rosales García-Mor., 2024 - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2024-08-26,55444ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2024-08-26,55444ANGIO,Registro editado,id_valido,55694ANGIO,55444ANGIO,Bot validacion
+2024-08-26,55444ANGIO,Registro editado,taxon_valido,Agave (Littaea) ortgiesiana,Agave (Littaea) colimana,Bot validacion
+2024-08-26,9148ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2024-08-26,9148ANGIO,Registro editado,id_valido,9214ANGIO,9148ANGIO,Bot validacion
+2024-08-26,9148ANGIO,Registro editado,taxon_valido,Opuntia leucotricha,Opuntia durangensis,Bot validacion
+2024-08-26,9148ANGIO,Registro editado,comentarios_revision,"Nombre válido para esta especie es Opuntia leucotricha DC.,1828","Nombre válido para esta especie es Opuntia leucotricha DC.,1828 - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
