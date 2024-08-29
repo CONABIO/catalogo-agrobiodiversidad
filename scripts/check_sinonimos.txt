@@ -1,4 +1,4 @@
-Tue Aug 27 20:50:01 CST 2024
+Wed Aug 28 20:50:01 CST 2024
 Empieza check_sinonimos...
 Successful login
 compara etiquetas
@@ -422,3 +422,19 @@ compara etiquetas
 El sinonimo  80094ANGIO  ya no tiene etiquetas
 
 
+Traceback (most recent call last):
+  File "scripts/correo_adjunto.py", line 54, in <module>
+    mailAdjunto()
+  File "scripts/correo_adjunto.py", line 47, in mailAdjunto
+    sesion_smtp = smtplib.SMTP('smtp.gmail.com', 587)
+  File "/usr/lib/python3.6/smtplib.py", line 251, in __init__
+    (code, msg) = self.connect(host, port)
+  File "/usr/lib/python3.6/smtplib.py", line 336, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "/usr/lib/python3.6/smtplib.py", line 307, in _get_socket
+    self.source_address)
+  File "/usr/lib/python3.6/socket.py", line 704, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "/usr/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
