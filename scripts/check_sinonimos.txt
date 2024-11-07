@@ -1,6 +1,14 @@
-Tue Nov 5 20:50:01 CST 2024
+Wed Nov 6 20:50:01 CST 2024
 Empieza check_sinonimos...
 Successful login
+compara etiquetas
+El sinonimo  10079PECES  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  10085PECES  ya no tiene etiquetas
+
+
 compara etiquetas
 El sinonimo  10315MOLUS  ya no tiene etiquetas
 
@@ -32,6 +40,10 @@ El sinonimo  20721ANGIO  ya no tiene etiquetas
 
 compara etiquetas
 El sinonimo  20734ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  232552PECES  ya no tiene etiquetas
 
 
 compara etiquetas
@@ -163,7 +175,23 @@ El sinonimo  35997ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  44402ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  44557ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  45946ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  46708ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  49246ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
@@ -227,7 +255,19 @@ El sinonimo  55420ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  55444ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  55720ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  55743ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  55784ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
@@ -264,6 +304,10 @@ El sinonimo  64929ANGIO  ya no tiene etiquetas
 
 compara etiquetas
 El sinonimo  66451ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  67082GIMNO  ya no tiene etiquetas
 
 
 compara etiquetas
@@ -391,11 +435,19 @@ El sinonimo  75111ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
+El sinonimo  7550PECES  ya no tiene etiquetas
+
+
+compara etiquetas
 El sinonimo  75731ANGIO  ya no tiene etiquetas
 
 
 compara etiquetas
 El sinonimo  75732ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  7636PECES  ya no tiene etiquetas
 
 
 compara etiquetas
@@ -420,5 +472,13 @@ El sinonimo  7914ANGIO  ya no tiene etiquetas
 
 compara etiquetas
 El sinonimo  80094ANGIO  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  8071PECES  ya no tiene etiquetas
+
+
+compara etiquetas
+El sinonimo  9148ANGIO  ya no tiene etiquetas
 
 
