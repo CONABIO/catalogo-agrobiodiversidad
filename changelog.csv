@@ -5716,3 +5716,75 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2024-08-26,9148ANGIO,Registro editado,comentarios_revision,"Nombre válido para esta especie es Opuntia leucotricha DC.,1828","Nombre válido para esta especie es Opuntia leucotricha DC.,1828 - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
 2024-08-27,55694ANGIO,Registro nuevo,,,,ooliver
 2024-08-27,286471ANGIO,Registro nuevo,,,,ooliver
+2024-11-06,19366GIMNO,Registro nuevo,,,,Bot validacion
+2024-11-06,287918PECES,Registro nuevo,,,,Bot validacion
+2024-11-06,286386ANGIO,Registro nuevo,,,,Bot validacion
+2024-11-06,287845PECES,Registro nuevo,,,,Bot validacion
+2024-11-06,287840PECES,Registro nuevo,,,,Bot validacion
+2024-11-06,230697ANGIO,Registro nuevo,,,,Bot validacion
+2024-11-06,287349PECES,Registro nuevo,,,,Bot validacion
+2024-11-06,6219PECES,Registro nuevo,,,,Bot validacion
+2024-11-06,287769PECES,Registro nuevo,,,,Bot validacion
+2024-11-06,19372GIMNO,Registro editado,taxon,Pinus strobiformis,Pinus (Strobus) strobiformis,Bot validacion
+2024-11-06,45946ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,45946ANGIO,Registro editado,id_valido,45946ANGIO,49297ANGIO,Bot validacion
+2024-11-06,45946ANGIO,Registro editado,taxon_valido,Tagetes jaliscensis,Tagetes triradiata,Bot validacion
+2024-11-06,45946ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,232552PECES,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,232552PECES,Registro editado,id_valido,232552PECES,287349PECES,Bot validacion
+2024-11-06,232552PECES,Registro editado,taxon_valido,Beringraja inornata,Caliraja inornata,Bot validacion
+2024-11-06,232552PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,9148ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,9148ANGIO,Registro editado,id_valido,9148ANGIO,9214ANGIO,Bot validacion
+2024-11-06,9148ANGIO,Registro editado,taxon_valido,Opuntia durangensis,Opuntia leucotricha,Bot validacion
+2024-11-06,7582PECES,Registro editado,taxon,Orthopristis chalceus,Orthopristis chalcea,Bot validacion
+2024-11-06,55544ANGIO,Registro editado,taxon,Agave (Littaea) glomeruliflora,Agave (Littaea) x glomeruliflora,Bot validacion
+2024-11-06,67082GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,67082GIMNO,Registro editado,id_valido,67082GIMNO,19366GIMNO,Bot validacion
+2024-11-06,67082GIMNO,Registro editado,taxon_valido,Pinus (Strobus) (Quinquefoliae) (Strobus) flexilis var. reflexa,Pinus x reflexa,Bot validacion
+2024-11-06,67082GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,55694ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2024-11-06,46708ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,46708ANGIO,Registro editado,id_valido,46708ANGIO,49061ANGIO,Bot validacion
+2024-11-06,46708ANGIO,Registro editado,taxon_valido,Tagetes microglossa,Tagetes tenuifolia,Bot validacion
+2024-11-06,46708ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,55784ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,55784ANGIO,Registro editado,id_valido,55784ANGIO,286386ANGIO,Bot validacion
+2024-11-06,55784ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,55444ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,55444ANGIO,Registro editado,id_valido,55444ANGIO,55694ANGIO,Bot validacion
+2024-11-06,55444ANGIO,Registro editado,taxon_valido,Agave (Littaea) colimana,Agave (Littaea) ortgiesiana,Bot validacion
+2024-11-06,55444ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,49246ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,49246ANGIO,Registro editado,id_valido,49246ANGIO,230697ANGIO,Bot validacion
+2024-11-06,49246ANGIO,Registro editado,taxon_valido,Porophyllum tridentatum,Bajacalia tridentata,Bot validacion
+2024-11-06,49246ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,7550PECES,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,7550PECES,Registro editado,id_valido,7550PECES,287918PECES,Bot validacion
+2024-11-06,7550PECES,Registro editado,taxon_valido,Ophioscion strabo,Stellifer strabo,Bot validacion
+2024-11-06,7550PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,286471ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2024-11-06,44402ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,44402ANGIO,Registro editado,id_valido,44402ANGIO,45371ANGIO,Bot validacion
+2024-11-06,44402ANGIO,Registro editado,taxon_valido,Porophyllum confertum,Porophyllum gracile,Bot validacion
+2024-11-06,44402ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,55720ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,55720ANGIO,Registro editado,id_valido,55720ANGIO,286471ANGIO,Bot validacion
+2024-11-06,55720ANGIO,Registro editado,taxon_valido,Agave petrophila,Echinoagave petrophila,Bot validacion
+2024-11-06,10085PECES,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,10085PECES,Registro editado,id_valido,10085PECES,6219PECES,Bot validacion
+2024-11-06,10085PECES,Registro editado,taxon_valido,Carangoides vinctus,Caranx vinctus,Bot validacion
+2024-11-06,10085PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,10079PECES,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,10079PECES,Registro editado,id_valido,10079PECES,287769PECES,Bot validacion
+2024-11-06,10079PECES,Registro editado,taxon_valido,Carangoides otrynter,Euprepocaranx dorsalis,Bot validacion
+2024-11-06,10079PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,7636PECES,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,7636PECES,Registro editado,id_valido,7636PECES,287840PECES,Bot validacion
+2024-11-06,7636PECES,Registro editado,taxon_valido,Paranthias colonus,Cephalopholis colonus,Bot validacion
+2024-11-06,7636PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,8071PECES,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2024-11-06,8071PECES,Registro editado,id_valido,8071PECES,287845PECES,Bot validacion
+2024-11-06,8071PECES,Registro editado,taxon_valido,Semicossyphus pulcher,Bodianus pulcher,Bot validacion
+2024-11-06,8071PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2024-11-06,74878ANGIO,Registro editado,taxon,Salvia palmeri,Salvia x palmeri,Bot validacion
