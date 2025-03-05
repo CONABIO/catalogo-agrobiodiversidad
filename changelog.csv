@@ -5788,3 +5788,9 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2024-11-06,8071PECES,Registro editado,taxon_valido,Semicossyphus pulcher,Bodianus pulcher,Bot validacion
 2024-11-06,8071PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
 2024-11-06,74878ANGIO,Registro editado,taxon,Salvia palmeri,Salvia x palmeri,Bot validacion
+2025-03-04,61807ANGIO,Registro nuevo,,,,ooliver
+2025-03-04,55106ANGIO,Registro editado,estatus,Aceptado/Válido,,listado-admin
+2025-03-04,55106ANGIO,Registro editado,id_valido,55106ANGIO,61807ANGIO,listado-admin
+2025-03-04,55106ANGIO,Registro editado,taxon_valido,Solanum (Solanum) (Holophylla) narcoticosmum,Solanum (Solanum) narcoticosmum,listado-admin
+2025-03-04,55106ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
+2025-03-04,55106ANGIO,Registro editado,comentarios_revision,,Se le quitan etiquetas a este taxón 55106ANGIO,listado-admin
