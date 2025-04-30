@@ -1,4 +1,4 @@
-Mon Apr 28 20:50:01 CST 2025
+Tue Apr 29 20:50:01 CST 2025
 Empieza check_sinonimos...
 Successful login
 compara etiquetas
@@ -306,12 +306,10 @@ compara etiquetas
 El sinonimo  66451ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  67082GIMNO  ya no tiene etiquetas
+El id  67082GIMNO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  67120GIMNO  ya no tiene etiquetas
+El id  67120GIMNO  tiene un id_valido None
 
 
 compara etiquetas
