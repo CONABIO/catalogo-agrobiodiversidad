@@ -5795,3 +5795,7 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2025-03-04,55106ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,listado-admin
 2025-03-04,55106ANGIO,Registro editado,comentarios_revision,,Se le quitan etiquetas a este taxón 55106ANGIO,listado-admin
 2025-04-15,41424ANGIO,Registro nuevo,,,,ooliver
+2025-04-29,67120GIMNO,Registro editado,id_valido,19324GIMNO,,Bot validacion
+2025-04-29,67120GIMNO,Registro editado,taxon_valido,Pinus (Strobus) chiapensis,,Bot validacion
+2025-04-29,67082GIMNO,Registro editado,id_valido,19366GIMNO,,Bot validacion
+2025-04-29,67082GIMNO,Registro editado,taxon_valido,Pinus x reflexa,,Bot validacion
