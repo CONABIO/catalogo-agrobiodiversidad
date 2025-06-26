@@ -5799,3 +5799,113 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2025-04-29,67120GIMNO,Registro editado,taxon_valido,Pinus (Strobus) chiapensis,,Bot validacion
 2025-04-29,67082GIMNO,Registro editado,id_valido,19366GIMNO,,Bot validacion
 2025-04-29,67082GIMNO,Registro editado,taxon_valido,Pinus x reflexa,,Bot validacion
+2025-06-25,291603ANGIO,Registro nuevo,,,,Bot validacion
+2025-06-25,64761ANGIO,Registro nuevo,,,,Bot validacion
+2025-06-25,80070ANGIO,Registro nuevo,,,,Bot validacion
+2025-06-25,55466ANGIO,Registro nuevo,,,,Bot validacion
+2025-06-25,53773COLEO,Registro nuevo,,,,Bot validacion
+2025-06-25,290492ANGIO,Registro nuevo,,,,Bot validacion
+2025-06-25,58218ANGIO,Registro nuevo,,,,Bot validacion
+2025-06-25,290605ANGIO,Registro nuevo,,,,Bot validacion
+2025-06-25,10651ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,10651ANGIO,Registro editado,id_valido,10651ANGIO,9214ANGIO,Bot validacion
+2025-06-25,10651ANGIO,Registro editado,taxon_valido,Opuntia zamudioi,Opuntia leucotricha,Bot validacion
+2025-06-25,10651ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,72962ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,72962ANGIO,Registro editado,id_valido,72962ANGIO,33767ANGIO,Bot validacion
+2025-06-25,72962ANGIO,Registro editado,taxon_valido,Salvia axillaris var. axillaris,Salvia axillaris,Bot validacion
+2025-06-25,72962ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,19366GIMNO,Registro editado,taxon,Pinus x reflexa,Pinus reflexa,Bot validacion
+2025-06-25,19366GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,19366GIMNO,Registro editado,id_valido,19366GIMNO,67082GIMNO,Bot validacion
+2025-06-25,19366GIMNO,Registro editado,taxon_valido,Pinus x reflexa,Pinus (Strobus) flexilis var. reflexa,Bot validacion
+2025-06-25,19366GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,67082GIMNO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2025-06-25,67082GIMNO,Registro editado,id_valido,,67082GIMNO,Bot validacion
+2025-06-25,67082GIMNO,Registro editado,taxon_valido,,Pinus (Strobus) flexilis var. reflexa,Bot validacion
+2025-06-25,67082GIMNO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2025-06-25,67082GIMNO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2025-06-25,55712ANGIO,Registro editado,taxon,Agave (Littaea) peacockii,Agave (Littaea) x peacockii,Bot validacion
+2025-06-25,43783ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,43783ANGIO,Registro editado,id_valido,43783ANGIO,43744ANGIO,Bot validacion
+2025-06-25,43783ANGIO,Registro editado,taxon_valido,Dahlia barkerae,Dahlia australis,Bot validacion
+2025-06-25,43783ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,57713ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,57713ANGIO,Registro editado,id_valido,57713ANGIO,33788ANGIO,Bot validacion
+2025-06-25,57713ANGIO,Registro editado,taxon_valido,Salvia puberula,Salvia involucrata,Bot validacion
+2025-06-25,57713ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,53772COLEO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,53772COLEO,Registro editado,id_valido,53772COLEO,53773COLEO,Bot validacion
+2025-06-25,53772COLEO,Registro editado,taxon_valido,Cybister flavocinctus,Cybister (Cybister) fimbriolatus,Bot validacion
+2025-06-25,53772COLEO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,64453ANGIO,Registro editado,taxon,Salvia polystachya subsp. polystachya,Salvia polystachia subsp. polystachya,Bot validacion
+2025-06-25,71330ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,71330ANGIO,Registro editado,id_valido,71330ANGIO,43744ANGIO,Bot validacion
+2025-06-25,71330ANGIO,Registro editado,taxon_valido,Dahlia australis var. serratior,Dahlia australis,Bot validacion
+2025-06-25,71330ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,70672ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,70672ANGIO,Registro editado,id_valido,70672ANGIO,43744ANGIO,Bot validacion
+2025-06-25,70672ANGIO,Registro editado,taxon_valido,Dahlia australis var. chiapensis,Dahlia australis,Bot validacion
+2025-06-25,70672ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,9119ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,9119ANGIO,Registro editado,id_valido,9119ANGIO,291603ANGIO,Bot validacion
+2025-06-25,9119ANGIO,Registro editado,taxon_valido,Opuntia cantabrigiensis,Opuntia engelmannii subsp. cuija,Bot validacion
+2025-06-25,9119ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,74323ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,74323ANGIO,Registro editado,id_valido,74323ANGIO,35360ANGIO,Bot validacion
+2025-06-25,74323ANGIO,Registro editado,taxon_valido,Eryngium bromeliifolium,Eryngium monocephalum,Bot validacion
+2025-06-25,74323ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,65069ANGIO,Registro editado,taxon,Diospyros acapulcensis subsp. veraecrucis,Diospyros acapulcensis subsp. verae-crucis,Bot validacion
+2025-06-25,19324GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,19324GIMNO,Registro editado,id_valido,19324GIMNO,67120GIMNO,Bot validacion
+2025-06-25,19324GIMNO,Registro editado,taxon_valido,Pinus (Strobus) chiapensis,Pinus (Strobus) strobus var. chiapensis,Bot validacion
+2025-06-25,19324GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,77878ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,77878ANGIO,Registro editado,id_valido,77878ANGIO,58218ANGIO,Bot validacion
+2025-06-25,77878ANGIO,Registro editado,taxon_valido,Euphorbia milii var. splendens,Euphorbia splendens,Bot validacion
+2025-06-25,77878ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,70594ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,70594ANGIO,Registro editado,id_valido,70594ANGIO,43744ANGIO,Bot validacion
+2025-06-25,70594ANGIO,Registro editado,taxon_valido,Dahlia australis var. australis,Dahlia australis,Bot validacion
+2025-06-25,70594ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,9198ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,9198ANGIO,Registro editado,id_valido,9198ANGIO,9327ANGIO,Bot validacion
+2025-06-25,9198ANGIO,Registro editado,taxon_valido,Opuntia jaliscana,Opuntia tomentosa,Bot validacion
+2025-06-25,9198ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,63340ANGIO,Registro editado,taxon,Solanum melongena,Solanum (Leptostemomum) melongena,Bot validacion
+2025-06-25,67120GIMNO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2025-06-25,67120GIMNO,Registro editado,id_valido,,67120GIMNO,Bot validacion
+2025-06-25,67120GIMNO,Registro editado,taxon_valido,,Pinus (Strobus) strobus var. chiapensis,Bot validacion
+2025-06-25,67120GIMNO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2025-06-25,67120GIMNO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2025-06-25,36395ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,36395ANGIO,Registro editado,id_valido,36395ANGIO,80070ANGIO,Bot validacion
+2025-06-25,36395ANGIO,Registro editado,taxon_valido,Gossypium davidsonii,Gossypium klotzschianum subsp. davidsonii,Bot validacion
+2025-06-25,36395ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,77110ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,77110ANGIO,Registro editado,id_valido,77110ANGIO,290605ANGIO,Bot validacion
+2025-06-25,77110ANGIO,Registro editado,taxon_valido,Hylocereus undatus subsp. undatus,Selenicereus undatus,Bot validacion
+2025-06-25,77110ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,9100ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,9100ANGIO,Registro editado,id_valido,9100ANGIO,9334ANGIO,Bot validacion
+2025-06-25,9100ANGIO,Registro editado,taxon_valido,Opuntia atropes,Opuntia velutina,Bot validacion
+2025-06-25,9100ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,8043ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,8043ANGIO,Registro editado,id_valido,8043ANGIO,290605ANGIO,Bot validacion
+2025-06-25,8043ANGIO,Registro editado,taxon_valido,Hylocereus undatus,Selenicereus undatus,Bot validacion
+2025-06-25,8043ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,64927ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,64927ANGIO,Registro editado,id_valido,64927ANGIO,55807ANGIO,Bot validacion
+2025-06-25,64927ANGIO,Registro editado,taxon_valido,Agave (Agave) shawii subsp. shawii,Agave (Agave) shawii,Bot validacion
+2025-06-25,36344ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,36344ANGIO,Registro editado,id_valido,36344ANGIO,290492ANGIO,Bot validacion
+2025-06-25,36344ANGIO,Registro editado,taxon_valido,Chenopodium macrospermum,Oxybasis macrosperma,Bot validacion
+2025-06-25,36344ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,70772ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,70772ANGIO,Registro editado,id_valido,70772ANGIO,64761ANGIO,Bot validacion
+2025-06-25,70772ANGIO,Registro editado,taxon_valido,Helianthus petiolaris var. fallax,Helianthus petiolaris subsp. fallax,Bot validacion
+2025-06-25,70772ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2025-06-25,55463ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2025-06-25,55463ANGIO,Registro editado,id_valido,55463ANGIO,55466ANGIO,Bot validacion
+2025-06-25,55463ANGIO,Registro editado,taxon_valido,Agave (Littaea) (Striatae) dasylirioides,Agave (Littaea) dealbata,Bot validacion
+2025-06-25,55463ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
