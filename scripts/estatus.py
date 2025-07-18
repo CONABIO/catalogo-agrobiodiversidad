@@ -214,7 +214,7 @@ def sendeMail(string):
     Recibe como parametro un string con los ids a los que se necesita dar seguimiento.
     '''
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
-    destinatario = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
+    destinatario = ["Oswaldo <oswaldo.oliveros@conabio.gob.mx>","MAO <morjuela@conabio.gob.mx>"]
     asunto = "Aviso: no se encontro ID de taxon" 
     mensaje = """´En la validacion diaria de registros entre Zacatuche con nuestra base de datos de catalogo-agrobiodiversidad, se detecto que los siguientes IDs no se encontraron en Zacatuche. Favor de dar seguimiento a los casos. Para mas informacion sobre el script estatus.py favor de revisar https://github.com/CONABIO/catalogo-agrobiodiversidad#comparaci%C3%B3n-del-listado-contra-el-snib, o bien la seccion de monitoreo - Listado de agrobiodiversidad - Comparacion del listado contra el SNIB en la ruta J/USUARIOS/CARB/SIAgroBD/documentacion_servidores/documentacion.pdf
 
@@ -355,5 +355,5 @@ if __name__ == '__main__':
 
     except:
         print("Error al ejecutar script que compara el listado contra Zacatuche")
-        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","MAO <morjuela@conabio.gob.mx>"]
         sendWarning("estatus.py de compareZacatuche", destinatarios)
