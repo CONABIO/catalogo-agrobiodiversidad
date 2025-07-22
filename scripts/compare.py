@@ -1,4 +1,3 @@
-
 '''
 Este script compara el archivo `anterior.csv` contra `actual.csv`.
 Ambos archivos csv contienen las mismas columnas. 
@@ -223,5 +222,5 @@ if __name__ == '__main__':
 
     except:
         print("Error al actualizar el listado de agrobiodiversidad")
-        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","MAO <morjuela@conabio.gob.mx>"]
         sendeMail("compare.py de actualizaciones_agro", destinatarios)

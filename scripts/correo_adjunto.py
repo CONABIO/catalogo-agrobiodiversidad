@@ -7,7 +7,7 @@ from email import encoders
 def mailAdjunto():
     # Iniciamos los parámetros del script
     remitente = 'siagro@siagro.conabio.gob.mx'
-    destinatarios = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
+    destinatarios = ["Oswaldo <oswaldo.oliveros@conabio.gob.mx>","MAO <morjuela@conabio.gob.mx>"]
     asunto = 'Revisar etiquetas con Oswa y Mao'
     cuerpo = """Verifica si en los logs hay sinonimos con etiquetas que necesiten revisarse con Oswa y Mao.
 

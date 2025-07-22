@@ -104,7 +104,7 @@ def delete_pendiente(id):
 def mailAdjunto():
     # Iniciamos los parametros del script
     remitente = 'siagro@siagro.conabio.gob.mx'
-    destinatarios = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"], "Mao <morjuela@conabio.gob.mx>"]
+    destinatarios = ["Oswaldo <oswaldo.oliveros@conabio.gob.mx>", "MAO <morjuela@conabio.gob.mx>"]
     asunto = 'Revisar taxones con id pendiente'
     cuerpo = """La lista adjunta de taxones pendientes tiene similitudes con los taxones indicados, favor de revisar los campos categoria_agrobiodiversidad, es_parientesilvestre, es_domesticado y es_quelite.
 
@@ -238,7 +238,7 @@ if __name__ == '__main__':
         get_pendientes()
     except:
         print("Error al ejecutar script que revisa los IDs pendientes mensual")
-        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","MAO <morjuela@conabio.gob.mx>"]
         sendWarning("check_pendiente_mensual.py de check_pendiente_mensual", destinatarios)
 
     

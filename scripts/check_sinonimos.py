@@ -261,6 +261,6 @@ if __name__ == '__main__':
         get_sinonimos()
     except:
         print("Error al ejecutar script que revisa los sinonimos del listado")
-        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","MAO <morjuela@conabio.gob.mx>"]
         sendWarning("check_sinonimos.py de check_sinonimos", destinatarios)
     

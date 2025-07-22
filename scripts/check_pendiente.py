@@ -94,7 +94,7 @@ def sendeMail(string):
     Recibe como parámetro un string con los ids a los que se necesita dar seguimiento.
     '''
     remitente = "SIAgro <siagro@siagro.conabio.gob.mx>" 
-    destinatario = ["Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>", "Mao <morjuela@conabio.gob.mx>"]
+    destinatario = ["Oswaldo <oswaldo.oliveros@conabio.gob.mx>", "MAO <morjuela@conabio.gob.mx>"]
     asunto = "Revisar taxones con id pendiente" 
     mensaje = """La siguiente lista de taxones pendientes tiene similitudes con los taxones indicados, favor de revisar los campos categoria_agrobiodiversidad, es_parientesilvestre, es_domesticado y es_quelite.
 
@@ -192,5 +192,5 @@ if __name__ == '__main__':
         get_pendientes()
     except:
         print("Error al ejecutar script que revisa los IDs pendientes")
-        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Alicia <amastretta@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","Irma <ihernandez@conabio.gob.mx>"]
+        destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>","Oswaldo <oswaldo.oliveros@conabio.gob.mx>","MAO <morjuela@conabio.gob.mx>"]
         sendWarning("check_pendiente.py de check_pendiente", destinatarios)
