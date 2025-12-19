@@ -1,4 +1,4 @@
-Wed Dec 17 20:50:01 CST 2025
+Thu Dec 18 20:50:01 CST 2025
 Empieza check_sinonimos...
 Successful login
 compara etiquetas
@@ -31,6 +31,9 @@ El sinonimo  17826ANGIO  ya no tiene etiquetas
 
 compara etiquetas
 El sinonimo  19324GIMNO  ya no tiene etiquetas
+
+
+El id  19330GIMNO  tiene un id_valido None
 
 
 compara etiquetas
