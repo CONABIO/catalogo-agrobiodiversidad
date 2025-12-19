@@ -5912,3 +5912,6 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2025-07-11,277450PECES,Registro nuevo,,,,ooliver
 2025-07-11,6892PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,ooliver
 2025-07-11,6892PECES,Registro editado,comentarios_revision,,"Se le quita la etiqueta agrobiodiversidad. Este taxa fue eliminado del CAT por no tener presencia en el país y de acuerdo con Fricke et al. (2024) quien concluye que los registros en México de Castro-Aguirre & Espinosa-Pérez en 1996, corresponden a Gymnura lessae",ooliver
+2025-12-18,19330GIMNO,Registro nuevo,,,,Bot validacion
+2025-12-18,67142GIMNO,Registro editado,id_valido,36602GIMNO,19330GIMNO,Bot validacion
+2025-12-18,67142GIMNO,Registro editado,taxon_valido,Pinus (Strobus) johannis,Pinus (Strobus) discolor,Bot validacion
