@@ -5915,3 +5915,5 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2025-12-18,19330GIMNO,Registro nuevo,,,,Bot validacion
 2025-12-18,67142GIMNO,Registro editado,id_valido,36602GIMNO,19330GIMNO,Bot validacion
 2025-12-18,67142GIMNO,Registro editado,taxon_valido,Pinus (Strobus) johannis,Pinus (Strobus) discolor,Bot validacion
+2025-12-22,19324GIMNO,Registro editado,id_valido,67120GIMNO,,Bot validacion
+2025-12-22,19324GIMNO,Registro editado,taxon_valido,Pinus (Strobus) strobus var. chiapensis,,Bot validacion
