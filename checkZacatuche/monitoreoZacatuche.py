@@ -142,7 +142,6 @@ except requests.Timeout as err:
             msg = f"EXISTE UN ERROR EN EL SERVIDOR. CODIGO DE ERROR: {code}"
             destinatarios = ["Vicente <vicente.herrera@conabio.gob.mx>",
             "Oswaldo <oswaldo.oliveros@conabio.gob.mx>",
-            "MAO <morjuela@conabio.gob.mx>",
             "Juan <jbarrios@conabio.gob.mx>"]
             print(msg)
             sendeMail(msg, destinatarios)
