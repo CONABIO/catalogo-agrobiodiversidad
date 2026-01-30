@@ -5917,3 +5917,14 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2025-12-18,67142GIMNO,Registro editado,taxon_valido,Pinus (Strobus) johannis,Pinus (Strobus) discolor,Bot validacion
 2025-12-22,19324GIMNO,Registro editado,id_valido,67120GIMNO,,Bot validacion
 2025-12-22,19324GIMNO,Registro editado,taxon_valido,Pinus (Strobus) strobus var. chiapensis,,Bot validacion
+2026-01-29,74910ANGIO,Registro nuevo,,,,Bot validacion
+2026-01-29,78072ANGIO,Registro editado,id_valido,33800ANGIO,,Bot validacion
+2026-01-29,78072ANGIO,Registro editado,taxon_valido,Salvia mocinoi,,Bot validacion
+2026-01-29,74389ANGIO,Registro editado,id_valido,33798ANGIO,,Bot validacion
+2026-01-29,74389ANGIO,Registro editado,taxon_valido,Salvia misella,,Bot validacion
+2026-01-29,74790ANGIO,Registro editado,id_valido,74815ANGIO,74910ANGIO,Bot validacion
+2026-01-29,74790ANGIO,Registro editado,taxon_valido,Salvia darcyi,Salvia schaffneri,Bot validacion
+2026-01-29,74887ANGIO,Registro editado,id_valido,74388ANGIO,33820ANGIO,Bot validacion
+2026-01-29,74887ANGIO,Registro editado,taxon_valido,Salvia prasiifolia,Salvia albiflora,Bot validacion
+2026-01-29,74919ANGIO,Registro editado,id_valido,28636ANGIO,,Bot validacion
+2026-01-29,74919ANGIO,Registro editado,taxon_valido,Salvia lavanduloides,,Bot validacion
