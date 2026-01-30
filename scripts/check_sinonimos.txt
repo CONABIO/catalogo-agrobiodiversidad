@@ -1,4 +1,4 @@
-Wed Jan 28 20:50:01 CST 2026
+Thu Jan 29 20:50:01 CST 2026
 Empieza check_sinonimos...
 Successful login
 compara etiquetas
@@ -420,8 +420,7 @@ compara etiquetas
 El sinonimo  74382ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  74389ANGIO  ya no tiene etiquetas
+El id  74389ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -468,8 +467,7 @@ compara etiquetas
 El sinonimo  74907ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  74919ANGIO  ya no tiene etiquetas
+El id  74919ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -520,8 +518,7 @@ compara etiquetas
 El sinonimo  77878ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  78072ANGIO  ya no tiene etiquetas
+El id  78072ANGIO  tiene un id_valido None
 
 
 compara etiquetas
