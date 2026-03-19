@@ -1,12 +1,11 @@
-Tue Mar 17 20:50:01 CST 2026
+Wed Mar 18 20:50:01 CST 2026
 Empieza check_sinonimos...
 Successful login
 compara etiquetas
 El sinonimo  10079PECES  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  10085PECES  ya no tiene etiquetas
+El id  10085PECES  tiene un id_valido None
 
 
 compara etiquetas
@@ -17,8 +16,7 @@ compara etiquetas
 El sinonimo  10647ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  10651ANGIO  ya no tiene etiquetas
+El id  10651ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -35,17 +33,14 @@ El id  19324GIMNO  tiene un id_valido None
 El id  19330GIMNO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  19366GIMNO  ya no tiene etiquetas
+El id  19366GIMNO  tiene un id_valido None
 
 
 El id  19790ANGIO  no se encuentra en zacatuche
-compara etiquetas
-El sinonimo  20682ANGIO  ya no tiene etiquetas
+El id  20682ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  20691ANGIO  ya no tiene etiquetas
+El id  20691ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -92,24 +87,20 @@ compara etiquetas
 El sinonimo  26460ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  26869ANGIO  ya no tiene etiquetas
+El id  26869ANGIO  tiene un id_valido None
 
 
 compara etiquetas
 El sinonimo  27356ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  27378ANGIO  ya no tiene etiquetas
+El id  27378ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  27430ANGIO  ya no tiene etiquetas
+El id  27430ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  27912ANGIO  ya no tiene etiquetas
+El id  27912ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -152,8 +143,7 @@ compara etiquetas
 El sinonimo  35038ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  35117ANGIO  ya no tiene etiquetas
+El id  35117ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -168,8 +158,7 @@ compara etiquetas
 El sinonimo  35170ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  35173ANGIO  ya no tiene etiquetas
+El id  35173ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -184,8 +173,7 @@ compara etiquetas
 El sinonimo  35927ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  35997ANGIO  ya no tiene etiquetas
+El id  35997ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -220,44 +208,34 @@ compara etiquetas
 El sinonimo  49246ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  49719ANGIO  ya no tiene etiquetas
+El id  49719ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  49720ANGIO  ya no tiene etiquetas
+El id  49720ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  49734ANGIO  ya no tiene etiquetas
+El id  49734ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  49744ANGIO  ya no tiene etiquetas
+El id  49744ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  50593ANGIO  ya no tiene etiquetas
+El id  50593ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  50815ANGIO  ya no tiene etiquetas
+El id  50815ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  50899ANGIO  ya no tiene etiquetas
+El id  50899ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  51486ANGIO  ya no tiene etiquetas
+El id  51486ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  51971ANGIO  ya no tiene etiquetas
+El id  51971ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  52198ANGIO  ya no tiene etiquetas
+El id  52198ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -268,8 +246,7 @@ compara etiquetas
 El sinonimo  53772COLEO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  54845ANGIO  ya no tiene etiquetas
+El id  54845ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -284,8 +261,7 @@ compara etiquetas
 El sinonimo  55420ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  55444ANGIO  ya no tiene etiquetas
+El id  55444ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -304,8 +280,7 @@ compara etiquetas
 El sinonimo  55784ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  55861ANGIO  ya no tiene etiquetas
+El id  55861ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -324,24 +299,20 @@ compara etiquetas
 El sinonimo  57717ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  61770ANGIO  ya no tiene etiquetas
+El id  61770ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  64813ANGIO  ya no tiene etiquetas
+El id  64813ANGIO  tiene un id_valido None
 
 
 compara etiquetas
 El sinonimo  64923ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  64927ANGIO  ya no tiene etiquetas
+El id  64927ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  64929ANGIO  ya no tiene etiquetas
+El id  64929ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -372,28 +343,23 @@ compara etiquetas
 El sinonimo  71330ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  71687ANGIO  ya no tiene etiquetas
+El id  71687ANGIO  tiene un id_valido None
 
 
 compara etiquetas
 El sinonimo  71708ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  71717ANGIO  ya no tiene etiquetas
+El id  71717ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  71780ANGIO  ya no tiene etiquetas
+El id  71780ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  71852ANGIO  ya no tiene etiquetas
+El id  71852ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  7227PECES  ya no tiene etiquetas
+El id  7227PECES  tiene un id_valido None
 
 
 compara etiquetas
@@ -502,8 +468,7 @@ compara etiquetas
 El sinonimo  75732ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  7636PECES  ya no tiene etiquetas
+El id  7636PECES  tiene un id_valido None
 
 
 compara etiquetas
@@ -521,8 +486,7 @@ El sinonimo  77878ANGIO  ya no tiene etiquetas
 El id  78072ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  79033ANGIO  ya no tiene etiquetas
+El id  79033ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -533,8 +497,7 @@ compara etiquetas
 El sinonimo  7914ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  80094ANGIO  ya no tiene etiquetas
+El id  80094ANGIO  tiene un id_valido None
 
 
 compara etiquetas
@@ -545,19 +508,16 @@ compara etiquetas
 El sinonimo  8071PECES  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  9100ANGIO  ya no tiene etiquetas
+El id  9100ANGIO  tiene un id_valido None
 
 
 compara etiquetas
 El sinonimo  9119ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  9148ANGIO  ya no tiene etiquetas
+El id  9148ANGIO  tiene un id_valido None
 
 
-compara etiquetas
-El sinonimo  9198ANGIO  ya no tiene etiquetas
+El id  9198ANGIO  tiene un id_valido None
 
 
