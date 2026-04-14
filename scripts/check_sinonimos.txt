@@ -1,4 +1,4 @@
-Sun Apr 12 20:50:02 CST 2026
+Mon Apr 13 20:50:01 CST 2026
 Empieza check_sinonimos...
 Successful login
 compara etiquetas
@@ -84,8 +84,7 @@ compara etiquetas
 El sinonimo  252899ANGIO  ya no tiene etiquetas
 
 
-compara etiquetas
-El sinonimo  254214ANGIO  ya no tiene etiquetas
+El id  254214ANGIO  tiene un id_valido None
 
 
 compara etiquetas
