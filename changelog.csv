@@ -6092,3 +6092,224 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2026-04-13,254214ANGIO,Registro editado,taxon_valido,Salvia reflexa,,Bot validacion
 2026-05-07,35864ANGIO,Registro editado,id_valido,35873ANGIO,,Bot validacion
 2026-05-07,35864ANGIO,Registro editado,taxon_valido,Salvia nervata,,Bot validacion
+2026-05-14,35161ANGIO,Registro nuevo,,,,Bot validacion
+2026-05-14,19429GIMNO,Registro nuevo,,,,Bot validacion
+2026-05-14,2986CRUST,Registro nuevo,,,,Bot validacion
+2026-05-14,36735ANGIO,Registro nuevo,,,,Bot validacion
+2026-05-14,292175ARACH,Registro nuevo,,,,Bot validacion
+2026-05-14,293043LEPID,Registro nuevo,,,,Bot validacion
+2026-05-14,293039LEPID,Registro nuevo,,,,Bot validacion
+2026-05-14,19326GIMNO,Registro nuevo,,,,Bot validacion
+2026-05-14,19514GIMNO,Registro nuevo,,,,Bot validacion
+2026-05-14,293044LEPID,Registro nuevo,,,,Bot validacion
+2026-05-14,239595ANGIO,Registro nuevo,,,,Bot validacion
+2026-05-14,2983CRUST,Registro nuevo,,,,Bot validacion
+2026-05-14,19491GIMNO,Registro nuevo,,,,Bot validacion
+2026-05-14,7456CRUST,Registro nuevo,,,,Bot validacion
+2026-05-14,296663ANGIO,Registro nuevo,,,,Bot validacion
+2026-05-14,295591ANGIO,Registro nuevo,,,,Bot validacion
+2026-05-14,2982CRUST,Registro nuevo,,,,Bot validacion
+2026-05-14,292486LEPID,Registro nuevo,,,,Bot validacion
+2026-05-14,28642ANGIO,Registro nuevo,,,,Bot validacion
+2026-05-14,7457CRUST,Registro nuevo,,,,Bot validacion
+2026-05-14,293041LEPID,Registro nuevo,,,,Bot validacion
+2026-05-14,19452GIMNO,Registro nuevo,,,,Bot validacion
+2026-05-14,2144CRUST,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,2144CRUST,Registro editado,id_valido,2144CRUST,7456CRUST,Bot validacion
+2026-05-14,2144CRUST,Registro editado,taxon_valido,Farfantepenaeus aztecus,Penaeus (Farfantepenaeus) aztecus,Bot validacion
+2026-05-14,2144CRUST,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,2458LEPID,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,2458LEPID,Registro editado,id_valido,2458LEPID,292486LEPID,Bot validacion
+2026-05-14,2458LEPID,Registro editado,taxon_valido,Achlyodes pallida,Eantis pallida,Bot validacion
+2026-05-14,2458LEPID,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,2146CRUST,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,2146CRUST,Registro editado,id_valido,2146CRUST,2986CRUST,Bot validacion
+2026-05-14,2146CRUST,Registro editado,taxon_valido,Farfantepenaeus brevirostris,Penaeus (Farfantepenaeus) brevirostris,Bot validacion
+2026-05-14,2146CRUST,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74769ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74769ANGIO,Registro editado,id_valido,74769ANGIO,28605ANGIO,Bot validacion
+2026-05-14,74769ANGIO,Registro editado,taxon_valido,Hyptis septentrionalis,Hyptis urticoides,Bot validacion
+2026-05-14,74769ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,7149LEPID,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,7149LEPID,Registro editado,id_valido,7149LEPID,293044LEPID,Bot validacion
+2026-05-14,7149LEPID,Registro editado,taxon_valido,Catasticta teutila teutila,Archonias teutila subsp. teutila,Bot validacion
+2026-05-14,7149LEPID,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,57332ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,57332ANGIO,Registro editado,id_valido,57332ANGIO,57313ANGIO,Bot validacion
+2026-05-14,57332ANGIO,Registro editado,taxon_valido,Salvia rhyacophila,Salvia leptostachys,Bot validacion
+2026-05-14,57332ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,2145CRUST,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,2145CRUST,Registro editado,id_valido,2145CRUST,2982CRUST,Bot validacion
+2026-05-14,2145CRUST,Registro editado,taxon_valido,Farfantepenaeus brasiliensis,Penaeus (Farfantepenaeus) brasiliensis,Bot validacion
+2026-05-14,2145CRUST,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,35166ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,35166ANGIO,Registro editado,id_valido,35166ANGIO,296663ANGIO,Bot validacion
+2026-05-14,35166ANGIO,Registro editado,taxon_valido,Pouteria durlandii,Peteniodendron durlandii,Bot validacion
+2026-05-14,35166ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,19331GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,19331GIMNO,Registro editado,id_valido,19331GIMNO,19491GIMNO,Bot validacion
+2026-05-14,19331GIMNO,Registro editado,taxon_valido,Pinus (Pinus) (Trifoliae) (Ponderosae) douglasiana,Pinus gordoniana,Bot validacion
+2026-05-14,19331GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,75084ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,75084ANGIO,Registro editado,id_valido,75084ANGIO,74787ANGIO,Bot validacion
+2026-05-14,75084ANGIO,Registro editado,taxon_valido,Salvia betulifolia var. chasmema,Salvia betulifolia,Bot validacion
+2026-05-14,75084ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,30027ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,30027ANGIO,Registro editado,id_valido,30027ANGIO,239595ANGIO,Bot validacion
+2026-05-14,30027ANGIO,Registro editado,taxon_valido,Psidium sartorianum,Psidium oligospermum,Bot validacion
+2026-05-14,30027ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74828ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74828ANGIO,Registro editado,id_valido,74828ANGIO,33820ANGIO,Bot validacion
+2026-05-14,74828ANGIO,Registro editado,taxon_valido,Salvia fusca,Salvia albiflora,Bot validacion
+2026-05-14,74828ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,67040GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,67040GIMNO,Registro editado,id_valido,67040GIMNO,19514GIMNO,Bot validacion
+2026-05-14,67040GIMNO,Registro editado,taxon_valido,Pinus (Strobus) (Quinquefoliae) (Strobus) ayacahuite var. veitchii,Pinus veitchii,Bot validacion
+2026-05-14,67040GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,26365ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,26365ANGIO,Registro editado,id_valido,26365ANGIO,36735ANGIO,Bot validacion
+2026-05-14,26365ANGIO,Registro editado,taxon_valido,Acacia cornigera,Vachellia cornigera,Bot validacion
+2026-05-14,26365ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,68353ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,68353ANGIO,Registro editado,id_valido,68353ANGIO,33796ANGIO,Bot validacion
+2026-05-14,68353ANGIO,Registro editado,taxon_valido,Salvia microphylla var. microphylla,Salvia microphylla,Bot validacion
+2026-05-14,68353ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,33094ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,33094ANGIO,Registro editado,id_valido,33094ANGIO,254208ANGIO,Bot validacion
+2026-05-14,33094ANGIO,Registro editado,taxon_valido,Carica cauliflora,Vasconcellea cauliflora,Bot validacion
+2026-05-14,33094ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,19324GIMNO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-05-14,19324GIMNO,Registro editado,id_valido,,19324GIMNO,Bot validacion
+2026-05-14,19324GIMNO,Registro editado,taxon_valido,,Pinus (Strobus) chiapensis,Bot validacion
+2026-05-14,19324GIMNO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2026-05-14,19324GIMNO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2026-05-14,67035GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,67035GIMNO,Registro editado,id_valido,67035GIMNO,19326GIMNO,Bot validacion
+2026-05-14,67035GIMNO,Registro editado,taxon_valido,Pinus arizonica var. cooperi,Pinus cooperi,Bot validacion
+2026-05-14,67035GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,63363ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,63363ANGIO,Registro editado,id_valido,63363ANGIO,28642ANGIO,Bot validacion
+2026-05-14,63363ANGIO,Registro editado,taxon_valido,Salvia filipes,Salvia polystachia,Bot validacion
+2026-05-14,63363ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,35521ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,35521ANGIO,Registro editado,id_valido,35521ANGIO,68408ANGIO,Bot validacion
+2026-05-14,35521ANGIO,Registro editado,taxon_valido,Prunus capollin,Prunus serotina var. salicifolia,Bot validacion
+2026-05-14,35521ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74820ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74820ANGIO,Registro editado,id_valido,74820ANGIO,74804ANGIO,Bot validacion
+2026-05-14,74820ANGIO,Registro editado,taxon_valido,Salvia durantiflora,Salvia connivens,Bot validacion
+2026-05-14,74820ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74815ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74815ANGIO,Registro editado,id_valido,74815ANGIO,74910ANGIO,Bot validacion
+2026-05-14,74815ANGIO,Registro editado,taxon_valido,Salvia darcyi,Salvia schaffneri,Bot validacion
+2026-05-14,74815ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,6946LEPID,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,6946LEPID,Registro editado,id_valido,6946LEPID,293039LEPID,Bot validacion
+2026-05-14,6946LEPID,Registro editado,taxon_valido,Eurema salome jamapa,Abaeis salome subsp. jamapa,Bot validacion
+2026-05-14,6946LEPID,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,78072ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-05-14,78072ANGIO,Registro editado,id_valido,,78072ANGIO,Bot validacion
+2026-05-14,78072ANGIO,Registro editado,taxon_valido,,Salvia zacualpanensis,Bot validacion
+2026-05-14,78072ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2026-05-14,78072ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2026-05-14,67120GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,67120GIMNO,Registro editado,id_valido,67120GIMNO,19324GIMNO,Bot validacion
+2026-05-14,67120GIMNO,Registro editado,taxon_valido,Pinus (Strobus) strobus var. chiapensis,Pinus (Strobus) chiapensis,Bot validacion
+2026-05-14,67120GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74910ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-05-14,74910ANGIO,Registro editado,categoria_agrobiodiversidad,,Agrobiodiversidad,Bot validacion
+2026-05-14,35868ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,35868ANGIO,Registro editado,id_valido,35868ANGIO,78072ANGIO,Bot validacion
+2026-05-14,35868ANGIO,Registro editado,taxon_valido,Salvia flaccida,Salvia zacualpanensis,Bot validacion
+2026-05-14,35868ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74894ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74894ANGIO,Registro editado,id_valido,74894ANGIO,74784ANGIO,Bot validacion
+2026-05-14,74894ANGIO,Registro editado,taxon_valido,Salvia prunifolia,Salvia assurgens,Bot validacion
+2026-05-14,74894ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,2148CRUST,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,2148CRUST,Registro editado,id_valido,2148CRUST,2983CRUST,Bot validacion
+2026-05-14,2148CRUST,Registro editado,taxon_valido,Farfantepenaeus duorarum,Penaeus (Farfantepenaeus) duorarum,Bot validacion
+2026-05-14,2148CRUST,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,64395ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,64395ANGIO,Registro editado,id_valido,64395ANGIO,296663ANGIO,Bot validacion
+2026-05-14,64395ANGIO,Registro editado,taxon_valido,Pouteria durlandii subsp. durlandii,Peteniodendron durlandii,Bot validacion
+2026-05-14,64395ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,67139GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,67139GIMNO,Registro editado,id_valido,67139GIMNO,19429GIMNO,Bot validacion
+2026-05-14,67139GIMNO,Registro editado,taxon_valido,Pinus (Pinus) (Trifoliae) (Australes) leiophylla var. chihuahuana,Pinus chihuahuana,Bot validacion
+2026-05-14,67139GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74919ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-05-14,74919ANGIO,Registro editado,id_valido,,74919ANGIO,Bot validacion
+2026-05-14,74919ANGIO,Registro editado,taxon_valido,,Salvia subobscura,Bot validacion
+2026-05-14,74919ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2026-05-14,6855LEPID,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,6855LEPID,Registro editado,id_valido,6855LEPID,293041LEPID,Bot validacion
+2026-05-14,6855LEPID,Registro editado,taxon_valido,Catasticta nimbice nimbice,Archonias nimbice subsp. nimbice,Bot validacion
+2026-05-14,6855LEPID,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,33769ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,33769ANGIO,Registro editado,id_valido,33769ANGIO,74826ANGIO,Bot validacion
+2026-05-14,33769ANGIO,Registro editado,taxon_valido,Salvia biserrata,Salvia flaccidifolia,Bot validacion
+2026-05-14,33769ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,11444ARACH,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,11444ARACH,Registro editado,id_valido,11444ARACH,292175ARACH,Bot validacion
+2026-05-14,11444ARACH,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,34613ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,34613ANGIO,Registro editado,id_valido,34613ANGIO,295591ANGIO,Bot validacion
+2026-05-14,34613ANGIO,Registro editado,taxon_valido,Piper plantagineum,Piper amalago var. amalago,Bot validacion
+2026-05-14,34613ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74882ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74882ANGIO,Registro editado,id_valido,74882ANGIO,35891ANGIO,Bot validacion
+2026-05-14,74882ANGIO,Registro editado,taxon_valido,Salvia paupercula,Salvia melissodora,Bot validacion
+2026-05-14,74882ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,77079ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,77079ANGIO,Registro editado,id_valido,77079ANGIO,76410ANGIO,Bot validacion
+2026-05-14,77079ANGIO,Registro editado,taxon_valido,Prunus apodantha,Prunus microphylla,Bot validacion
+2026-05-14,77079ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,72816ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,72816ANGIO,Registro editado,id_valido,72816ANGIO,58206ANGIO,Bot validacion
+2026-05-14,72816ANGIO,Registro editado,taxon_valido,Salvia serotina var. sagittifolia,Salvia serotina,Bot validacion
+2026-05-14,72816ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74915ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74915ANGIO,Registro editado,id_valido,74915ANGIO,74788ANGIO,Bot validacion
+2026-05-14,74915ANGIO,Registro editado,taxon_valido,Salvia sharpii,Salvia blepharophylla,Bot validacion
+2026-05-14,74915ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74861ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74861ANGIO,Registro editado,id_valido,74861ANGIO,33820ANGIO,Bot validacion
+2026-05-14,74861ANGIO,Registro editado,taxon_valido,Salvia mazatlanensis,Salvia albiflora,Bot validacion
+2026-05-14,74861ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74389ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-05-14,74389ANGIO,Registro editado,id_valido,,74389ANGIO,Bot validacion
+2026-05-14,74389ANGIO,Registro editado,taxon_valido,,Salvia pseudomisella,Bot validacion
+2026-05-14,74389ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2026-05-14,74929ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74929ANGIO,Registro editado,id_valido,74929ANGIO,28642ANGIO,Bot validacion
+2026-05-14,74929ANGIO,Registro editado,taxon_valido,Salvia umbraticola,Salvia polystachia,Bot validacion
+2026-05-14,74929ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,19330GIMNO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-05-14,19330GIMNO,Registro editado,id_valido,,19330GIMNO,Bot validacion
+2026-05-14,19330GIMNO,Registro editado,taxon_valido,,Pinus (Strobus) discolor,Bot validacion
+2026-05-14,19330GIMNO,Registro editado,comentarios_revision,REVISAR ETIQUETA AGROBIODIVERSIDAD,REVISAR ETIQUETA AGROBIODIVERSIDAD - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2026-05-14,2147CRUST,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,2147CRUST,Registro editado,id_valido,2147CRUST,7457CRUST,Bot validacion
+2026-05-14,2147CRUST,Registro editado,taxon_valido,Farfantepenaeus californiensis,Penaeus (Farfantepenaeus) californiensis,Bot validacion
+2026-05-14,2147CRUST,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,31590ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,31590ANGIO,Registro editado,id_valido,31590ANGIO,35161ANGIO,Bot validacion
+2026-05-14,31590ANGIO,Registro editado,taxon_valido,Pouteria campechiana,Lucuma campechiana,Bot validacion
+2026-05-14,31590ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,5593LEPID,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,5593LEPID,Registro editado,id_valido,5593LEPID,293043LEPID,Bot validacion
+2026-05-14,5593LEPID,Registro editado,taxon_valido,Catasticta teutila,Archonias teutila,Bot validacion
+2026-05-14,5593LEPID,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,35864ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-05-14,35864ANGIO,Registro editado,id_valido,,35864ANGIO,Bot validacion
+2026-05-14,35864ANGIO,Registro editado,taxon_valido,,Salvia curtiflora,Bot validacion
+2026-05-14,35864ANGIO,Registro editado,comentarios_revision,, - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2026-05-14,67047GIMNO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,67047GIMNO,Registro editado,id_valido,67047GIMNO,19452GIMNO,Bot validacion
+2026-05-14,67047GIMNO,Registro editado,taxon_valido,Pinus (Pinus) (Trifoliae) (Ponderosae) pseudostrobus var. apulcensis,Pinus apulcensis,Bot validacion
+2026-05-14,67047GIMNO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-05-14,74380ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-05-14,74380ANGIO,Registro editado,id_valido,74380ANGIO,33820ANGIO,Bot validacion
+2026-05-14,74380ANGIO,Registro editado,taxon_valido,Salvia languidula,Salvia albiflora,Bot validacion
+2026-05-14,74380ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
