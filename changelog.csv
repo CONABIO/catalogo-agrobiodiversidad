@@ -6313,3 +6313,18 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2026-05-14,74380ANGIO,Registro editado,id_valido,74380ANGIO,33820ANGIO,Bot validacion
 2026-05-14,74380ANGIO,Registro editado,taxon_valido,Salvia languidula,Salvia albiflora,Bot validacion
 2026-05-14,74380ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-06-23,19191PECES,Registro nuevo,,,,Paulina Sandoval Huerta
+2026-06-23,20117PECES,Registro nuevo,,,,Paulina Sandoval Huerta
+2026-06-23,231433ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval Huerta
+2026-06-23,231433ANGIO,Registro editado,comentarios_revision,,Taxón sin distribución en México. Se localiza solo en los Estados Unidos,Paulina Sandoval Huerta
+2026-06-23,8074PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval Huerta
+2026-06-23,8074PECES,Registro editado,comentarios_revision,,Taxón sin distribución en México. De acuerdo con Fricke et al. (2024) los registros en México corresponden a Seriola dorsalis. Se distribuye en sudamericana- Chile,Paulina Sandoval Huerta
+2026-06-23,75474ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval Huerta
+2026-06-23,75474ANGIO,Registro editado,comentarios_revision,,"Taxón sin distribución en México. Fuera del área del SNIB sin fronteras. Especie del mediterráneo. No vista en herbarios mexicanos (Martínez-Gordillo, 2022 com. pers.)",Paulina Sandoval Huerta
+2026-06-23,79233ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval Huerta
+2026-06-23,79233ANGIO,Registro editado,comentarios_revision,,Taxón sin distribución en México. Fuera del área del SNIB sin fronteras. Solo se localiza en Ecuador y Perú,Paulina Sandoval Huerta
+2026-06-23,5858PECES,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval Huerta
+2026-06-23,5858PECES,Registro editado,comentarios_revision,,Taxón sin distribución en México. De acuerdo con Fricke et al. (2024) los registros en México corresponden a Albula pacifica. Se localiza en estuarios de Belice a Brasil https://biogeodb.stri.si.edu/caribbean/es/thefishes/species/4730 ,Paulina Sandoval Huerta
+2026-06-23,254214ANGIO,Registro editado,comentarios_revision,,"Taxón sin distribución en México, Martínez-Gordillo (com. pers., 2026). Sinónimo de una especie de Argentina, Uruguay y Sud-brasil, o puede ser homonimia de un mom. ilegitimo que si aplicaría a México",Paulina Sandoval Huerta
+2026-06-23,254213ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval Huerta
+2026-06-23,254213ANGIO,Registro editado,comentarios_revision,,"Nombre aplicado a ejemplares de herbario que no fueron corregidos y corresponden a Salvia decora (Bedolla García, 2012; Fragoso Martínez, 2022 com. pers.). No vista en ejemplares de herbarios (Martínez-Gordillo, 2022 com. pers.). Es una especie que solo se localiza en Turquía",Paulina Sandoval Huerta
