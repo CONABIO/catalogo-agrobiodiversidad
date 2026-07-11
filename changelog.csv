@@ -6328,3 +6328,7 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2026-06-23,254214ANGIO,Registro editado,comentarios_revision,,"Taxón sin distribución en México, Martínez-Gordillo (com. pers., 2026). Sinónimo de una especie de Argentina, Uruguay y Sud-brasil, o puede ser homonimia de un mom. ilegitimo que si aplicaría a México",Paulina Sandoval Huerta
 2026-06-23,254213ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval Huerta
 2026-06-23,254213ANGIO,Registro editado,comentarios_revision,,"Nombre aplicado a ejemplares de herbario que no fueron corregidos y corresponden a Salvia decora (Bedolla García, 2012; Fragoso Martínez, 2022 com. pers.). No vista en ejemplares de herbarios (Martínez-Gordillo, 2022 com. pers.). Es una especie que solo se localiza en Turquía",Paulina Sandoval Huerta
+2026-07-10,79033ANGIO,Registro editado,id_valido,57885ANGIO,76628ANGIO,Bot validacion
+2026-07-10,79033ANGIO,Registro editado,taxon_valido,Crataegus rosei,Crataegus rosei subsp. parryana,Bot validacion
+2026-07-10,64927ANGIO,Registro editado,id_valido,55807ANGIO,,Bot validacion
+2026-07-10,64927ANGIO,Registro editado,taxon_valido,Agave (Agave) shawii,,Bot validacion
