@@ -149502,3 +149502,172 @@
 | createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 2023-02-20 05:03:09.107+00 | 2023-02-20 05:03:09.107+00 | Diospyros camposii | Aceptado/Válido | 56843ANGIO | Diospyros camposii | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. | Agrobiodiversidad | t |  |  |  | listado-admin |
+
+### 2026-10-28
+**Se edito el registro 26873ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:00:54.396+00 | 2026-10-29 02:15:09.484+00 | Annona lutescens | Aceptado/Válido | 26873ANGIO | Annona lutescens | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:00:54.396+00 | 2026-10-28 23:50:43.338+00 | Annona lutescens | Sinónimo | 26877ANGIO | Annona reticulata | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 30992ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:01:31.704+00 | 2026-10-29 02:15:36.465+00 | Prunus ferruginea | Aceptado/Válido | 30992ANGIO | Prunus ferruginea | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:01:31.704+00 | 2026-10-28 23:49:26.205+00 | Prunus ferruginea | Sinónimo | 57250ANGIO | Prunus zinggii | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 30996ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:01:31.931+00 | 2026-10-29 02:15:13.367+00 | Prunus skutchii | Aceptado/Válido | 30996ANGIO | Prunus skutchii | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:01:31.931+00 | 2026-10-28 23:50:05.684+00 | Prunus skutchii | Sinónimo | 57249ANGIO | Prunus cortapico | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 66379ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:41.578+00 | 2026-10-29 02:15:27.209+00 | Euphorbia chamaesula var. subdentata | Aceptado/Válido | 66379ANGIO | Euphorbia chamaesula var. subdentata | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:41.578+00 | 2026-10-28 23:41:53.393+00 | Euphorbia chamaesula var. subdentata | Sinónimo | 13796ANGIO | Euphorbia chamaesula | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 66447ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:42.544+00 | 2026-10-29 02:15:27.184+00 | Euphorbia polycarpa var. polycarpa | Aceptado/Válido | 66447ANGIO | Euphorbia polycarpa var. polycarpa | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:42.544+00 | 2026-10-28 23:45:34.773+00 | Euphorbia polycarpa var. polycarpa | Sinónimo | 14195ANGIO | Euphorbia polycarpa | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 66476ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:43.308+00 | 2026-10-29 02:15:36.439+00 | Euphorbia theriaca var. theriaca | Aceptado/Válido | 66476ANGIO | Euphorbia theriaca var. theriaca | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:43.308+00 | 2026-10-28 23:46:54.53+00 | Euphorbia theriaca var. theriaca | Sinónimo | 14269ANGIO | Euphorbia theriaca | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 66381ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:41.659+00 | 2026-10-29 02:15:27.233+00 | Euphorbia furcillata var. furcillata | Aceptado/Válido | 66381ANGIO | Euphorbia furcillata var. furcillata | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:41.659+00 | 2026-10-28 23:43:19.727+00 | Euphorbia furcillata var. furcillata | Sinónimo | 13806ANGIO | Euphorbia furcillata | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 28074ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:01:13.886+00 | 2026-10-29 02:15:36.49+00 | Diospyros sphaerantha | Aceptado/Válido | 28074ANGIO | Diospyros sphaerantha | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:01:13.886+00 | 2026-10-28 23:51:39.022+00 | Diospyros sphaerantha | Sinónimo | 28070ANGIO | Diospyros rosei | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 66454ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:42.694+00 | 2026-10-29 02:15:27.425+00 | Euphorbia polycarpa var. mejamia | Aceptado/Válido | 66454ANGIO | Euphorbia polycarpa var. mejamia | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:42.694+00 | 2026-10-28 23:45:18.883+00 | Euphorbia polycarpa var. mejamia | Sinónimo | 14195ANGIO | Euphorbia polycarpa | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 13829ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 04:59:59.97+00 | 2026-10-29 02:15:36.415+00 | Euphorbia palmeri | Aceptado/Válido | 13829ANGIO | Euphorbia palmeri | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 04:59:59.97+00 | 2026-10-28 23:44:04.198+00 | Euphorbia palmeri | Sinónimo | 13823ANGIO | Euphorbia lurida | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 33780ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:01:41.818+00 | 2026-10-29 02:15:36.316+00 | Salvia fluviatilis | Aceptado/Válido | 33780ANGIO | Salvia fluviatilis | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:01:41.818+00 | 2026-10-28 18:41:29.704+00 | Salvia fluviatilis | Sinónimo | 74903ANGIO | Salvia roscida | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 57888ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:18.087+00 | 2026-10-29 02:15:24.91+00 | Prunus barbata | Aceptado/Válido | 57888ANGIO | Prunus barbata | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:18.087+00 | 2026-10-28 23:48:48.699+00 | Prunus barbata | Sinónimo | 35033ANGIO | Prunus rhamnoides | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |
+
+### 2026-10-28
+**Se edito el registro 68063ANGIO.**
+
+**Registro actual:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:47.321+00 | 2026-10-29 02:15:27.803+00 | Ipomoea arborescens var. pachylutea | Aceptado/Válido | 68063ANGIO | Ipomoea arborescens var. pachylutea | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD | Bot validacion |
+
+**Registro anterior:**
+| createdAt | updatedAt | taxon | estatus | id_valido | taxon_valido | referencia | categoria_agrobiodiversidad | es_parientesilvestre | es_domesticado | es_quelite | comentarios_revision | usuario |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2023-02-20 05:03:47.321+00 | 2026-10-28 23:47:47.066+00 | Ipomoea arborescens var. pachylutea | Sinónimo | 27766ANGIO | Ipomoea arborescens | Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225. |  |  |  |  | Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  | Paulina Sandoval |

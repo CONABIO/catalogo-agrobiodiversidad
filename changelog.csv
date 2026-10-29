@@ -6450,3 +6450,55 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2026-10-28,56843ANGIO,Registro editado,taxon_valido,Diospyros camposii,Diospyros juruensis subsp. campechiana,Paulina Sandoval
 2026-10-28,56843ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
 2026-10-28,56843ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,26873ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,26873ANGIO,Registro editado,id_valido,26877ANGIO,26873ANGIO,Bot validacion
+2026-10-28,26873ANGIO,Registro editado,taxon_valido,Annona reticulata,Annona lutescens,Bot validacion
+2026-10-28,26873ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,30992ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,30992ANGIO,Registro editado,id_valido,57250ANGIO,30992ANGIO,Bot validacion
+2026-10-28,30992ANGIO,Registro editado,taxon_valido,Prunus zinggii,Prunus ferruginea,Bot validacion
+2026-10-28,30992ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,30996ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,30996ANGIO,Registro editado,id_valido,57249ANGIO,30996ANGIO,Bot validacion
+2026-10-28,30996ANGIO,Registro editado,taxon_valido,Prunus cortapico,Prunus skutchii,Bot validacion
+2026-10-28,30996ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,66379ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,66379ANGIO,Registro editado,id_valido,13796ANGIO,66379ANGIO,Bot validacion
+2026-10-28,66379ANGIO,Registro editado,taxon_valido,Euphorbia chamaesula,Euphorbia chamaesula var. subdentata,Bot validacion
+2026-10-28,66379ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,66447ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,66447ANGIO,Registro editado,id_valido,14195ANGIO,66447ANGIO,Bot validacion
+2026-10-28,66447ANGIO,Registro editado,taxon_valido,Euphorbia polycarpa,Euphorbia polycarpa var. polycarpa,Bot validacion
+2026-10-28,66447ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,66476ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,66476ANGIO,Registro editado,id_valido,14269ANGIO,66476ANGIO,Bot validacion
+2026-10-28,66476ANGIO,Registro editado,taxon_valido,Euphorbia theriaca,Euphorbia theriaca var. theriaca,Bot validacion
+2026-10-28,66476ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,66381ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,66381ANGIO,Registro editado,id_valido,13806ANGIO,66381ANGIO,Bot validacion
+2026-10-28,66381ANGIO,Registro editado,taxon_valido,Euphorbia furcillata,Euphorbia furcillata var. furcillata,Bot validacion
+2026-10-28,66381ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,28074ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,28074ANGIO,Registro editado,id_valido,28070ANGIO,28074ANGIO,Bot validacion
+2026-10-28,28074ANGIO,Registro editado,taxon_valido,Diospyros rosei,Diospyros sphaerantha,Bot validacion
+2026-10-28,28074ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,66454ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,66454ANGIO,Registro editado,id_valido,14195ANGIO,66454ANGIO,Bot validacion
+2026-10-28,66454ANGIO,Registro editado,taxon_valido,Euphorbia polycarpa,Euphorbia polycarpa var. mejamia,Bot validacion
+2026-10-28,66454ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,13829ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,13829ANGIO,Registro editado,id_valido,13823ANGIO,13829ANGIO,Bot validacion
+2026-10-28,13829ANGIO,Registro editado,taxon_valido,Euphorbia lurida,Euphorbia palmeri,Bot validacion
+2026-10-28,13829ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,33780ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,33780ANGIO,Registro editado,id_valido,74903ANGIO,33780ANGIO,Bot validacion
+2026-10-28,33780ANGIO,Registro editado,taxon_valido,Salvia roscida,Salvia fluviatilis,Bot validacion
+2026-10-28,33780ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,57888ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,57888ANGIO,Registro editado,id_valido,35033ANGIO,57888ANGIO,Bot validacion
+2026-10-28,57888ANGIO,Registro editado,taxon_valido,Prunus rhamnoides,Prunus barbata,Bot validacion
+2026-10-28,57888ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-10-28,68063ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-10-28,68063ANGIO,Registro editado,id_valido,27766ANGIO,68063ANGIO,Bot validacion
+2026-10-28,68063ANGIO,Registro editado,taxon_valido,Ipomoea arborescens,Ipomoea arborescens var. pachylutea,Bot validacion
+2026-10-28,68063ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
