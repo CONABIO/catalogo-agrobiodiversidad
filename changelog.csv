@@ -6332,3 +6332,121 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2026-07-10,79033ANGIO,Registro editado,taxon_valido,Crataegus rosei,Crataegus rosei subsp. parryana,Bot validacion
 2026-07-10,64927ANGIO,Registro editado,id_valido,55807ANGIO,,Bot validacion
 2026-07-10,64927ANGIO,Registro editado,taxon_valido,Agave (Agave) shawii,,Bot validacion
+2026-10-28,58011ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,285176ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,301559ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,13981ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,13792ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,299294ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,299332ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,299952ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,299458ANGIO,Registro nuevo,,,,Paulina Sandoval
+2026-10-28,13791ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,13791ANGIO,Registro editado,taxon_valido,Euphorbia campestris,Euphorbia esuliformis,Paulina Sandoval
+2026-10-28,13791ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,13791ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,28074ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,28074ANGIO,Registro editado,id_valido,28074ANGIO,28070ANGIO,Paulina Sandoval
+2026-10-28,28074ANGIO,Registro editado,taxon_valido,Diospyros sphaerantha,Diospyros rosei,Paulina Sandoval
+2026-10-28,28074ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,28074ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,66381ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,66381ANGIO,Registro editado,id_valido,66381ANGIO,13806ANGIO,Paulina Sandoval
+2026-10-28,66381ANGIO,Registro editado,taxon_valido,Euphorbia furcillata var. furcillata,Euphorbia furcillata,Paulina Sandoval
+2026-10-28,66381ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,66381ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,58021ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,58021ANGIO,Registro editado,taxon_valido,Physalis puberula,Physalis (Rydbergis) chenopodifolia,Paulina Sandoval
+2026-10-28,58021ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,58021ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,28057ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,28057ANGIO,Registro editado,taxon_valido,Diospyros campechiana,Diospyros juruensis subsp. campechiana,Paulina Sandoval
+2026-10-28,28057ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,28057ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,66379ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,66379ANGIO,Registro editado,id_valido,66379ANGIO,13796ANGIO,Paulina Sandoval
+2026-10-28,66379ANGIO,Registro editado,taxon_valido,Euphorbia chamaesula var. subdentata,Euphorbia chamaesula,Paulina Sandoval
+2026-10-28,66379ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,66379ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,30996ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,30996ANGIO,Registro editado,id_valido,30996ANGIO,57249ANGIO,Paulina Sandoval
+2026-10-28,30996ANGIO,Registro editado,taxon_valido,Prunus skutchii,Prunus cortapico,Paulina Sandoval
+2026-10-28,30996ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,30996ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,18153ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,18153ANGIO,Registro editado,taxon_valido,Rytidostylis longisepala,Cyclanthera longisepala,Paulina Sandoval
+2026-10-28,18153ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,18153ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,13829ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,13829ANGIO,Registro editado,id_valido,13829ANGIO,13823ANGIO,Paulina Sandoval
+2026-10-28,13829ANGIO,Registro editado,taxon_valido,Euphorbia palmeri,Euphorbia lurida,Paulina Sandoval
+2026-10-28,13829ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,13829ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,68063ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,68063ANGIO,Registro editado,id_valido,68063ANGIO,27766ANGIO,Paulina Sandoval
+2026-10-28,68063ANGIO,Registro editado,taxon_valido,Ipomoea arborescens var. pachylutea,Ipomoea arborescens,Paulina Sandoval
+2026-10-28,68063ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,68063ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,66478ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,66478ANGIO,Registro editado,taxon_valido,Euphorbia theriaca var. spurca,Euphorbia spurca,Paulina Sandoval
+2026-10-28,66478ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,66478ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,72671ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,72671ANGIO,Registro editado,taxon_valido,Passiflora foetida var. oaxacana,Passiflora oaxacana,Paulina Sandoval
+2026-10-28,72671ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,72671ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,66447ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,66447ANGIO,Registro editado,id_valido,66447ANGIO,14195ANGIO,Paulina Sandoval
+2026-10-28,66447ANGIO,Registro editado,taxon_valido,Euphorbia polycarpa var. polycarpa,Euphorbia polycarpa,Paulina Sandoval
+2026-10-28,66447ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,66447ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,26873ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,26873ANGIO,Registro editado,id_valido,26873ANGIO,26877ANGIO,Paulina Sandoval
+2026-10-28,26873ANGIO,Registro editado,taxon_valido,Annona lutescens,Annona reticulata,Paulina Sandoval
+2026-10-28,26873ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,26873ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,72387ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,72387ANGIO,Registro editado,taxon_valido,Physalis (Rydbergis) (Viscosa) cinerascens var. spathulifolia,Physalis spathulifolia,Paulina Sandoval
+2026-10-28,72387ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,72387ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,14015ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,14015ANGIO,Registro editado,taxon_valido,Euphorbia feddemae,Euphorbia boliviana,Paulina Sandoval
+2026-10-28,14015ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,14015ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,14310ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,14310ANGIO,Registro editado,taxon_valido,Euphorbia yucatanensis,Euphorbia cozumelensis,Paulina Sandoval
+2026-10-28,14310ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,14310ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,66476ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,66476ANGIO,Registro editado,id_valido,66476ANGIO,14269ANGIO,Paulina Sandoval
+2026-10-28,66476ANGIO,Registro editado,taxon_valido,Euphorbia theriaca var. theriaca,Euphorbia theriaca,Paulina Sandoval
+2026-10-28,66476ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,66476ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,30992ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,30992ANGIO,Registro editado,id_valido,30992ANGIO,57250ANGIO,Paulina Sandoval
+2026-10-28,30992ANGIO,Registro editado,taxon_valido,Prunus ferruginea,Prunus zinggii,Paulina Sandoval
+2026-10-28,30992ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,30992ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,57888ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,57888ANGIO,Registro editado,id_valido,57888ANGIO,35033ANGIO,Paulina Sandoval
+2026-10-28,57888ANGIO,Registro editado,taxon_valido,Prunus barbata,Prunus rhamnoides,Paulina Sandoval
+2026-10-28,57888ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,57888ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,66454ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,66454ANGIO,Registro editado,id_valido,66454ANGIO,14195ANGIO,Paulina Sandoval
+2026-10-28,66454ANGIO,Registro editado,taxon_valido,Euphorbia polycarpa var. mejamia,Euphorbia polycarpa,Paulina Sandoval
+2026-10-28,66454ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,66454ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,66382ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,66382ANGIO,Registro editado,taxon_valido,Euphorbia furcillata var. ribana,Euphorbia esuliformis,Paulina Sandoval
+2026-10-28,66382ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,66382ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
+2026-10-28,33780ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,33780ANGIO,Registro editado,id_valido,33780ANGIO,74903ANGIO,Paulina Sandoval
+2026-10-28,33780ANGIO,Registro editado,taxon_valido,Salvia fluviatilis,Salvia roscida,Paulina Sandoval
+2026-10-28,33780ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,33780ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo",Paulina Sandoval
+2026-10-28,56843ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Paulina Sandoval
+2026-10-28,56843ANGIO,Registro editado,taxon_valido,Diospyros camposii,Diospyros juruensis subsp. campechiana,Paulina Sandoval
+2026-10-28,56843ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Paulina Sandoval
+2026-10-28,56843ANGIO,Registro editado,comentarios_revision,,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ",Paulina Sandoval
