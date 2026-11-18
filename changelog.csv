@@ -6502,3 +6502,121 @@ Fecha, ID, Tipo cambio, Campo, Valor anterior, Valor actual, Usuario
 2026-10-28,68063ANGIO,Registro editado,id_valido,27766ANGIO,68063ANGIO,Bot validacion
 2026-10-28,68063ANGIO,Registro editado,taxon_valido,Ipomoea arborescens,Ipomoea arborescens var. pachylutea,Bot validacion
 2026-10-28,68063ANGIO,Registro editado,comentarios_revision,"Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo. ","Se quitó la etiqueta agrobiodiversidad, se cambió su estatus a sinónimo.  - REVISAR ETIQUETA AGROBIODIVERSIDAD",Bot validacion
+2026-11-17,231278ANGIO,Registro nuevo,,,,Bot validacion
+2026-11-17,286724ANGIO,Registro nuevo,,,,Bot validacion
+2026-11-17,299299ANGIO,Registro nuevo,,,,Bot validacion
+2026-11-17,303958ANGIO,Registro nuevo,,,,Bot validacion
+2026-11-17,30992ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,30992ANGIO,Registro editado,id_valido,30992ANGIO,57250ANGIO,Bot validacion
+2026-11-17,30992ANGIO,Registro editado,taxon_valido,Prunus ferruginea,Prunus zinggii,Bot validacion
+2026-11-17,78443ANGIO,Registro editado,referencia,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",El taxón pertenece a la categoría de Consumo humano en el Catálogo de acuerdo a consulta en Enciclovida.,Bot validacion
+2026-11-17,18153ANGIO,Registro editado,id_valido,18153ANGIO,299294ANGIO,Bot validacion
+2026-11-17,299952ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,13792ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,74878ANGIO,Registro editado,taxon,Salvia x palmeri,Salvia palmeri,Bot validacion
+2026-11-17,28057ANGIO,Registro editado,id_valido,28057ANGIO,285176ANGIO,Bot validacion
+2026-11-17,13804ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,13804ANGIO,Registro editado,id_valido,13804ANGIO,58101ANGIO,Bot validacion
+2026-11-17,13804ANGIO,Registro editado,taxon_valido,Euphorbia elata,Euphorbia sinclairiana,Bot validacion
+2026-11-17,13804ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,13981ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,64927ANGIO,Registro editado,estatus,Sinónimo,Aceptado/Válido,Bot validacion
+2026-11-17,64927ANGIO,Registro editado,id_valido,,64927ANGIO,Bot validacion
+2026-11-17,64927ANGIO,Registro editado,taxon_valido,,Agave (Agave) shawii subsp. shawii,Bot validacion
+2026-11-17,64927ANGIO,Registro editado,comentarios_revision, - REVISAR ETIQUETA AGROBIODIVERSIDAD, - REVISAR ETIQUETA AGROBIODIVERSIDAD - REVISAR ETIQUETA AGROBIODIVERSIDAD,Bot validacion
+2026-11-17,299458ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,66379ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,66379ANGIO,Registro editado,id_valido,66379ANGIO,13796ANGIO,Bot validacion
+2026-11-17,66379ANGIO,Registro editado,taxon_valido,Euphorbia chamaesula var. subdentata,Euphorbia chamaesula,Bot validacion
+2026-11-17,26873ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,26873ANGIO,Registro editado,id_valido,26873ANGIO,26877ANGIO,Bot validacion
+2026-11-17,26873ANGIO,Registro editado,taxon_valido,Annona lutescens,Annona reticulata,Bot validacion
+2026-11-17,30996ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,30996ANGIO,Registro editado,id_valido,30996ANGIO,57249ANGIO,Bot validacion
+2026-11-17,30996ANGIO,Registro editado,taxon_valido,Prunus skutchii,Prunus cortapico,Bot validacion
+2026-11-17,28077ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,28077ANGIO,Registro editado,id_valido,28077ANGIO,78443ANGIO,Bot validacion
+2026-11-17,28077ANGIO,Registro editado,taxon_valido,Diospyros xolocotzii,Diospyros johnstoniana,Bot validacion
+2026-11-17,28077ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,76891ANGIO,Registro editado,taxon,Manihot carthaginensis,Manihot carthagenensis,Bot validacion
+2026-11-17,58011ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,58021ANGIO,Registro editado,id_valido,58021ANGIO,58011ANGIO,Bot validacion
+2026-11-17,66382ANGIO,Registro editado,id_valido,66382ANGIO,13792ANGIO,Bot validacion
+2026-11-17,66381ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,66381ANGIO,Registro editado,id_valido,66381ANGIO,13806ANGIO,Bot validacion
+2026-11-17,66381ANGIO,Registro editado,taxon_valido,Euphorbia furcillata var. furcillata,Euphorbia furcillata,Bot validacion
+2026-11-17,68176ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,68176ANGIO,Registro editado,id_valido,68176ANGIO,30389ANGIO,Bot validacion
+2026-11-17,68176ANGIO,Registro editado,taxon_valido,Passiflora suberosa var. longipes,Passiflora suberosa,Bot validacion
+2026-11-17,68176ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,26659ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,26659ANGIO,Registro editado,id_valido,26659ANGIO,303958ANGIO,Bot validacion
+2026-11-17,26659ANGIO,Registro editado,taxon_valido,Matelea crenata,Polystemma fuscum,Bot validacion
+2026-11-17,26659ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,34562ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,34562ANGIO,Registro editado,id_valido,34562ANGIO,76229ANGIO,Bot validacion
+2026-11-17,34562ANGIO,Registro editado,taxon_valido,Passiflora trisetosa,Passiflora jorullensis,Bot validacion
+2026-11-17,34562ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,66466ANGIO,Registro editado,taxon,Euphorbia serpillifolia var. serpyllifolia,Euphorbia serpillifolia var. serpillifolia,Bot validacion
+2026-11-17,66478ANGIO,Registro editado,id_valido,66478ANGIO,299332ANGIO,Bot validacion
+2026-11-17,57154ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,57154ANGIO,Registro editado,id_valido,57154ANGIO,77221ANGIO,Bot validacion
+2026-11-17,57154ANGIO,Registro editado,taxon_valido,Passiflora obtusifolia,Passiflora sexocellata,Bot validacion
+2026-11-17,57154ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,57888ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,57888ANGIO,Registro editado,id_valido,57888ANGIO,35033ANGIO,Bot validacion
+2026-11-17,57888ANGIO,Registro editado,taxon_valido,Prunus barbata,Prunus rhamnoides,Bot validacion
+2026-11-17,232489ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,232489ANGIO,Registro editado,id_valido,232489ANGIO,231278ANGIO,Bot validacion
+2026-11-17,232489ANGIO,Registro editado,taxon_valido,Manihot angustifolia,Cnidoscolus angustidens subsp. angustidens,Bot validacion
+2026-11-17,232489ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,66447ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,66447ANGIO,Registro editado,id_valido,66447ANGIO,14195ANGIO,Bot validacion
+2026-11-17,66447ANGIO,Registro editado,taxon_valido,Euphorbia polycarpa var. polycarpa,Euphorbia polycarpa,Bot validacion
+2026-11-17,33037ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,33037ANGIO,Registro editado,id_valido,33037ANGIO,286724ANGIO,Bot validacion
+2026-11-17,33037ANGIO,Registro editado,taxon_valido,Cleome pilosa,Cochranella pilosa,Bot validacion
+2026-11-17,33037ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,72387ANGIO,Registro editado,id_valido,72387ANGIO,299952ANGIO,Bot validacion
+2026-11-17,299332ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,72671ANGIO,Registro editado,id_valido,72671ANGIO,299458ANGIO,Bot validacion
+2026-11-17,56843ANGIO,Registro editado,id_valido,56843ANGIO,285176ANGIO,Bot validacion
+2026-11-17,1173REPTI,Registro editado,taxon,Kinosternon integrum,Kinosternon (Kinosternon) integrum,Bot validacion
+2026-11-17,72669ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,72669ANGIO,Registro editado,id_valido,72669ANGIO,34534ANGIO,Bot validacion
+2026-11-17,72669ANGIO,Registro editado,taxon_valido,Passiflora foetida var. hibiscifolia,Passiflora ciliata,Bot validacion
+2026-11-17,72669ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,55985ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,55985ANGIO,Registro editado,id_valido,55985ANGIO,299299ANGIO,Bot validacion
+2026-11-17,55985ANGIO,Registro editado,taxon_valido,Justicia candicans,Dianthera candicans,Bot validacion
+2026-11-17,55985ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,13829ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,13829ANGIO,Registro editado,id_valido,13829ANGIO,13823ANGIO,Bot validacion
+2026-11-17,13829ANGIO,Registro editado,taxon_valido,Euphorbia palmeri,Euphorbia lurida,Bot validacion
+2026-11-17,64453ANGIO,Registro editado,taxon,Salvia polystachia subsp. polystachya,Salvia polystachia subsp. polystachia,Bot validacion
+2026-11-17,28074ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,28074ANGIO,Registro editado,id_valido,28074ANGIO,28070ANGIO,Bot validacion
+2026-11-17,28074ANGIO,Registro editado,taxon_valido,Diospyros sphaerantha,Diospyros rosei,Bot validacion
+2026-11-17,301559ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,68063ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,68063ANGIO,Registro editado,id_valido,68063ANGIO,27766ANGIO,Bot validacion
+2026-11-17,68063ANGIO,Registro editado,taxon_valido,Ipomoea arborescens var. pachylutea,Ipomoea arborescens,Bot validacion
+2026-11-17,13816ANGIO,Registro editado,taxon,Euphorbia longicornuta,Euphorbia longecornuta,Bot validacion
+2026-11-17,285176ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,66476ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,66476ANGIO,Registro editado,id_valido,66476ANGIO,14269ANGIO,Bot validacion
+2026-11-17,66476ANGIO,Registro editado,taxon_valido,Euphorbia theriaca var. theriaca,Euphorbia theriaca,Bot validacion
+2026-11-17,14310ANGIO,Registro editado,id_valido,14310ANGIO,13981ANGIO,Bot validacion
+2026-11-17,33780ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,33780ANGIO,Registro editado,id_valido,33780ANGIO,74903ANGIO,Bot validacion
+2026-11-17,33780ANGIO,Registro editado,taxon_valido,Salvia fluviatilis,Salvia roscida,Bot validacion
+2026-11-17,14015ANGIO,Registro editado,id_valido,14015ANGIO,301559ANGIO,Bot validacion
+2026-11-17,76779ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,76779ANGIO,Registro editado,id_valido,76779ANGIO,,Bot validacion
+2026-11-17,76779ANGIO,Registro editado,taxon_valido,Pourouma aspera,,Bot validacion
+2026-11-17,76779ANGIO,Registro editado,categoria_agrobiodiversidad,Agrobiodiversidad,,Bot validacion
+2026-11-17,299294ANGIO,Registro editado,referencia,,"Goettsch, Bárbara, Tania Urquiza-Haas, Patricia Koleff,, et al. 2021. “Extinction Risk of Mesoamerican Crop Wild Relatives.” PLANTS, PEOPLE, PLANET, September, ppp3.10225. https://doi.org/10.1002/ppp3.10225.",Bot validacion
+2026-11-17,13791ANGIO,Registro editado,id_valido,13791ANGIO,13792ANGIO,Bot validacion
+2026-11-17,66454ANGIO,Registro editado,estatus,Aceptado/Válido,Sinónimo,Bot validacion
+2026-11-17,66454ANGIO,Registro editado,id_valido,66454ANGIO,14195ANGIO,Bot validacion
+2026-11-17,66454ANGIO,Registro editado,taxon_valido,Euphorbia polycarpa var. mejamia,Euphorbia polycarpa,Bot validacion
